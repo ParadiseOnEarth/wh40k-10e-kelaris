@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="e0af-67df-9d63-8fb7" name="Imperium - Adeptus Astartes - Space Marines" revision="167" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue" authorName="Acebaur">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="f6a5-cb2c-2c9b-d0bb" name="Imperium - Adeptus Astartes - Space Marines" revision="168" battleScribeVersion="2.03" library="false" gameSystemId="98c5-f30b-fc9b-3d1b" gameSystemRevision="1" type="catalogue" authorName="Acebaur">
   <categoryEntries>
     <categoryEntry id="5179-8ede-45e3-49a2" name="Tacticus" hidden="false"/>
     <categoryEntry id="930d-2875-125b-a65e" name="Bladeguard Veteran Squad" hidden="false"/>
@@ -147,7 +147,7 @@
     <entryLink import="true" name="Ancient in Terminator Armor" hidden="false" type="selectionEntry" id="13b9-6251-7254-4b83" targetId="fc7f-8176-c10c-ca8"/>
     <entryLink import="true" name="Apothecary Biologis" hidden="false" type="selectionEntry" id="63c3-df64-ac9f-cae" targetId="c6e9-c0c8-5f13-5771"/>
     <entryLink import="true" name="Assault Intercessor Squad" hidden="false" type="selectionEntry" id="c432-5254-8a25-6c8a" targetId="a10b-fbfe-b1fa-6f0c"/>
-    <entryLink import="true" name="Assault Squad [Legends]" hidden="false" type="selectionEntry" id="db5-450b-5c4b-5743" targetId="ca4e-47d5-a704-8e5a">
+    <entryLink import="true" name="Assault Squad" hidden="false" type="selectionEntry" id="db5-450b-5c4b-5743" targetId="ca4e-47d5-a704-8e5a">
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditionGroups>
@@ -13073,7 +13073,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="90a9-71be-58d7-64d3"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="336f-46ab-21be-1499" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="336f-46ab-21be-1499" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7507-14e2-3d6c-b894"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9217-c666-746f-97db"/>
@@ -13094,7 +13094,7 @@ by 1.</characteristic>
               </profiles>
               <constraints>
                 <constraint type="min" value="4" field="selections" scope="parent" shared="true" id="41b2-ffaa-7690-4231"/>
-                <constraint type="min" value="9" field="selections" scope="parent" shared="true" id="ce33-e8a8-83ee-1776"/>
+                <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="ce33-e8a8-83ee-1776"/>
               </constraints>
             </selectionEntry>
           </selectionEntries>
@@ -46890,10 +46890,10 @@ Until the end of the phase, this model&apos;s melee weapons have that ability.</
     </selectionEntryGroup>
   </sharedSelectionEntryGroups>
   <catalogueLinks>
-    <catalogueLink type="catalogue" name="Imperium - Agents of the Imperium" id="c047-b43d-ba0f-5f32" targetId="b00-cd86-4b4c-97ba" importRootEntries="true"/>
-    <catalogueLink type="catalogue" name="Library - Titans" id="896f-5094-b2f2-8aa8" targetId="7481-280e-b55e-7867" importRootEntries="true"/>
-    <catalogueLink type="catalogue" name="Imperium - Imperial Knights - Library" id="e24b-8767-615b-7565" targetId="1b6d-dc06-5db9-c7d1" importRootEntries="true"/>
-    <catalogueLink type="catalogue" name="Library - Astartes Heresy Legends" id="9e7d-2e90-7a2c-3130" targetId="ac3b-689c-4ad4-70cb" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Imperium - Agents of the Imperium" id="c047-b43d-ba0f-5f32" targetId="0249-41d0-c3a8-cbd4" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Library - Titans" id="896f-5094-b2f2-8aa8" targetId="36ba-6e6d-b001-ef78" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Imperium - Imperial Knights - Library" id="e24b-8767-615b-7565" targetId="31e7-63a9-6fcd-fa7a" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Library - Astartes Heresy Legends" id="9e7d-2e90-7a2c-3130" targetId="f9cf-33a5-8761-4ae4" importRootEntries="true"/>
   </catalogueLinks>
   <profileTypes>
     <profileType name="Deeds Worthy of Saga" hidden="false" id="cc48-131-6c21-72f1">

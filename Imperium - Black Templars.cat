@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="36d3-36bc-68dd-40ac" name="Imperium - Adeptus Astartes - Black Templars" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" revision="51" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="4ea7-eb1f-acb6-47bc" name="Imperium - Adeptus Astartes - Black Templars" gameSystemId="98c5-f30b-fc9b-3d1b" gameSystemRevision="1" revision="51" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur">
   <catalogueLinks>
-    <catalogueLink type="catalogue" name="Imperium - Space Marines" id="2137-605d-109a-d3b2" targetId="e0af-67df-9d63-8fb7" importRootEntries="true"/>
+    <catalogueLink type="catalogue" name="Imperium - Space Marines" id="2137-605d-109a-d3b2" targetId="f6a5-cb2c-2c9b-d0bb" importRootEntries="true"/>
   </catalogueLinks>
   <entryLinks>
     <entryLink import="true" name="Chaplain Grimaldus" hidden="false" type="selectionEntry" id="524-c0e0-88a9-bc11" targetId="8165-e372-4fd6-3274">
