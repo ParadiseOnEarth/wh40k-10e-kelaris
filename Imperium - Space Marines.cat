@@ -29137,6 +29137,13 @@ You can attach this model to one of the above units even if one Captain, Chapte
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
+      <modifiers>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
+      </modifiers>
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Chainfist" hidden="false" id="5a2-c6a5-9b4b-605f" collective="false">
       <profiles>
