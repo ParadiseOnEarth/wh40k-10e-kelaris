@@ -140,6 +140,7 @@
     <categoryEntry name="Power Fist Weapon" id="0241-18a2-8ea4-2341" hidden="true"/>
     <categoryEntry name="Power Weapon" id="72a2-ff76-451c-9d12" hidden="true"/>
     <categoryEntry name="Bolt Weapon" id="1c08-e7e4-55b9-8e30" hidden="true"/>
+    <categoryEntry name="Tartaros Terminator Squad" id="d9b9-ef52-ad6d-dacf" hidden="false"/>
   </categoryEntries>
   <entryLinks>
     <entryLink import="true" name="Detachment" hidden="false" type="selectionEntry" id="e9ed-6763-ea0d-39fe" targetId="82cb-ba1-1aae-3b1d"/>
@@ -2701,6 +2702,7 @@
         <entryLink import="true" name="Shadow Operations" hidden="false" id="1e97-6ae1-1f87-734c" type="selectionEntryGroup" targetId="68a2-ada5-3cd4-c5a3"/>
       </entryLinks>
     </entryLink>
+    <entryLink import="true" name="Tartaros Terminator Squad" hidden="false" type="selectionEntry" id="7c15-29a0-3ff6-c567" targetId="11a9-0927-e210-25f0"/>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="caa-f869-3cbd-b48e" name="Warlord" hidden="false" collective="false" import="true" type="upgrade">
