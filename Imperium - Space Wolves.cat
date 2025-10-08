@@ -11101,7 +11101,7 @@ a Transport</characteristic>
     <entryLink import="true" name="Wolf Guard Headtakers" hidden="false" id="3e0e-a813-a6ff-e8e9" type="selectionEntry" targetId="0f93-6850-8f14-a351">
       <comment>Crusade variant</comment>
     </entryLink>
-    <entryLink import="true" name="Wolf Lord" hidden="true" type="selectionEntry" id="a165-23b5-7c2e-cba4" targetId="3028-b4cd-6fb1-cc5c"/>
+    <entryLink import="true" name="Wolf Lord" hidden="false" id="cf81-bea6-c34b-f69d" type="selectionEntry" targetId="3028-b4cd-6fb1-cc5c"/>
   </entryLinks>
   <sharedInfoGroups>
     <infoGroup name="Logan" hidden="false" id="976-2d16-9324-f92">
