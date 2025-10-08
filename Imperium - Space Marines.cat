@@ -7540,6 +7540,11 @@ Strategic Reserves.</characteristic>
             <condition type="atLeast" value="6" field="selections" scope="9a96-8de3-f4aa-7497" childId="18e4-14af-e7e1-19d0" shared="true" id="9225-8b92-4e9e-341c"/>
           </conditions>
         </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="4439-7609-7349-e044" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1"/>
@@ -7752,6 +7757,11 @@ Strategic Reserves.</characteristic>
             <condition type="instanceOf" value="0" field="selections" scope="primary-catalogue" childId="5c65-0e59-4f6f-f8c9" shared="true" includeChildSelections="false" includeChildForces="false"/>
           </conditions>
         </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
       </modifiers>
       <infoLinks>
         <infoLink name="Invulnerable Save" hidden="false" type="profile" id="4292-af46-83c7-dfe0" targetId="db19-dee7-9530-ef0e"/>
@@ -7870,6 +7880,11 @@ Strategic Reserves.</characteristic>
         <modifier type="add" value="e21f-8e64-c5d-7df0" field="category">
           <conditions>
             <condition type="instanceOf" value="0" field="selections" scope="primary-catalogue" childId="5c65-0e59-4f6f-f8c9" shared="true" includeChildSelections="false" includeChildForces="false"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -8131,6 +8146,11 @@ Strategic Reserves.</characteristic>
         <modifier type="set" value="200" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="f1b9-b2e8-4ccf-d6cb" childId="model" shared="true" id="c465-ba04-3a7-cc0a" includeChildSelections="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -8591,6 +8611,11 @@ Strategic Reserves.</characteristic>
         <modifier type="set" value="true" field="hidden">
           <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="da04-805b-9fa5-26e7" shared="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -15076,6 +15101,11 @@ by 1.</characteristic>
         <modifier type="set" value="true" field="hidden">
           <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="652f-c6c3-a00f-7244" shared="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -24628,6 +24658,10 @@ You can attach this model to a unit it can lead units even if one Captain or Ch
         <modifier type="set" value="true" field="hidden">
           <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="da04-805b-9fa5-26e7" shared="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
@@ -25127,6 +25161,11 @@ model is within 12&quot;.</characteristic>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="da04-805b-9fa5-26e7" shared="true"/>
           </conditions>
         </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
       </modifiers>
       <modifierGroups>
         <modifierGroup type="and">
@@ -25343,6 +25382,11 @@ model is within 12&quot;.</characteristic>
         <modifier type="set" value="true" field="hidden">
           <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="da04-805b-9fa5-26e7" shared="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -25567,6 +25611,13 @@ model is within 12&quot;.</characteristic>
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
+      <modifiers>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
+      </modifiers>
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Crozius Arcanum" hidden="false" id="871-d25c-e7b3-5dfc">
       <profiles>
@@ -25712,6 +25763,11 @@ model is within 12&quot;.</characteristic>
             <condition type="instanceOf" value="0" field="selections" scope="primary-catalogue" childId="5c65-0e59-4f6f-f8c9" shared="true" includeChildSelections="false" includeChildForces="false"/>
           </conditions>
         </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
       </modifiers>
       <modifierGroups>
         <modifierGroup type="and">
@@ -25845,6 +25901,11 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
         <modifier type="add" value="e9c7-1590-1bda-bf7f" field="category">
           <conditions>
             <condition type="instanceOf" value="0" field="selections" scope="primary-catalogue" childId="5c65-0e59-4f6f-f8c9" shared="true" includeChildSelections="false" includeChildForces="false"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -26157,6 +26218,13 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
+      <modifiers>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
+      </modifiers>
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Techmarine" hidden="false" id="e671-cd3a-2b03-3954">
       <infoLinks>
@@ -30862,6 +30930,11 @@ You can attach this model to one of the above units even if one Captain, Chapte
             <condition type="instanceOf" value="0" field="selections" scope="primary-catalogue" childId="5c65-0e59-4f6f-f8c9" shared="true" includeChildSelections="false" includeChildForces="false"/>
           </conditions>
         </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
       </modifiers>
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3721-4a78-c50b-d9cc" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1"/>
@@ -34387,6 +34460,11 @@ Attacks characteristic of 7.</characteristic>
         <modifier type="set" value="true" field="hidden">
           <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="da04-805b-9fa5-26e7" shared="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
