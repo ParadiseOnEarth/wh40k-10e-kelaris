@@ -12,7 +12,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -47,7 +47,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -56,7 +56,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -65,7 +65,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -74,7 +74,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -83,7 +83,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -92,7 +92,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -101,7 +101,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -110,7 +110,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -119,7 +119,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -128,7 +128,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -137,7 +137,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -146,7 +146,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -155,7 +155,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -164,7 +164,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -173,7 +173,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -182,7 +182,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -191,7 +191,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -200,7 +200,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -209,7 +209,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -218,7 +218,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -228,7 +228,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set-primary" value="887b-ab87-92a2-20f5" field="category">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -466,7 +466,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -539,7 +539,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -777,7 +777,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -1006,7 +1006,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -1213,7 +1213,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -1383,7 +1383,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -1635,7 +1635,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildForces="true" includeChildSelections="true"/>
               </conditions>
             </conditionGroup>
@@ -1924,7 +1924,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -2184,7 +2184,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -2318,7 +2318,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildForces="true" includeChildSelections="true"/>
               </conditions>
             </conditionGroup>
@@ -2574,7 +2574,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -2761,7 +2761,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -3055,7 +3055,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -3509,7 +3509,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -3668,7 +3668,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -3880,7 +3880,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -4111,7 +4111,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -4436,7 +4436,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -4848,7 +4848,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -5127,7 +5127,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -5504,7 +5504,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildSelections="true" includeChildForces="true"/>
               </conditions>
             </conditionGroup>
@@ -5628,7 +5628,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
         <modifier type="set" value="0" field="b9f3-1d46-c204-6fe7"/>
@@ -5794,7 +5794,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="or">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="instanceOf" value="1" field="selections" scope="force" childId="cac3-71d1-ea4b-795d" shared="true" includeChildSelections="true"/>
               </conditions>
             </conditionGroup>
@@ -5888,7 +5888,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
           <conditionGroups>
             <conditionGroup type="and">
               <conditions>
-                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+                <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
                 <condition type="lessThan" value="1" field="selections" scope="roster" childId="e82c-6f8c-2b97-a287" shared="true" includeChildForces="true" includeChildSelections="true"/>
               </conditions>
             </conditionGroup>
@@ -6968,7 +6968,7 @@ The first time your selected Deed is completed your Oath is fulfilled and, until
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
         <modifier type="set" value="-1" field="aff1-9a43-882b-f046">
@@ -7116,7 +7116,7 @@ The Qualities from Oaths you have fulfilled continue to apply to all models in y
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -7126,7 +7126,7 @@ The Qualities from Oaths you have fulfilled continue to apply to all models in y
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="25dd-7aa0-6bf4-f2d5" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="cc1f-865c-c08e-9a2e" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>

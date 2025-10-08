@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="86e4-524b-39b5-bc81" name="Xenos - Tyranids" revision="109" battleScribeVersion="2.03" library="false" gameSystemId="eaf8-d2ba-045e-07d4" gameSystemRevision="1" type="catalogue" authorName="Dunamis55">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="86e4-524b-39b5-bc81" name="Xenos - Tyranids" revision="110" battleScribeVersion="2.03" library="false" gameSystemId="eaf8-d2ba-045e-07d4" gameSystemRevision="1" type="catalogue" authorName="Dunamis55">
   <categoryEntries>
     <categoryEntry name="Synapse" hidden="false" id="4129-a453-686a-d38a"/>
     <categoryEntry id="4f10-fe01-4b80-8d6b" name="Winged Hive Tyrant" hidden="false"/>
@@ -450,7 +450,7 @@
         </modifier>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="b984-7317-81cc-20f" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="86e4-524b-39b5-bc81" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -1071,7 +1071,7 @@
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="b984-7317-81cc-20f" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="86e4-524b-39b5-bc81" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -12641,7 +12641,7 @@ In the Muster Armies step, you can select up to 2 **^^Trygon^^** models from y
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="b984-7317-81cc-20f" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="86e4-524b-39b5-bc81" shared="true"/>
           </conditions>
         </modifier>
         <modifier type="set" value="-1" field="4856-7562-fc89-349b">
@@ -13602,7 +13602,7 @@ In the Muster Armies step, you can select up to 2 **^^Trygon^^** models from y
         </modifier>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="b984-7317-81cc-20f" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="86e4-524b-39b5-bc81" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -13857,7 +13857,7 @@ In the Muster Armies step, you can select up to 2 **^^Trygon^^** models from y
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
-            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="b984-7317-81cc-20f" shared="true"/>
+            <condition type="notInstanceOf" value="1" field="selections" scope="primary-catalogue" childId="86e4-524b-39b5-bc81" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
