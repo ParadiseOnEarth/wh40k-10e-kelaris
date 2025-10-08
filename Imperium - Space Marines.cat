@@ -13243,6 +13243,11 @@ by 1.</characteristic>
             <condition type="atLeast" value="6" field="selections" scope="ca4e-47d5-a704-8e5a" childId="69fc-472b-e77b-fab8" shared="true" id="ad73-679-da71-2b43"/>
           </conditions>
         </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
       </modifiers>
       <profiles>
         <profile name="Shock Assault" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e865-1963-3fc1-1d05">
@@ -13680,6 +13685,11 @@ by 1.</characteristic>
         <modifier type="set" value="170" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="bfe7-b726-9158-d5ad" childId="220a-fd5c-42e7-2e65" shared="true" id="ad73-679-da71-2b43" includeChildSelections="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -31883,6 +31893,11 @@ You can attach this model to one of the above units even if one Captain, Chapte
         <modifier type="add" value="e21f-8e64-c5d-7df0" field="category">
           <conditions>
             <condition type="instanceOf" value="0" field="selections" scope="primary-catalogue" childId="5c65-0e59-4f6f-f8c9" shared="true" includeChildSelections="false" includeChildForces="false"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>

@@ -6203,7 +6203,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         </modifierGroup>
       </modifierGroups>
     </selectionEntry>
-    <selectionEntry type="model" import="true" name="Stormfang Gunship [Legends]" hidden="false" id="3b8b-19bb-1855-98c5">
+    <selectionEntry type="model" import="true" name="Stormfang Gunship" hidden="false" id="3b8b-19bb-1855-98c5">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="300"/>
       </costs>
@@ -6463,13 +6463,6 @@ You can attach this model to one of the above units even if one Captain or Chap
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-      <modifiers>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="2c60-f8b0-4e78-65c7" includeChildSelections="true" includeChildForces="true"/>
-          </conditions>
-        </modifier>
-      </modifiers>
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Stormwolf" hidden="false" id="b85d-d565-d3a4-8f8b">
       <costs>
@@ -12017,24 +12010,24 @@ a Transport</characteristic>
     <entryLink import="true" name="Krom Dragongaze [Legends]" hidden="true" type="selectionEntry" id="67e8-1fd4-ceff-2375" targetId="af71-2b1b-2eee-d2be"/>
     <entryLink import="true" name="Harald Deathwolf [Legends]" hidden="true" type="selectionEntry" id="6c2c-f5a3-41d6-3b93" targetId="7d72-63bf-a5f2-bb6c"/>
     <entryLink import="true" name="Canis Wolfborn [Legends]" hidden="true" type="selectionEntry" id="5bd6-7d06-3210-f614" targetId="d63f-bf2c-d38b-58c0"/>
-    <entryLink import="true" name="Wolf Guard Battle Leader in Terminator Armour [Legends]" hidden="true" type="selectionEntry" id="a99b-7a34-a186-8320" targetId="bcab-c09a-6584-3b26"/>
-    <entryLink import="true" name="Wolf Lord on Thunderwolf [Legends]" hidden="true" type="selectionEntry" id="5a1f-b53-3b2a-2591" targetId="295-5df2-e140-7266"/>
-    <entryLink import="true" name="Wolf Guard Battle Leader on Thunderwolf [Legends]" hidden="true" type="selectionEntry" id="f673-43ae-9348-61fd" targetId="6ec-fcf9-ebb6-7c55"/>
+    <entryLink import="true" name="Wolf Guard Battle Leader in Terminator Armour [Legends]" hidden="false" type="selectionEntry" id="a99b-7a34-a186-8320" targetId="bcab-c09a-6584-3b26"/>
+    <entryLink import="true" name="Wolf Lord on Thunderwolf [Legends]" hidden="false" type="selectionEntry" id="5a1f-b53-3b2a-2591" targetId="295-5df2-e140-7266"/>
+    <entryLink import="true" name="Wolf Guard Battle Leader on Thunderwolf [Legends]" hidden="false" type="selectionEntry" id="f673-43ae-9348-61fd" targetId="6ec-fcf9-ebb6-7c55"/>
     <entryLink import="true" name="Blood Claws" hidden="false" type="selectionEntry" id="498-8bb5-1f55-65c2" targetId="fa8f-f5a2-993-bdbb"/>
     <entryLink import="true" name="Grey Hunters" hidden="false" type="selectionEntry" id="2e24-116d-87cb-1d8d" targetId="60ce-47ea-50fa-53f2"/>
-    <entryLink import="true" name="Wolf Guard [Legends]" hidden="true" type="selectionEntry" id="c62b-1220-a7b0-5917" targetId="8486-fe44-efc3-e51b"/>
+    <entryLink import="true" name="Wolf Guard [Legends]" hidden="false" type="selectionEntry" id="c62b-1220-a7b0-5917" targetId="8486-fe44-efc3-e51b"/>
     <entryLink import="true" name="Lukas the Trickster [Legends]" hidden="true" type="selectionEntry" id="ad91-10ab-6d45-ae4e" targetId="6044-a19c-fd13-fdb8"/>
     <entryLink import="true" name="Wolf Guard Terminators" hidden="false" type="selectionEntry" id="5167-2675-f8da-b1d7" targetId="ca30-caf3-d7a8-1d32"/>
-    <entryLink import="true" name="Hounds of Morkai [Legends]" hidden="true" type="selectionEntry" id="5ee-f1ee-d24d-13ad" targetId="f37d-87d6-e14c-e697"/>
+    <entryLink import="true" name="Hounds of Morkai [Legends]" hidden="false" type="selectionEntry" id="5ee-f1ee-d24d-13ad" targetId="f37d-87d6-e14c-e697"/>
     <entryLink import="true" name="Wulfen" hidden="false" type="selectionEntry" id="b55a-14dc-71ca-8e55" targetId="d937-bd7d-618d-4e2d"/>
     <entryLink import="true" name="Wulfen Dreadnought" hidden="false" type="selectionEntry" id="dd6d-ee77-b9ea-d2e5" targetId="91fa-49ac-5b0a-c155"/>
     <entryLink import="true" name="Murderfang" hidden="false" type="selectionEntry" id="4bec-dc7d-f031-4d01" targetId="6ef5-6700-d888-df3b"/>
     <entryLink import="true" name="Thunderwolf Cavalry" hidden="false" type="selectionEntry" id="20ee-2cf8-78b6-58df" targetId="7a50-3722-8195-5877"/>
     <entryLink import="true" name="Fenrisian Wolves" hidden="false" type="selectionEntry" id="b429-8c1b-614c-7e94" targetId="dc75-5a79-4121-1d72"/>
-    <entryLink import="true" name="Skyclaws [Legends]" hidden="true" type="selectionEntry" id="915f-cecb-b52e-5fdb" targetId="b556-b0e1-3b4e-597a"/>
-    <entryLink import="true" name="Long Fangs [Legends]" hidden="true" type="selectionEntry" id="257a-e93f-b9f1-989a" targetId="47fa-f42-bb06-77d2"/>
-    <entryLink import="true" name="Stormfang Gunship [Legends]" hidden="true" type="selectionEntry" id="9a97-a630-1fc6-bccd" targetId="3b8b-19bb-1855-98c5"/>
-    <entryLink import="true" name="Stormwolf [Legends]" hidden="true" type="selectionEntry" id="891a-8f91-4e3-ceff" targetId="b85d-d565-d3a4-8f8b"/>
+    <entryLink import="true" name="Skyclaws [Legends]" hidden="false" type="selectionEntry" id="915f-cecb-b52e-5fdb" targetId="b556-b0e1-3b4e-597a"/>
+    <entryLink import="true" name="Long Fangs [Legends]" hidden="false" type="selectionEntry" id="257a-e93f-b9f1-989a" targetId="47fa-f42-bb06-77d2"/>
+    <entryLink import="true" name="Stormfang Gunship [Legends]" hidden="false" type="selectionEntry" id="9a97-a630-1fc6-bccd" targetId="3b8b-19bb-1855-98c5"/>
+    <entryLink import="true" name="Stormwolf [Legends]" hidden="false" type="selectionEntry" id="891a-8f91-4e3-ceff" targetId="b85d-d565-d3a4-8f8b"/>
     <entryLink import="true" name="Wolf Guard Pack Leader [Legends]" hidden="true" type="selectionEntry" id="6def-e315-3442-ca06" targetId="5d99-8592-a934-48d9"/>
     <entryLink import="true" name="Wolf Guard Pack Leader with Jump Pack [Legends]" hidden="true" type="selectionEntry" id="19df-5f17-d083-304c" targetId="a60f-7d3a-d2f8-60cd"/>
     <entryLink import="true" name="Wolf Guard Pack Leader in Terminator Armour [Legends]" hidden="true" type="selectionEntry" id="7f3d-fae8-b542-56d2" targetId="a341-f355-7305-58bb"/>
