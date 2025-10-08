@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="3d61-bbc8-d050-ce61" name="Imperium - Adeptus Astartes - Space Wolves" gameSystemId="eaf8-d2ba-045e-07d4" gameSystemRevision="1" revision="62" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur/Mad Spy">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="3d61-bbc8-d050-ce61" name="Imperium - Adeptus Astartes - Space Wolves" gameSystemId="eaf8-d2ba-045e-07d4" gameSystemRevision="1" revision="63" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur/Mad Spy">
   <catalogueLinks>
     <catalogueLink type="catalogue" name="Imperium - Space Marines" id="cb5b-3605-7522-c561" targetId="62ba-988a-e3f0-4401" importRootEntries="true"/>
     <catalogueLink type="catalogue" name="Imperium - Imperial Knights - Library" id="2e06-13ae-6789-b591" targetId="1851-772f-45c3-6618" importRootEntries="true"/>
@@ -1229,7 +1229,7 @@
         </selectionEntryGroup>
       </selectionEntryGroups>
     </selectionEntry>
-    <selectionEntry type="model" import="true" name="Wolf Guard Battle Leader in Terminator Armour [Legends]" hidden="false" id="bcab-c09a-6584-3b26">
+    <selectionEntry type="model" import="true" name="Wolf Guard Battle Leader in Terminator Armour" hidden="false" id="bcab-c09a-6584-3b26">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
       </costs>
@@ -1589,13 +1589,6 @@ You can attach this model to one of the above units even if one Captain or Chap
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-      <modifiers>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="4e07-f1af-33c4-40b5" includeChildSelections="true" includeChildForces="true"/>
-          </conditions>
-        </modifier>
-      </modifiers>
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Power weapon" hidden="false" id="d4e4-919a-1dd-ab43">
       <profiles>
@@ -1616,7 +1609,7 @@ You can attach this model to one of the above units even if one Captain or Chap
         <categoryLink name="Melee Weapon" hidden="false" id="0575-ca5a-a0e3-259a" targetId="ccdd-3987-11ed-90cd" primary="false"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="model" import="true" name="Wolf Lord on Thunderwolf [Legends]" hidden="false" id="295-5df2-e140-7266">
+    <selectionEntry type="model" import="true" name="Wolf Lord on Thunderwolf" hidden="false" id="295-5df2-e140-7266">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="100"/>
       </costs>
@@ -1983,15 +1976,8 @@ You can attach this model to one of the above units even if one Captain or Chap
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-      <modifiers>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="fff8-9e7f-ade3-bdab" includeChildSelections="true" includeChildForces="true"/>
-          </conditions>
-        </modifier>
-      </modifiers>
     </selectionEntry>
-    <selectionEntry type="model" import="true" name="Wolf Guard Battle Leader on Thunderwolf [Legends]" hidden="false" id="6ec-fcf9-ebb6-7c55">
+    <selectionEntry type="model" import="true" name="Wolf Guard Battle Leader on Thunderwolf" hidden="false" id="6ec-fcf9-ebb6-7c55">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80"/>
       </costs>
@@ -2020,8 +2006,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
 
 ■ Thunderwolf Cavalry
-
-You can attach this model to the above unit even if one Captain or Chapter Master model has already been attached to it. If you do, and that Bodyguard unit is destroyed, the Leader units attached to it become separate units, with their original Starting Strengths.</characteristic>
+</characteristic>
           </characteristics>
         </profile>
         <profile name="Wolf Guard Battle Leader on Thunderwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6010-e44c-164f-2f49">
@@ -2321,13 +2306,6 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-      <modifiers>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="006a-8f0e-1947-41ca" includeChildSelections="true" includeChildForces="true"/>
-          </conditions>
-        </modifier>
-      </modifiers>
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Thunder hammer" hidden="false" id="ad5b-c310-db86-a58c">
       <profiles>
@@ -3014,7 +2992,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         <infoLink name="Rapid Fire" hidden="false" type="rule" id="5a43-a6da-d860-f23f" targetId="c5c8-8b58-b8b6-7786"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Wolf Guard [Legends]" hidden="false" id="8486-fe44-efc3-e51b">
+    <selectionEntry type="unit" import="true" name="Wolf Guard" hidden="false" id="8486-fe44-efc3-e51b">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
@@ -3262,11 +3240,6 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         <modifier type="set" value="170" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="8486-fe44-efc3-e51b" childId="model" shared="true" id="ab3e-381e-7ea5-8b4a" includeChildSelections="true"/>
-          </conditions>
-        </modifier>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="6517-b8c1-c5ab-788f" includeChildSelections="true" includeChildForces="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -3986,7 +3959,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </modifierGroup>
       </modifierGroups>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Hounds of Morkai [Legends]" hidden="false" id="f37d-87d6-e14c-e697">
+    <selectionEntry type="unit" import="true" name="Hounds of Morkai" hidden="false" id="f37d-87d6-e14c-e697">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
@@ -4008,11 +3981,6 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         <modifier type="set" value="160" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="f37d-87d6-e14c-e697" childId="model" shared="true" id="da10-c77c-339e-5568" includeChildSelections="true"/>
-          </conditions>
-        </modifier>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="083c-6622-3f56-67d1" includeChildSelections="true" includeChildForces="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -5236,7 +5204,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </modifierGroup>
       </modifierGroups>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Skyclaws [Legends]" hidden="false" id="b556-b0e1-3b4e-597a">
+    <selectionEntry type="unit" import="true" name="Skyclaws" hidden="false" id="b556-b0e1-3b4e-597a">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="90"/>
       </costs>
@@ -5502,7 +5470,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </selectionEntryGroup>
       </selectionEntryGroups>
       <modifiers>
-        <modifier type="set" value="165" field="51b2-306e-1021-d207">
+        <modifier type="set" value="170" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="b556-b0e1-3b4e-597a" childId="model" shared="true" id="c407-89f9-68bb-5591" includeChildSelections="true"/>
           </conditions>
@@ -5510,11 +5478,6 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         <modifier type="set" value="240" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="11" field="selections" scope="b556-b0e1-3b4e-597a" childId="model" shared="true" id="735c-5213-4e87-a465" includeChildSelections="true"/>
-          </conditions>
-        </modifier>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="3139-6e8e-3b14-9ad7" includeChildSelections="true" includeChildForces="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -5594,7 +5557,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </modifierGroup>
       </modifierGroups>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Long Fangs [Legends]" hidden="false" id="47fa-f42-bb06-77d2">
+    <selectionEntry type="unit" import="true" name="Long Fangs" hidden="false" id="47fa-f42-bb06-77d2">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="120"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
@@ -5606,11 +5569,6 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         <modifier type="set" value="145" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="47fa-f42-bb06-77d2" childId="model" shared="true" id="8095-cf30-5200-2f2d" includeChildSelections="true"/>
-          </conditions>
-        </modifier>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="0e88-379e-475a-e837" includeChildSelections="true" includeChildForces="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -6513,7 +6471,7 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
         </modifier>
       </modifiers>
     </selectionEntry>
-    <selectionEntry type="model" import="true" name="Stormwolf [Legends]" hidden="false" id="b85d-d565-d3a4-8f8b">
+    <selectionEntry type="model" import="true" name="Stormwolf" hidden="false" id="b85d-d565-d3a4-8f8b">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="250"/>
       </costs>
@@ -6749,13 +6707,6 @@ You can attach this model to the above unit even if one Captain or Chapter Mast
           <comment>Crusade modifiers</comment>
         </modifierGroup>
       </modifierGroups>
-      <modifiers>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="73a9-ed08-33e6-e8fe" includeChildSelections="true" includeChildForces="true"/>
-          </conditions>
-        </modifier>
-      </modifiers>
     </selectionEntry>
     <selectionEntry type="model" import="true" name="Wolf Guard Pack Leader [Legends]" hidden="false" id="5d99-8592-a934-48d9">
       <costs>
@@ -10636,6 +10587,305 @@ a Transport</characteristic>
         <categoryLink name="Hunting Wolves" hidden="false" id="47ca-bfb6-8c7c-84ec" targetId="a41f-0ee2-27ea-2e31" primary="false"/>
       </categoryLinks>
     </selectionEntry>
+    <selectionEntry type="model" import="true" name="Wolf Lord" hidden="false" id="3028-b4cd-6fb1-cc5c">
+      <costs>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="80"/>
+      </costs>
+      <categoryLinks>
+        <categoryLink name="Character" hidden="false" id="1eb3-6a88-72d6-3d39" targetId="9cfd-1c32-585f-7d5c" primary="true"/>
+        <categoryLink name="Infantry" hidden="false" id="cd21-7f61-71a8-a663" targetId="cf47-a0d7-7207-29dc" primary="false"/>
+        <categoryLink name="Captain" hidden="false" id="683a-86f8-fea7-0bdb" targetId="2d7f-1892-2fd0-e29c" primary="false"/>
+        <categoryLink name="Grenades" hidden="false" id="15cd-560f-fbd1-ab80" targetId="5a61-81ac-eb7c-a87e" primary="false"/>
+        <categoryLink name="Imperium" hidden="false" id="dfa6-83c5-4b61-9c24" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
+        <categoryLink name="Tacticus" hidden="false" id="a63c-b4a0-6f89-4a42" targetId="5179-8ede-45e3-49a2" primary="false"/>
+        <categoryLink name="Faction: Adeptus Astartes" hidden="false" id="0fe7-d01a-8b07-1f2e" targetId="6e7-40c-58d9-e402" primary="false"/>
+        <categoryLink name="Wolf Lord" hidden="false" id="5f14-8e7d-8d66-cef6" targetId="7709-e8fc-9f3b-6097" primary="false"/>
+      </categoryLinks>
+      <entryLinks>
+        <entryLink import="true" name="Enhancements" hidden="false" id="117d-2770-60a3-67b2" type="selectionEntryGroup" targetId="9e5d-de4c-c5d1-1d3e" sortIndex="3"/>
+        <entryLink import="true" name="Warlord" hidden="false" id="4485-da2d-6030-6c41" collective="false" targetId="caa-f869-3cbd-b48e" type="selectionEntry" sortIndex="2">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c9fe-32b3-d2af-75d7" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+          </constraints>
+        </entryLink>
+        <entryLink import="true" name="Crusade" hidden="false" id="6452-b5b7-9bcd-a01a" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1"/>
+      </entryLinks>
+      <infoLinks>
+        <infoLink name="Finest Hour" id="4865-b416-5365-12ea" hidden="false" type="profile" targetId="fdf1-64a5-906c-3474"/>
+        <infoLink name="Invulnerable Save" id="9c97-1837-968d-000e" hidden="false" type="profile" targetId="db19-dee7-9530-ef0e"/>
+        <infoLink name="Leader" id="df2f-fe19-87e1-bcf6" hidden="false" type="rule" targetId="b4dd-3e1f-41cb-218f"/>
+        <infoLink name="Rites of Battle" id="73c0-de44-909f-0bc1" hidden="false" targetId="90c7-c55c-21e2-2232" type="profile"/>
+        <infoLink name="Oath of Moment" id="09b9-18cb-1f88-374b" hidden="false" type="rule" targetId="3b76-4053-ece9-6e7d"/>
+      </infoLinks>
+      <profiles>
+        <profile name="Wolf Lord" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="27c2-a483-b204-d8fa">
+          <characteristics>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
+            <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
+            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
+            <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
+            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">1</characteristic>
+          </characteristics>
+          <modifiers>
+            <modifier type="set" value="6" field="750a-a2ec-90d3-21fe">
+              <conditions>
+                <condition type="equalTo" value="1" field="selections" scope="3028-b4cd-6fb1-cc5c" childId="6198-7228-4a39-7926" shared="true" percentValue="false" includeChildSelections="true" includeChildForces="false"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </profile>
+        <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="e8bd-5d4e-4e40-eb94">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+
+■ Blood Claws
+■ Grey Hunters
+■ Long Fangs
+■ Wolf Guard
+■ Company Command Squad
+</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <constraints>
+        <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="18b1-e073-0d9a-0dff" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+        <constraint type="max" value="6" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="bfe6-5b4e-0255-bc44" includeChildSelections="false"/>
+        <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="7821-24db-5cc4-8d51" includeChildSelections="true"/>
+        <constraint type="min" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="8fe0-c743-8ef6-f6d5" includeChildSelections="true"/>
+      </constraints>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Wargear" id="ac52-a111-dffc-1fef" hidden="false" collective="false" import="true" defaultSelectionEntryId="c6aa-b3a5-4ff3-e0d3" sortIndex="4">
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="72e9-4f83-222e-3556" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2ba3-46e8-8398-59b4" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+          </constraints>
+          <selectionEntries>
+            <selectionEntry type="upgrade" import="true" name="Bolt Pistol, Master-crafted Bolter, Melee Weapon" hidden="false" id="f928-e46d-4443-a8f2" collective="false">
+              <selectionEntryGroups>
+                <selectionEntryGroup name="Melee Weapon" id="dd8c-9fc3-7488-53ac" hidden="false" collective="false" import="true" defaultSelectionEntryId="74b1-e680-e6f1-2845">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="700f-38eb-9375-ff3a" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a3e0-7213-1f38-06d6" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Close combat weapon" hidden="false" id="1e62-dfb2-37df-48b0" collective="false" targetId="6e7b-4796-0ba3-a2d0" type="selectionEntry">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="2914-2549-6c32-5ac8" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Power Fist" hidden="false" id="4594-e07e-ea0a-c476" collective="false" targetId="99de-5985-8cb8-f571" type="selectionEntry">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="7a8d-1bc1-2f5f-ac65" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Master-crafted Power Weapon" hidden="false" id="bc00-8dab-8e55-b63a" collective="false" targetId="ebda-08ed-994a-b579" type="selectionEntry">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="0dd7-f376-21d8-1fa9" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                  </entryLinks>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+              <entryLinks>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="40d5-4e01-efbb-7d8f" collective="false" targetId="b273-b85e-4018-a0cd" type="selectionEntry">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="10d8-2c77-6123-d023" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fdfc-9569-ad64-842e" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="9ed6-2aea-2124-eb02" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                    <entryLink import="true" name="Weapon Upgrades" hidden="false" id="927e-dfbb-bc67-0e3f" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                  </entryLinks>
+                </entryLink>
+                <entryLink import="true" name="Master-crafted Bolter" hidden="false" id="8793-9d37-5f66-8a76" collective="false" targetId="c3bc-26b4-6fa0-bd39" type="selectionEntry">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ebae-b2be-ef27-1bf4" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8c7b-e626-26a7-60cc" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="afb5-40a4-6ffc-7fd2" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                    <entryLink import="true" name="Weapon Upgrades" hidden="false" id="21d1-bf6c-133f-e370" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pl" typeId="c5fb-5b9b-89f6-86c" value="0"/>
+                <cost name="pts" typeId="51b2-306e-1021-d207" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry type="upgrade" import="true" name="Plasma Pistol, Master-crafted power weapon and 1 Relic Shield" hidden="false" id="5ffa-3c20-a90c-a30b" collective="false">
+              <entryLinks>
+                <entryLink import="true" name="Master-crafted Power Weapon" hidden="false" id="86fc-9382-8559-b078" collective="false" targetId="ebda-08ed-994a-b579" type="selectionEntry">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5830-7d37-e25e-c7aa" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="48f3-5b2c-ed4c-8ada" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="ca33-41d8-5945-1d81" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                    <entryLink import="true" name="Weapon Upgrades" hidden="false" id="d98f-17d7-e8c5-8d7c" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                  </entryLinks>
+                </entryLink>
+                <entryLink import="true" name="Relic Shield" hidden="false" id="c83e-0462-b91c-5d0c" collective="false" targetId="6198-7228-4a39-7926" type="selectionEntry">
+                  <profiles>
+                    <profile name="Relic Shield" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="9c91-4f5a-1612-b06b">
+                      <characteristics>
+                        <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a Wounds characteristic of 6.</characteristic>
+                      </characteristics>
+                    </profile>
+                  </profiles>
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="04aa-ac3a-ad59-d521"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3b25-9613-fddd-251b"/>
+                  </constraints>
+                </entryLink>
+                <entryLink import="true" name="Plasma Pistol" hidden="false" id="23ab-5a35-5577-e666" type="selectionEntry" targetId="72c9-4b92-5aed-2fbe">
+                  <entryLinks>
+                    <entryLink import="true" name="Weapon Modifications" hidden="false" id="674c-8fa6-10a5-7611" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                  </entryLinks>
+                </entryLink>
+              </entryLinks>
+              <costs>
+                <cost name="pl" typeId="c5fb-5b9b-89f6-86c" value="0"/>
+                <cost name="pts" typeId="51b2-306e-1021-d207" value="0"/>
+              </costs>
+            </selectionEntry>
+            <selectionEntry type="upgrade" import="true" name="Pistol and Melee Weapon" hidden="false" id="06e9-c31a-1c88-29b5">
+              <selectionEntryGroups>
+                <selectionEntryGroup name="Pistol" id="40ec-6895-b2d5-04a1" hidden="false">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ed97-4778-f8fc-ddf1"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b710-ab54-dbc8-e4b7"/>
+                  </constraints>
+                  <selectionEntries>
+                    <selectionEntry type="upgrade" import="true" name="Bolt Pistol" hidden="false" id="7cd2-564a-1fee-78c8" collective="false">
+                      <profiles>
+                        <profile name="Bolt Pistol" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="1e82-23a8-eda3-4e20">
+                          <characteristics>
+                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
+                            <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
+                            <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
+                            <characteristic name="S" typeId="2229-f494-25db-c5d3">4</characteristic>
+                            <characteristic name="AP" typeId="9ead-8a10-520-de15">0</characteristic>
+                            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
+                            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Pistol</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <infoLinks>
+                        <infoLink name="Pistol" id="95d1-4fc0-cdcf-b27d" hidden="false" type="rule" targetId="8bf7-8812-923d-29e4"/>
+                      </infoLinks>
+                      <comment>BS2+</comment>
+                      <categoryLinks>
+                        <categoryLink name="Ranged Weapon" hidden="false" id="603a-f4c1-1a6b-1a63" targetId="eeda-8544-a2f3-3fab" primary="false"/>
+                      </categoryLinks>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <entryLinks>
+                    <entryLink import="true" name="Plasma Pistol" hidden="false" id="dc1f-9447-1ad3-5ae1" collective="false" targetId="72c9-4b92-5aed-2fbe" type="selectionEntry">
+                      <entryLinks>
+                        <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="9913-54a8-10db-0723" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="050b-9525-c208-c8d3" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                  </entryLinks>
+                </selectionEntryGroup>
+                <selectionEntryGroup name="Melee Weapon" id="ad8e-4531-91a3-0bbe" hidden="false">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="df3d-92c7-c92e-de54"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0031-3e0d-f629-48b7"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Power Fist" hidden="false" id="d195-20c9-2440-4a9e" collective="false" targetId="99de-5985-8cb8-f571" type="selectionEntry">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="15bb-78c5-c4ec-5c8e" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Master-crafted Power Weapon" hidden="false" id="6193-dd9f-6988-b2ae" collective="false" targetId="ebda-08ed-994a-b579" type="selectionEntry">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="f9cc-1448-1e76-3809" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Thunder Hammer" hidden="false" id="31d3-3c1c-0220-1a5d" type="selectionEntry" targetId="b637-5b1c-59f5-d463">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="66b1-8883-09ad-ac74" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                      </entryLinks>
+                    </entryLink>
+                  </entryLinks>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntry>
+          </selectionEntries>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="increment" value="2" field="7821-24db-5cc4-8d51">
+              <repeats>
+                <repeat value="1" repeats="1" field="selections" scope="self" childId="d1a5-4297-168b-11cd" shared="true" roundUp="false" includeChildSelections="true"/>
+              </repeats>
+            </modifier>
+            <modifier type="increment" value="2" field="8fe0-c743-8ef6-f6d5">
+              <repeats>
+                <repeat value="1" repeats="1" field="selections" scope="self" childId="d1a5-4297-168b-11cd" shared="true" roundUp="false" includeChildSelections="true"/>
+              </repeats>
+            </modifier>
+            <modifier type="append" value="(Battle-ready)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="atMost" value="5" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atLeast" value="1" field="forces" scope="roster" childId="cac3-71d1-ea4b-795d" shared="true" includeChildSelections="true" includeChildForces="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Blooded)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="5" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="15" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Battle-hardened)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="15" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="30" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Heroic)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="30" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="50" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Legendary)" field="name">
+              <conditions>
+                <condition type="greaterThan" value="50" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="increment" value="1" field="bfe6-5b4e-0255-bc44">
+              <conditions>
+                <condition type="atLeast" value="1" field="selections" scope="self" childId="8dbe-9f09-d44d-07d6" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <comment>Crusade modifiers</comment>
+        </modifierGroup>
+      </modifierGroups>
+    </selectionEntry>
   </sharedSelectionEntries>
   <categoryEntries>
     <categoryEntry name="Logan Grimnar" hidden="false" id="48a0-9386-4930-6a62">
@@ -10805,6 +11055,7 @@ a Transport</characteristic>
     </categoryEntry>
     <categoryEntry name="Hunting Wolves" id="a41f-0ee2-27ea-2e31" hidden="false"/>
     <categoryEntry name="Wulfen with Storm Shields" id="5e41-161b-7d74-8c8e" hidden="false"/>
+    <categoryEntry name="Wolf Lord" id="7709-e8fc-9f3b-6097" hidden="false"/>
   </categoryEntries>
   <entryLinks>
     <entryLink import="true" name="Logan Grimnar" hidden="false" type="selectionEntry" id="23f-47a2-1700-86cd" targetId="c65-46c6-3a62-80c"/>
@@ -10850,6 +11101,7 @@ a Transport</characteristic>
     <entryLink import="true" name="Wolf Guard Headtakers" hidden="false" id="3e0e-a813-a6ff-e8e9" type="selectionEntry" targetId="0f93-6850-8f14-a351">
       <comment>Crusade variant</comment>
     </entryLink>
+    <entryLink import="true" name="Wolf Lord" hidden="true" type="selectionEntry" id="a165-23b5-7c2e-cba4" targetId="3028-b4cd-6fb1-cc5c"/>
   </entryLinks>
   <sharedInfoGroups>
     <infoGroup name="Logan" hidden="false" id="976-2d16-9324-f92">

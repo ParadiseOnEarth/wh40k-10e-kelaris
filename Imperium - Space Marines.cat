@@ -7337,7 +7337,14 @@ Strategic Reserves.</characteristic>
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Scout Sniper Squad" hidden="false" id="9a96-8de3-f4aa-7497">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="85"/>
+        <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
+        <cost name="Crusade: Battle Honours" typeId="75bb-ded1-c86d-bdf0" value="0"/>
+        <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0"/>
+        <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0"/>
+        <cost name="Blackstone Fragments" typeId="ac6b-ced3-9b5e-9a6e" value="0"/>
+        <cost name="Honour Points" typeId="8135-9a2f-6627-09e2" value="0"/>
+        <cost name="Relic Fragments" typeId="0ece-6541-4662-ece2" value="0"/>
       </costs>
       <selectionEntryGroups>
         <selectionEntryGroup name="Scout Snipers" hidden="false" id="18e4-14af-e7e1-19d0" sortIndex="2">
@@ -7522,7 +7529,7 @@ Strategic Reserves.</characteristic>
         <constraint type="min" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="f0b3-8854-2d1b-a230" includeChildSelections="true"/>
       </constraints>
       <modifiers>
-        <modifier type="set" value="150" field="51b2-306e-1021-d207">
+        <modifier type="set" value="170" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="9a96-8de3-f4aa-7497" childId="18e4-14af-e7e1-19d0" shared="true" id="9225-8b92-4e9e-341c"/>
           </conditions>
@@ -10272,7 +10279,12 @@ by 1.</characteristic>
                 </profile>
               </profiles>
               <entryLinks>
-                <entryLink import="true" name="Heavy Flamer" hidden="false" id="884a-e272-48b0-54bb" type="selectionEntry" targetId="b3e6-f7a7-8357-2055"/>
+                <entryLink import="true" name="Heavy Flamer" hidden="false" id="884a-e272-48b0-54bb" type="selectionEntry" targetId="b3e6-f7a7-8357-2055">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="bee3-b5ac-2a7d-d631-min"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="bee3-b5ac-2a7d-d631-max"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
             </selectionEntry>
           </selectionEntries>
