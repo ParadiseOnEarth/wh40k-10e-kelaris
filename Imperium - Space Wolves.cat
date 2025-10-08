@@ -255,7 +255,6 @@
         <categoryLink targetId="13bf-2bee-3ae0-b414" id="db53-8eeb-fd41-ad2a" primary="false" name="Psyker"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="eea8-3835-2d5b-7f9b" primary="false" name="Imperium"/>
         <categoryLink targetId="23d4-b393-5b92-2445" id="49ed-850a-e2b8-da39" primary="false" name="Njal Stormcaller"/>
-        <categoryLink targetId="5179-8ede-45e3-49a2" id="cfbe-bc20-377c-7569" primary="false" name="Tacticus"/>
       </categoryLinks>
       <profiles>
         <profile name="Njal Stormcaller" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="71fd-44bd-50f0-ea99">
@@ -793,9 +792,9 @@
         <categoryLink targetId="4f3a-f0f7-6647-348d" id="5795-4ea8-80c1-dfc8" primary="true" name="Epic Hero"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="ce34-dfca-3064-2f26" primary="false" name="Imperium"/>
         <categoryLink targetId="5a61-81ac-eb7c-a87e" id="d973-f325-7767-a5a" primary="false" name="Grenades"/>
-        <categoryLink targetId="5179-8ede-45e3-49a2" id="893-7b75-8f00-4d79" primary="false" name="Tacticus"/>
         <categoryLink targetId="2d7f-1892-2fd0-e29c" id="f4dd-23ee-cef2-cac0" primary="false" name="Captain"/>
         <categoryLink targetId="ff0e-8156-6e6b-8e60" id="af35-b35d-972-853" primary="false" name="Ragnar Blackmane"/>
+        <categoryLink name="Wolf Lord" hidden="false" id="f1cf-ef50-d477-8f1d" targetId="7709-e8fc-9f3b-6097" primary="false"/>
       </categoryLinks>
       <entryLinks>
         <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="148b-5408-9dec-dac2" targetId="b273-b85e-4018-a0cd">
@@ -2488,7 +2487,6 @@ You can attach this model to one of the above units even if one Captain or Chap
         <categoryLink targetId="5a61-81ac-eb7c-a87e" id="d8a4-6366-8ced-8cbe" primary="false" name="Grenades"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="30b9-a290-8acf-53c6" primary="false" name="Imperium"/>
         <categoryLink targetId="5624-6cb8-fa73-779e" id="de6b-f7d6-15a1-ef77" primary="false" name="Blood Claws"/>
-        <categoryLink targetId="5179-8ede-45e3-49a2" id="46b6-8fdb-101a-b0db" primary="false" name="Tacticus"/>
       </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup name="Blood Claws" hidden="false" id="d6a4-1730-7ecf-3820" defaultSelectionEntryId="43b0-a03-67b2-a92a" sortIndex="2">
@@ -2832,7 +2830,6 @@ You can attach this model to one of the above units even if one Captain or Chap
         <categoryLink targetId="5a61-81ac-eb7c-a87e" id="ef6b-d319-9570-9aba" primary="false" name="Grenades"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="939c-2f8c-9e3-278f" primary="false" name="Imperium"/>
         <categoryLink targetId="447f-4fc0-7630-a9f7" id="90f3-3c93-eaa5-db9a" primary="false" name="Grey Hunters"/>
-        <categoryLink targetId="5179-8ede-45e3-49a2" id="ee08-ca5b-6b96-9a2b" primary="false" name="Tacticus"/>
       </categoryLinks>
       <infoLinks>
         <infoLink name="Oath of Moment" hidden="false" type="rule" id="9721-d9e3-e7df-a872" targetId="3b76-4053-ece9-6e7d"/>
@@ -3051,7 +3048,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="dfa0-fbe6-1f3c-c86d">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3085,7 +3082,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="bf54-3d16-257d-b58a">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3119,7 +3116,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6559-1485-b884-0239">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3153,7 +3150,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f8c1-932f-7fce-f1dd">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3189,7 +3186,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="273c-f155-b88-6d36">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3223,7 +3220,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Wolf Guard" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="3469-cc8a-8f5d-db15">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -3981,6 +3978,11 @@ You can attach this model to one of the above units even if one Captain or Chap
         <modifier type="set" value="160" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="f37d-87d6-e14c-e697" childId="model" shared="true" id="da10-c77c-339e-5568" includeChildSelections="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="16a7-75e7-ff0e-6ba3" includeChildSelections="true" includeChildForces="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -5618,7 +5620,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7777-0f53-68e4-8532">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5668,7 +5670,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="c906-81a9-a9ec-15b0">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5719,7 +5721,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="c8ca-eab8-2305-5fed">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5770,7 +5772,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="88cb-d268-77ca-643c">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5832,7 +5834,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="9099-d14b-b53e-68a8">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5895,7 +5897,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="ef23-f5a8-d6bc-21ea">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5927,7 +5929,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="a285-36d1-d6d1-dda8">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -5982,7 +5984,7 @@ You can attach this model to one of the above units even if one Captain or Chap
               <profiles>
                 <profile name="Long Fangs" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="79e8-ac62-06f5-38da">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -6105,7 +6107,7 @@ You can attach this model to one of the above units even if one Captain or Chap
           <profiles>
             <profile name="Long Fang Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="3188-88ba-5a7-2529">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8182,13 +8184,16 @@ You must attach this model to the above unit, even if Canis Wolfborn has been a
         </modifier>
       </modifiers>
     </selectionEntry>
-    <selectionEntry type="unit" import="true" name="Wolf Scouts [Legends]" hidden="false" id="91e4-38c4-a96f-2090">
+    <selectionEntry type="unit" import="true" name="Wolf Scouts" hidden="false" id="91e4-38c4-a96f-2090">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="80"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
         <cost name="Crusade: Battle Honours" typeId="75bb-ded1-c86d-bdf0" value="0"/>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0"/>
         <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0"/>
+        <cost name="Blackstone Fragments" typeId="ac6b-ced3-9b5e-9a6e" value="0"/>
+        <cost name="Honour Points" typeId="8135-9a2f-6627-09e2" value="0"/>
+        <cost name="Relic Fragments" typeId="0ece-6541-4662-ece2" value="0"/>
       </costs>
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="e1f5-f23a-91e6-b335" primary="false" name="Faction: Adeptus Astartes"/>
@@ -8203,7 +8208,7 @@ You must attach this model to the above unit, even if Canis Wolfborn has been a
       <infoLinks>
         <infoLink name="Scouts" hidden="false" type="rule" id="3ebe-4bee-656f-eb75" targetId="ada6-bac1-ffe0-d6f7">
           <modifiers>
-            <modifier type="append" value="6&quot;" field="name"/>
+            <modifier type="append" value="7&quot;" field="name"/>
           </modifiers>
         </infoLink>
         <infoLink name="Infiltrators" hidden="false" type="rule" id="910b-baac-a39d-699f" targetId="c05d-f4c3-f091-4938"/>
@@ -8387,7 +8392,7 @@ Strategic Reserves.</characteristic>
           <profiles>
             <profile name="Wolf Scout Pack Leader" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="c3fd-31cd-dcd7-5d57">
               <characteristics>
-                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                 <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                 <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                 <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8432,7 +8437,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="2f50-9685-15ca-cdac">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8487,7 +8492,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f38d-9a2d-a756-9c23">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8539,7 +8544,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="f5bd-ed16-a413-cf37">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8586,7 +8591,7 @@ Strategic Reserves.</characteristic>
               <profiles>
                 <profile name="Wolf Scouts" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="cec4-b532-3cc1-43e9">
                   <characteristics>
-                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+                    <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
                     <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
                     <characteristic name="SV" typeId="450-a17e-9d5e-29da">4+</characteristic>
                     <characteristic name="W" typeId="750a-a2ec-90d3-21fe">2</characteristic>
@@ -8679,11 +8684,6 @@ Strategic Reserves.</characteristic>
         <modifier type="set" value="160" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="atLeast" value="6" field="selections" scope="91e4-38c4-a96f-2090" childId="model" shared="true" id="7811-a191-ebc5-392d" includeChildSelections="true"/>
-          </conditions>
-        </modifier>
-        <modifier type="set" value="true" field="hidden">
-          <conditions>
-            <condition type="lessThan" value="1" field="selections" scope="roster" childId="9ed-cbf4-bfe5-90bf" shared="true" id="c0ad-c814-54df-ae19" includeChildSelections="true" includeChildForces="true"/>
           </conditions>
         </modifier>
       </modifiers>
@@ -9422,7 +9422,6 @@ Strategic Reserves.</characteristic>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="0589-543d-d22b-b17a" primary="false" name="Infantry"/>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="7ed2-d458-6edc-ab81" primary="true" name="Character"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="97be-3b73-7ccd-aa4f" primary="false" name="Imperium"/>
-        <categoryLink targetId="5179-8ede-45e3-49a2" id="0951-0b20-6977-c752" primary="false" name="Tacticus"/>
         <categoryLink targetId="e700-e90e-8379-035f" id="57f5-8da0-689e-a1a6" primary="false" name="Wolf Priest"/>
         <categoryLink targetId="a0d9-c115-2a-8330" id="b5b9-97f5-8d21-cb45" primary="false" name="Faction: Space Wolves"/>
         <categoryLink targetId="6e7-40c-58d9-e402" id="1030-54fc-57a6-8f39" primary="false" name="Faction: Adeptus Astartes"/>
@@ -9819,7 +9818,6 @@ Strategic Reserves.</characteristic>
         <categoryLink targetId="cf47-a0d7-7207-29dc" id="628e-36aa-b09b-4730" primary="false" name="Infantry"/>
         <categoryLink targetId="9cfd-1c32-585f-7d5c" id="b190-f8e3-2a7c-e6d9" primary="true" name="Character"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="f14f-ef12-270b-307a" primary="false" name="Imperium"/>
-        <categoryLink targetId="5179-8ede-45e3-49a2" id="9236-7287-4492-a9d1" primary="false" name="Tacticus"/>
         <categoryLink targetId="180b-bab2-a59f-44bc" id="e361-34a0-d56b-0127" primary="false" name="Wolf Guard"/>
         <categoryLink targetId="1a25-641b-9ff9-de91" id="ebbe-6b8b-1b0f-3c8f" primary="false" name="Battle Leader"/>
         <categoryLink targetId="6e7-40c-58d9-e402" id="8b36-9262-bc71-c215" primary="false" name="Faction: Adeptus Astartes"/>
@@ -10547,7 +10545,6 @@ a Transport</characteristic>
       <categoryLinks>
         <categoryLink name="Infantry" hidden="false" id="c28b-199b-660e-8497" targetId="cf47-a0d7-7207-29dc" primary="false"/>
         <categoryLink name="Imperium" hidden="false" id="3279-8084-16f0-77ea" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
-        <categoryLink name="Tacticus" hidden="false" id="3243-6cb1-4998-933f" targetId="5179-8ede-45e3-49a2" primary="false"/>
         <categoryLink name="Wolf Guard" hidden="false" id="6b70-14d9-0a9f-d99c" targetId="180b-bab2-a59f-44bc" primary="false"/>
         <categoryLink name="Headtakers" hidden="false" id="3c82-f5e8-06b8-4c25" targetId="3693-ed60-582f-a663" primary="false"/>
       </categoryLinks>
@@ -10590,7 +10587,6 @@ a Transport</characteristic>
         <categoryLink name="Captain" hidden="false" id="683a-86f8-fea7-0bdb" targetId="2d7f-1892-2fd0-e29c" primary="false"/>
         <categoryLink name="Grenades" hidden="false" id="15cd-560f-fbd1-ab80" targetId="5a61-81ac-eb7c-a87e" primary="false"/>
         <categoryLink name="Imperium" hidden="false" id="dfa6-83c5-4b61-9c24" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
-        <categoryLink name="Tacticus" hidden="false" id="a63c-b4a0-6f89-4a42" targetId="5179-8ede-45e3-49a2" primary="false"/>
         <categoryLink name="Faction: Adeptus Astartes" hidden="false" id="0fe7-d01a-8b07-1f2e" targetId="6e7-40c-58d9-e402" primary="false"/>
         <categoryLink name="Wolf Lord" hidden="false" id="5f14-8e7d-8d66-cef6" targetId="7709-e8fc-9f3b-6097" primary="false"/>
         <categoryLink name="Faction: Space Wolves" hidden="false" id="c5ef-c2e4-b105-9197" targetId="a0d9-c115-2a-8330" primary="false"/>
@@ -10614,7 +10610,7 @@ a Transport</characteristic>
       <profiles>
         <profile name="Wolf Lord" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="27c2-a483-b204-d8fa">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
@@ -10977,7 +10973,7 @@ a Transport</characteristic>
       <profiles>
         <profile name="Captain in Terminator Armour" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="488b-38ae-3def-4c20">
           <characteristics>
-            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">5&quot;</characteristic>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">6&quot;</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">5</characteristic>
             <characteristic name="SV" typeId="450-a17e-9d5e-29da">2+</characteristic>
             <characteristic name="W" typeId="750a-a2ec-90d3-21fe">6</characteristic>
@@ -11828,6 +11824,394 @@ a Transport</characteristic>
         </modifierGroup>
       </modifierGroups>
     </selectionEntry>
+    <selectionEntry type="model" import="true" name="Wolf Lord with Jump Pack" hidden="false" id="d0ac-c780-1807-2169">
+      <categoryLinks>
+        <categoryLink name="Character" hidden="false" id="00b6-32f8-7fa8-dc34" targetId="9cfd-1c32-585f-7d5c" primary="true"/>
+        <categoryLink name="Infantry" hidden="false" id="1474-6e9a-f28e-e842" targetId="cf47-a0d7-7207-29dc" primary="false"/>
+        <categoryLink name="Grenades" hidden="false" id="2e95-0056-e95f-d151" targetId="5a61-81ac-eb7c-a87e" primary="false"/>
+        <categoryLink name="Captain" hidden="false" id="4e00-9ad2-5004-d747" targetId="2d7f-1892-2fd0-e29c" primary="false"/>
+        <categoryLink name="Imperium" hidden="false" id="2431-b2b8-a1b7-24f9" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
+        <categoryLink name="Faction: Adeptus Astartes" hidden="false" id="9f3f-fd1f-f13f-742e" targetId="6e7-40c-58d9-e402" primary="false"/>
+        <categoryLink name="Fly" hidden="false" id="8c50-7e6f-816b-2026" targetId="c619-2086-bbcf-69c9" primary="false"/>
+        <categoryLink name="Jump Pack" hidden="false" id="be8a-593c-ac38-3b06" targetId="dda2-bb0a-215e-ad9c" primary="false"/>
+        <categoryLink name="Wolf Lord" hidden="false" id="bc8f-419d-dd73-c164" targetId="7709-e8fc-9f3b-6097" primary="false"/>
+        <categoryLink name="Faction: Space Wolves" hidden="false" id="db09-3455-b340-1ea2" targetId="a0d9-c115-2a-8330" primary="false"/>
+      </categoryLinks>
+      <profiles>
+        <profile name="Captain with Jump Pack" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="2f37-ccee-9e66-3fdf">
+          <characteristics>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">12&quot;</characteristic>
+            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
+            <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
+            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">5</characteristic>
+            <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
+            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">1</characteristic>
+          </characteristics>
+          <modifiers>
+            <modifier type="set" value="6" field="750a-a2ec-90d3-21fe">
+              <conditions>
+                <condition type="equalTo" value="1" field="selections" scope="d0ac-c780-1807-2169" childId="6198-7228-4a39-7926" shared="true" percentValue="false" includeChildSelections="true" includeChildForces="false"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+        </profile>
+        <profile name="Angel&apos;s Wrath" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="69f9-33e1-c87a-7b6b">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, each time that unit ends a Charge move, until the end of the turn, add 1 to the Strength characteristic of melee  weapons equipped by models in that unit.</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a167-ad22-6cc3-9c34">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+
+■ Assault Squad with Jump Packs
+■ Vanguard Veteran Squad with Jump Packs</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <infoLinks>
+        <infoLink name="Deep Strike" id="6993-42f4-ccb8-d16a" hidden="false" targetId="7cb5-dd6b-dd87-ad3b" type="rule"/>
+        <infoLink name="Rites of Battle" id="e9eb-67e0-b2d4-63c0" hidden="false" targetId="90c7-c55c-21e2-2232" type="profile"/>
+        <infoLink name="Invulnerable Save" id="3e77-3d12-2102-def2" hidden="false" type="profile" targetId="db19-dee7-9530-ef0e"/>
+        <infoLink name="Leader" id="e9b5-c377-3873-e715" hidden="false" targetId="b4dd-3e1f-41cb-218f" type="rule"/>
+        <infoLink name="Oath of Moment" id="f421-945b-7c96-6a61" hidden="false" type="rule" targetId="3b76-4053-ece9-6e7d"/>
+        <infoLink name="Templar Vows" id="9d31-fdda-f2a5-c343" hidden="false" type="rule" targetId="f26c-4b28-aaea-40cf"/>
+      </infoLinks>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Wargear" id="71ab-01f1-cd80-5066" hidden="false" defaultSelectionEntryId="6dc1-2c0b-7af4-f50d" sortIndex="4">
+          <selectionEntries>
+            <selectionEntry type="upgrade" import="true" name="Melee and Pistol" hidden="false" id="daea-910e-3bab-7194">
+              <selectionEntryGroups>
+                <selectionEntryGroup name="Pistol" id="8f67-76d9-ab91-b936" hidden="false" defaultSelectionEntryId="ac28-c9fe-ef96-b5fe">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7fb0-6804-f7c9-38aa"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7471-1c9c-12fd-a31a"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Heavy Bolt Pistol" hidden="false" id="82fe-97b5-5356-301f" type="selectionEntry" targetId="3b8f-1cb7-3c6e-4455">
+                      <entryLinks>
+                        <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="f7d5-9ff4-b26b-29d2" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="74a7-ff64-de1c-94f2" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Hand Flamer" hidden="false" id="e512-7a61-2a56-2f1a" type="selectionEntry" targetId="9dc6-6ad8-818e-db2e">
+                      <entryLinks>
+                        <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="865a-ebf6-9d25-61af" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="6ffb-f4db-6147-6609" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Plasma Pistol" hidden="false" id="f4b7-3232-af4c-12c3" type="selectionEntry" targetId="25c2-104f-fa0c-809e">
+                      <entryLinks>
+                        <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="9905-5860-cfe6-0333" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="db8a-5dd2-acfc-a286" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                  </entryLinks>
+                </selectionEntryGroup>
+                <selectionEntryGroup name="Melee" id="b2c1-9f1c-e27e-85d9" hidden="false" defaultSelectionEntryId="6448-d8cb-9698-9b45">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1c04-b042-57cc-89b6"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="93dc-c37c-4dff-976e"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Astartes Chainsword" hidden="false" id="7b7d-3ccd-3995-8edf" type="selectionEntry" targetId="ad25-473b-bb10-6863">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="426c-1cc1-11b6-3371" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Power Fist" hidden="false" id="d5af-0858-3d67-1432" type="selectionEntry" targetId="99de-5985-8cb8-f571">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="deb7-dcf9-2e15-d7a7" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                    <entryLink import="true" name="Relic Weapon" hidden="false" id="721f-a925-d1bb-0db6" type="selectionEntry" targetId="5baf-8a8a-b5ba-1223">
+                      <entryLinks>
+                        <entryLink import="true" name="Weapon Upgrades" hidden="false" id="4800-f3b2-6396-8f48" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                      </entryLinks>
+                    </entryLink>
+                  </entryLinks>
+                </selectionEntryGroup>
+              </selectionEntryGroups>
+            </selectionEntry>
+            <selectionEntry type="upgrade" import="true" name="Thunder Hammer and Relic Shield" hidden="false" id="6618-45c1-c2e7-03ab">
+              <entryLinks>
+                <entryLink import="true" name="Thunder Hammer" hidden="false" id="033d-9dc6-bf13-3894" type="selectionEntry" targetId="62ad-da0b-24f7-fe33">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1ac7-9d09-f8df-bc4a"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6bfd-1063-2d6c-a6a1"/>
+                  </constraints>
+                  <entryLinks>
+                    <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="2d49-26b6-3d46-f9cf" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                    <entryLink import="true" name="Weapon Upgrades" hidden="false" id="4688-b9cc-a3fc-0337" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+                  </entryLinks>
+                </entryLink>
+                <entryLink import="true" name="Relic Shield" hidden="false" id="1ab5-efdb-892c-14c0" type="selectionEntry" targetId="6198-7228-4a39-7926">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fd63-7c7e-3847-1bc4"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9510-1f22-266f-dc55"/>
+                  </constraints>
+                </entryLink>
+              </entryLinks>
+            </selectionEntry>
+          </selectionEntries>
+          <constraints>
+            <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="cf73-3198-e1d3-fa89"/>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3b5a-2d73-957f-6e8a"/>
+          </constraints>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+      <entryLinks>
+        <entryLink import="true" name="Enhancements" hidden="false" id="07b5-6044-5e7a-869c" type="selectionEntryGroup" targetId="9e5d-de4c-c5d1-1d3e" sortIndex="3"/>
+        <entryLink import="true" name="Warlord" hidden="false" id="b198-11bd-bcc4-5bb3" collective="false" targetId="caa-f869-3cbd-b48e" type="selectionEntry" sortIndex="2"/>
+        <entryLink import="true" name="Crusade" hidden="false" id="5776-3702-c51e-8cd3" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1"/>
+      </entryLinks>
+      <costs>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="75"/>
+        <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
+        <cost name="Crusade: Battle Honours" typeId="75bb-ded1-c86d-bdf0" value="0"/>
+        <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0"/>
+        <cost name="Crusade: Weapon Modifications" typeId="716d-91b7-d55a-1022" value="0"/>
+        <cost name="Honour Points" typeId="8135-9a2f-6627-09e2" value="0"/>
+      </costs>
+      <constraints>
+        <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="9a42-9648-1640-c0f8" includeChildSelections="true" includeChildForces="true"/>
+        <constraint type="max" value="6" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="87d8-4bae-9687-c299" includeChildSelections="false"/>
+        <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="c91d-16a8-4474-3863" includeChildSelections="true"/>
+        <constraint type="min" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="86f4-0e91-05d7-713c" includeChildSelections="true"/>
+      </constraints>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="increment" value="2" field="c91d-16a8-4474-3863">
+              <repeats>
+                <repeat value="1" repeats="1" field="selections" scope="self" childId="d1a5-4297-168b-11cd" shared="true" roundUp="false" includeChildSelections="true"/>
+              </repeats>
+            </modifier>
+            <modifier type="increment" value="2" field="86f4-0e91-05d7-713c">
+              <repeats>
+                <repeat value="1" repeats="1" field="selections" scope="self" childId="d1a5-4297-168b-11cd" shared="true" roundUp="false" includeChildSelections="true"/>
+              </repeats>
+            </modifier>
+            <modifier type="append" value="(Battle-ready)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="atMost" value="5" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atLeast" value="1" field="forces" scope="roster" childId="cac3-71d1-ea4b-795d" shared="true" includeChildSelections="true" includeChildForces="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Blooded)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="5" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="15" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Battle-hardened)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="15" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="30" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Heroic)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="30" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="50" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Legendary)" field="name">
+              <conditions>
+                <condition type="greaterThan" value="50" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="increment" value="1" field="87d8-4bae-9687-c299">
+              <conditions>
+                <condition type="atLeast" value="1" field="selections" scope="self" childId="8dbe-9f09-d44d-07d6" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <comment>Crusade modifiers</comment>
+        </modifierGroup>
+      </modifierGroups>
+    </selectionEntry>
+    <selectionEntry type="model" import="true" name="Rune Priest" hidden="false" id="3c7d-ad4f-31e5-f93b">
+      <costs>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="65"/>
+      </costs>
+      <categoryLinks>
+        <categoryLink name="Character" hidden="false" id="44cb-f59a-dc89-7090" targetId="9cfd-1c32-585f-7d5c" primary="true"/>
+        <categoryLink name="Infantry" hidden="false" id="d90a-3a34-1a6a-7d4e" targetId="cf47-a0d7-7207-29dc" primary="false"/>
+        <categoryLink name="Grenades" hidden="false" id="be79-676b-0cc0-587c" targetId="5a61-81ac-eb7c-a87e" primary="false"/>
+        <categoryLink name="Imperium" hidden="false" id="f9a0-04d5-4162-5a10" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
+        <categoryLink name="Psyker" hidden="false" id="82b0-490a-5519-0670" targetId="13bf-2bee-3ae0-b414" primary="false"/>
+        <categoryLink name="Faction: Adeptus Astartes" hidden="false" id="d02f-0a50-a73c-0dc0" targetId="6e7-40c-58d9-e402" primary="false"/>
+        <categoryLink name="Librarian" hidden="false" id="bfce-f518-9850-ed4b" targetId="2c02-e616-7038-bcd7" primary="false"/>
+        <categoryLink name="Rune Priest" hidden="false" id="0711-007a-d65a-57be" targetId="1ad1-480f-ca53-0aa2" primary="false"/>
+      </categoryLinks>
+      <infoLinks>
+        <infoLink name="Leader" id="fccb-ba60-2601-744d" hidden="false" type="rule" targetId="b4dd-3e1f-41cb-218f"/>
+        <infoLink name="Psychic Hood" id="1904-bb71-0f8b-ab40" hidden="false" type="profile" targetId="116b-b23c-4ea4-30ed"/>
+        <infoLink name="Oath of Moment" id="1731-06fd-56cc-1b17" hidden="false" type="rule" targetId="3b76-4053-ece9-6e7d"/>
+      </infoLinks>
+      <constraints>
+        <constraint type="max" value="3" field="selections" scope="roster" shared="true" id="7318-5622-2f00-ff27" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+        <constraint type="max" value="6" field="75bb-ded1-c86d-bdf0" scope="self" shared="true" id="557e-deff-94cc-32cd" includeChildSelections="false"/>
+        <constraint type="max" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="63bd-8162-7b8e-ef68" includeChildSelections="true"/>
+        <constraint type="min" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="44c2-9f97-a132-02bf" includeChildSelections="true"/>
+      </constraints>
+      <entryLinks>
+        <entryLink import="true" name="Warlord" hidden="false" id="367c-7293-6eb9-98cd" collective="false" targetId="caa-f869-3cbd-b48e" type="selectionEntry" sortIndex="2">
+          <constraints>
+            <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2dcd-4a71-cf3e-d1e0" percentValue="false" includeChildSelections="false" includeChildForces="false"/>
+          </constraints>
+        </entryLink>
+        <entryLink import="true" name="Enhancements" hidden="false" id="14da-3c64-9bca-71e8" type="selectionEntryGroup" targetId="9e5d-de4c-c5d1-1d3e" sortIndex="3"/>
+        <entryLink import="true" name="Crusade" hidden="false" id="5770-9cb9-9299-111a" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1"/>
+      </entryLinks>
+      <profiles>
+        <profile name="Rune Priest" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="4410-ad42-ffd9-7ddb">
+          <characteristics>
+            <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">7&quot;</characteristic>
+            <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">4</characteristic>
+            <characteristic name="SV" typeId="450-a17e-9d5e-29da">3+</characteristic>
+            <characteristic name="W" typeId="750a-a2ec-90d3-21fe">4</characteristic>
+            <characteristic name="LD" typeId="58d2-b879-49c7-43bc">6+</characteristic>
+            <characteristic name="OC" typeId="bef7-942a-1a23-59f8">1</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Storm Caller [Psychic]" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="02c3-5428-c220-39e9">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">While this model is leading a unit, models in that unit the [Stealth] ability.</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Leader" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="4bb4-85b4-620f-6725">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
+
+■ Blood Claws
+■ Grey Hunters
+■ Long Fangs
+■ Wolf Guard
+■ Wolf Guard Headtakers</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <modifierGroups>
+        <modifierGroup type="and">
+          <modifiers>
+            <modifier type="increment" value="2" field="63bd-8162-7b8e-ef68">
+              <repeats>
+                <repeat value="1" repeats="1" field="selections" scope="self" childId="d1a5-4297-168b-11cd" shared="true" roundUp="false" includeChildSelections="true"/>
+              </repeats>
+            </modifier>
+            <modifier type="increment" value="2" field="44c2-9f97-a132-02bf">
+              <repeats>
+                <repeat value="1" repeats="1" field="selections" scope="self" childId="d1a5-4297-168b-11cd" shared="true" roundUp="false" includeChildSelections="true"/>
+              </repeats>
+            </modifier>
+            <modifier type="append" value="(Battle-ready)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="atMost" value="5" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atLeast" value="1" field="forces" scope="roster" childId="cac3-71d1-ea4b-795d" shared="true" includeChildSelections="true" includeChildForces="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Blooded)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="5" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="15" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Battle-hardened)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="15" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="30" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Heroic)" field="name">
+              <conditionGroups>
+                <conditionGroup type="and">
+                  <conditions>
+                    <condition type="greaterThan" value="30" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                    <condition type="atMost" value="50" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </conditionGroup>
+              </conditionGroups>
+            </modifier>
+            <modifier type="append" value="(Legendary)" field="name">
+              <conditions>
+                <condition type="greaterThan" value="50" field="selections" scope="self" childId="2dbf-4d49-5d74-85c9" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </modifier>
+            <modifier type="increment" value="1" field="557e-deff-94cc-32cd">
+              <conditions>
+                <condition type="atLeast" value="1" field="selections" scope="self" childId="8dbe-9f09-d44d-07d6" shared="true" includeChildSelections="true"/>
+              </conditions>
+            </modifier>
+          </modifiers>
+          <comment>Crusade modifiers</comment>
+        </modifierGroup>
+      </modifierGroups>
+      <selectionEntryGroups>
+        <selectionEntryGroup name="Wargear" id="0587-c15e-8e29-cad4" hidden="false" sortIndex="4">
+          <entryLinks>
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="d4ce-8a0a-1d7f-ff2d" type="selectionEntry" targetId="18b0-8c2-173f-5">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="51ba-91f1-69eb-6e83"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d2d1-70cf-4818-efb9"/>
+              </constraints>
+              <entryLinks>
+                <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="d541-05df-1fb5-83c2" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                <entryLink import="true" name="Weapon Upgrades" hidden="false" id="113e-4b64-cfce-08f8" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink import="true" name="Force Weapon" hidden="false" id="ee43-189a-17ad-430a" type="selectionEntry" targetId="905d-bd38-f44c-9eef">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d55f-072a-3466-8af5"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="40e1-d2aa-cb90-4b2f"/>
+              </constraints>
+              <entryLinks>
+                <entryLink import="true" name="Weapon Upgrades" hidden="false" id="857e-38e0-3bf9-c69f" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+              </entryLinks>
+            </entryLink>
+            <entryLink import="true" name="Smite" hidden="false" id="b652-a7df-57c1-9ec2" type="selectionEntry" targetId="4aaa-f353-5fa5-fd92">
+              <constraints>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="da47-3993-4ba1-e35d"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1cca-d7d0-d8ee-36b2"/>
+              </constraints>
+              <entryLinks>
+                <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="ec02-9749-212c-4251" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
+                <entryLink import="true" name="Weapon Upgrades" hidden="false" id="588b-0de0-235a-309e" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
+              </entryLinks>
+            </entryLink>
+          </entryLinks>
+        </selectionEntryGroup>
+      </selectionEntryGroups>
+    </selectionEntry>
   </sharedSelectionEntries>
   <categoryEntries>
     <categoryEntry name="Logan Grimnar" hidden="false" id="48a0-9386-4930-6a62">
@@ -11998,6 +12382,7 @@ a Transport</characteristic>
     <categoryEntry name="Hunting Wolves" id="a41f-0ee2-27ea-2e31" hidden="false"/>
     <categoryEntry name="Wulfen with Storm Shields" id="5e41-161b-7d74-8c8e" hidden="false"/>
     <categoryEntry name="Wolf Lord" id="7709-e8fc-9f3b-6097" hidden="false"/>
+    <categoryEntry name="Rune Priest" id="1ad1-480f-ca53-0aa2" hidden="false"/>
   </categoryEntries>
   <entryLinks>
     <entryLink import="true" name="Logan Grimnar" hidden="false" type="selectionEntry" id="23f-47a2-1700-86cd" targetId="c65-46c6-3a62-80c"/>
@@ -12033,7 +12418,7 @@ a Transport</characteristic>
     <entryLink import="true" name="Wolf Guard Pack Leader in Terminator Armour [Legends]" hidden="true" type="selectionEntry" id="7f3d-fae8-b542-56d2" targetId="a341-f355-7305-58bb"/>
     <entryLink import="true" name="Iron Priest" hidden="false" type="selectionEntry" id="81f7-f8b0-3d4d-5cd4" targetId="3212-bec7-a50e-3363"/>
     <entryLink import="true" name="Cyberwolf [Legends]" hidden="true" type="selectionEntry" id="3f15-36d4-1194-be99" targetId="6a06-e50c-2c7d-3ec3"/>
-    <entryLink import="true" name="Wolf Scouts [Legends]" hidden="true" type="selectionEntry" id="d8d3-d93e-4ead-3e95" targetId="91e4-38c4-a96f-2090"/>
+    <entryLink import="true" name="Wolf Scouts" hidden="false" type="selectionEntry" id="d8d3-d93e-4ead-3e95" targetId="91e4-38c4-a96f-2090"/>
     <entryLink import="true" name="Venerable Dreadnought" hidden="false" type="selectionEntry" id="2797-16d2-806b-6cc7" targetId="c125-1106-f06d-9682"/>
     <entryLink import="true" name="Iron Priest on Thunderwolf [Legends]" hidden="false" type="selectionEntry" id="5fdd-aa39-ff88-1e6c" targetId="6a01-437c-998a-f48e"/>
     <entryLink import="true" name="Wolf Guard Battle Leader" hidden="false" id="5d5e-cd7a-4443-abfb" type="selectionEntry" targetId="bbdb-49fd-da4d-3d7a"/>
@@ -12047,6 +12432,8 @@ a Transport</characteristic>
     <entryLink import="true" name="Wolf Lord in Terminator Armour" hidden="false" id="3a8b-8980-0067-e1d9" type="selectionEntry" targetId="fb77-32ad-f712-cff4"/>
     <entryLink import="true" name="Wolf Lord on Bike" hidden="false" id="0818-e354-f6b2-ecbe" type="selectionEntry" targetId="a67d-2ca1-6e55-9fd0"/>
     <entryLink import="true" name="Swiftclaws" hidden="false" type="selectionEntry" id="3937-1553-6ab8-4e4e" targetId="1d85-cc00-8a83-23d2"/>
+    <entryLink import="true" name="Wolf Lord with Jump Pack" hidden="false" id="aacf-adaf-1405-e30f" type="selectionEntry" targetId="d0ac-c780-1807-2169"/>
+    <entryLink import="true" name="Rune Priest" hidden="false" id="6920-d4b9-c5fc-8b8b" type="selectionEntry" targetId="3c7d-ad4f-31e5-f93b"/>
   </entryLinks>
   <sharedInfoGroups>
     <infoGroup name="Logan" hidden="false" id="976-2d16-9324-f92">
