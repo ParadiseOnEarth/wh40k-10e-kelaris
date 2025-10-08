@@ -2068,9 +2068,10 @@
       </infoLinks>
       <categoryLinks>
         <categoryLink id="2d66-be8b-cb6e-af23" name="Faction: Adeptus Astartes" hidden="false" targetId="6e7-40c-58d9-e402" primary="false"/>
-        <categoryLink id="8925-faca-cacd-a74e" name="Vehicle" hidden="false" targetId="dbd4-63-af05-998" primary="true"/>
+        <categoryLink id="8925-faca-cacd-a74e" name="Vehicle" hidden="false" targetId="dbd4-63-af05-998" primary="false"/>
         <categoryLink id="2973-a3b8-44f8-9a1e" name="Imperium" hidden="false" targetId="aff3-d6a3-2a95-9dc" primary="false"/>
         <categoryLink id="dee9-bde-28c6-299f" name="Deathstorm Drop Pod" hidden="false" targetId="ea32-6c58-5ba8-1817" primary="false"/>
+        <categoryLink name="Dedicated Transport" hidden="false" id="20e5-5bad-8ef1-6574" targetId="ba07-411c-2832-1f79" primary="true"/>
       </categoryLinks>
       <selectionEntryGroups>
         <selectionEntryGroup id="228c-afbe-cf0c-c8ff" name="Wargear" hidden="false" collective="false" import="true" defaultSelectionEntryId="5528-13f6-846b-7e27">
@@ -3665,10 +3666,11 @@
       </costs>
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="7960-fe87-f149-e7a9" primary="false" name="Faction: Adeptus Astartes"/>
-        <categoryLink targetId="dbd4-63-af05-998" id="d208-abb5-930a-13b8" primary="true" name="Vehicle"/>
+        <categoryLink targetId="dbd4-63-af05-998" id="d208-abb5-930a-13b8" primary="false" name="Vehicle"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="44dc-f29f-57f2-daa3" primary="false" name="Imperium"/>
         <categoryLink targetId="75e8-57c4-40e3-1817" id="25f9-7e42-aff1-78ad" primary="false" name="Transport"/>
         <categoryLink targetId="52a1-b7d1-d865-221e" id="5383-66a8-78c0-2325" primary="false" name="Dreadnought Drop Pod"/>
+        <categoryLink name="Dedicated Transport" hidden="false" id="e8b9-78fc-8b84-5907" targetId="ba07-411c-2832-1f79" primary="true"/>
       </categoryLinks>
       <profiles>
         <profile name="Dreadnought Drop Pod" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7183-4d73-b471-99fa">
