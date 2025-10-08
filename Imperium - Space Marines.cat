@@ -30409,7 +30409,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         <categoryLink name="Attacks Dx Weapon" hidden="false" id="dab8-4ba0-4738-1d82" targetId="e993-e086-6de1-12af" primary="false"/>
       </categoryLinks>
     </selectionEntry>
-    <selectionEntry type="model" import="true" name="Deimos Predator" hidden="false" id="534d-4e94-5a8a-75ae">
+    <selectionEntry type="model" import="true" name="Predator Deimos" hidden="false" id="534d-4e94-5a8a-75ae">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="115"/>
       </costs>
@@ -30638,7 +30638,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
         </selectionEntryGroup>
       </selectionEntryGroups>
       <profiles>
-        <profile name="Deimos Predator [Legends]" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="bc09-c99-e403-8752">
+        <profile name="Predator Deimos" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="bc09-c99-e403-8752">
           <characteristics>
             <characteristic name="M" typeId="e703-ecb6-5ce7-aec1">10&quot;</characteristic>
             <characteristic name="T" typeId="d29d-cf75-fc2d-34a4">10</characteristic>
