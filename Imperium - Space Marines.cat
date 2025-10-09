@@ -144,10 +144,10 @@
   </categoryEntries>
   <entryLinks>
     <entryLink import="true" name="Detachment" hidden="false" type="selectionEntry" id="e9ed-6763-ea0d-39fe" targetId="82cb-ba1-1aae-3b1d"/>
-    <entryLink import="true" name="Aggressor Squad" hidden="false" type="selectionEntry" id="d0e-d643-2621-7cc9" targetId="129d-2da5-66f3-f4ec"/>
+    <entryLink import="true" name="Aggressor Squad [Primaris]" hidden="false" type="selectionEntry" id="d0e-d643-2621-7cc9" targetId="129d-2da5-66f3-f4ec"/>
     <entryLink import="true" name="Ancient in Terminator Armor" hidden="false" type="selectionEntry" id="13b9-6251-7254-4b83" targetId="fc7f-8176-c10c-ca8"/>
-    <entryLink import="true" name="Apothecary Biologis" hidden="false" type="selectionEntry" id="63c3-df64-ac9f-cae" targetId="c6e9-c0c8-5f13-5771"/>
-    <entryLink import="true" name="Assault Intercessor Squad" hidden="false" type="selectionEntry" id="c432-5254-8a25-6c8a" targetId="a10b-fbfe-b1fa-6f0c"/>
+    <entryLink import="true" name="Apothecary Biologis [Primaris]" hidden="false" type="selectionEntry" id="63c3-df64-ac9f-cae" targetId="c6e9-c0c8-5f13-5771"/>
+    <entryLink import="true" name="Assault Intercessor Squad [Primaris]" hidden="false" type="selectionEntry" id="c432-5254-8a25-6c8a" targetId="a10b-fbfe-b1fa-6f0c"/>
     <entryLink import="true" name="Assault Squad" hidden="false" type="selectionEntry" id="db5-450b-5c4b-5743" targetId="ca4e-47d5-a704-8e5a">
       <modifiers>
         <modifier type="set" value="true" field="hidden">
@@ -161,7 +161,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Assault Squad with Jump Packs [Legends]" hidden="false" type="selectionEntry" id="4f50-ac01-7a79-3362" targetId="bfe7-b726-9158-d5ad">
+    <entryLink import="true" name="Assault Squad with Jump Packs" hidden="false" type="selectionEntry" id="4f50-ac01-7a79-3362" targetId="bfe7-b726-9158-d5ad">
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditionGroups>
@@ -174,8 +174,8 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Astartes Servitors [Legends]" hidden="false" type="selectionEntry" id="6cd-6624-587-13dd" targetId="74c4-82d0-4c98-2fa8"/>
-    <entryLink import="true" name="Attack Bike Squad [Legends]" hidden="false" type="selectionEntry" id="a9f8-8f6a-73e0-d4ca" targetId="7bef-c609-3897-8bd6">
+    <entryLink import="true" name="Astartes Servitors" hidden="false" type="selectionEntry" id="6cd-6624-587-13dd" targetId="74c4-82d0-4c98-2fa8"/>
+    <entryLink import="true" name="Attack Bike Squad" hidden="false" type="selectionEntry" id="a9f8-8f6a-73e0-d4ca" targetId="7bef-c609-3897-8bd6">
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditionGroups>
@@ -188,52 +188,52 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Ballistus Dreadnought" hidden="false" type="selectionEntry" id="fa66-cda4-10fa-4c69" targetId="5dc7-aa6c-7053-cede"/>
-    <entryLink import="true" name="Bike Squad [Legends]" hidden="false" type="selectionEntry" id="b6b0-9449-1f70-6cfe" targetId="e6c4-3c73-1f0e-816d"/>
-    <entryLink import="true" name="Bladeguard Ancient" hidden="false" type="selectionEntry" id="b596-18b1-d905-fd1d" targetId="9ca5-e5f4-f85d-bcca"/>
-    <entryLink import="true" name="Bladeguard Veteran Squad" hidden="false" type="selectionEntry" id="be1a-7188-94e5-3cfe" targetId="7044-bf1-f949-c32d"/>
-    <entryLink import="true" name="Brutalis Dreadnought" hidden="false" type="selectionEntry" id="f6b9-71b1-297a-c13a" targetId="1c00-9398-b9e7-446a"/>
-    <entryLink import="true" name="Captain in Gravis Armour" hidden="false" type="selectionEntry" id="152d-fdb1-dfcd-2251" targetId="1d56-1cc3-de57-10e2"/>
-    <entryLink import="true" name="Captain in Phobos Armour" hidden="false" type="selectionEntry" id="2632-9483-b17f-ff52" targetId="a976-7cd5-9657-d91a"/>
+    <entryLink import="true" name="Ballistus Dreadnought [Primaris]" hidden="false" type="selectionEntry" id="fa66-cda4-10fa-4c69" targetId="5dc7-aa6c-7053-cede"/>
+    <entryLink import="true" name="Bike Squad" hidden="false" type="selectionEntry" id="b6b0-9449-1f70-6cfe" targetId="e6c4-3c73-1f0e-816d"/>
+    <entryLink import="true" name="Honour Guard Ancient" hidden="false" type="selectionEntry" id="b596-18b1-d905-fd1d" targetId="9ca5-e5f4-f85d-bcca"/>
+    <entryLink import="true" name="Chapter Honour Guard" hidden="false" type="selectionEntry" id="be1a-7188-94e5-3cfe" targetId="7044-bf1-f949-c32d"/>
+    <entryLink import="true" name="Brutalis Dreadnought [Primaris]" hidden="false" type="selectionEntry" id="f6b9-71b1-297a-c13a" targetId="1c00-9398-b9e7-446a"/>
+    <entryLink import="true" name="Captain in Gravis Armour [Primaris]" hidden="false" type="selectionEntry" id="152d-fdb1-dfcd-2251" targetId="1d56-1cc3-de57-10e2"/>
+    <entryLink import="true" name="Captain in Phobos Armour [Primaris]" hidden="false" type="selectionEntry" id="2632-9483-b17f-ff52" targetId="a976-7cd5-9657-d91a"/>
     <entryLink import="true" name="Captain in Terminator Armour" hidden="false" type="selectionEntry" id="5e35-ae82-23e4-bcef" targetId="dc24-dd64-5d97-df3c"/>
-    <entryLink import="true" name="Captain on Bike [Legends]" hidden="false" type="selectionEntry" id="3497-256c-f286-a424" targetId="faf9-bf62-8eb5-a3cb"/>
+    <entryLink import="true" name="Captain on Bike" hidden="false" type="selectionEntry" id="3497-256c-f286-a424" targetId="faf9-bf62-8eb5-a3cb"/>
     <entryLink import="true" name="Captain with Jump Pack" hidden="false" type="selectionEntry" id="959a-a3bc-4814-fa9a" targetId="1319-45d-bb95-dfd4"/>
     <entryLink import="true" name="Centurion Assault Squad" hidden="false" type="selectionEntry" id="61b4-2eed-923d-90b1" targetId="2a8a-522d-51e4-3abc"/>
     <entryLink import="true" name="Centurion Devastator Squad" hidden="false" type="selectionEntry" id="4b75-80fc-e858-ff91" targetId="6ba0-cede-e278-f86b"/>
     <entryLink import="true" name="Chaplain in Terminator Armour" hidden="false" type="selectionEntry" id="86ef-6d98-914b-5015" targetId="c026-b762-d0a6-5ef1"/>
     <entryLink import="true" name="Chaplain on Bike" hidden="false" type="selectionEntry" id="618c-29ed-bec5-bd81" targetId="5d1d-2230-8199-3ab3"/>
     <entryLink import="true" name="Chaplain with Jump Pack" hidden="false" type="selectionEntry" id="6b65-2af1-d055-eb4d" targetId="23f1-2df2-7085-cf41"/>
-    <entryLink import="true" name="Command Squad [Legends]" hidden="false" type="selectionEntry" id="5303-3b14-f6dd-81f9" targetId="78ae-14b4-56d0-cc9d"/>
-    <entryLink import="true" name="Desolation Squad" hidden="false" type="selectionEntry" id="d7cd-4833-9dc7-6857" targetId="a3ea-7a0d-fef8-23bf"/>
+    <entryLink import="true" name="Command Squad" hidden="false" type="selectionEntry" id="5303-3b14-f6dd-81f9" targetId="78ae-14b4-56d0-cc9d"/>
+    <entryLink import="true" name="Desolation Squad [Primaris]" hidden="false" type="selectionEntry" id="d7cd-4833-9dc7-6857" targetId="a3ea-7a0d-fef8-23bf"/>
     <entryLink import="true" name="Dreadnought" hidden="false" type="selectionEntry" id="2d11-749e-9510-6657" targetId="d204-13c6-dab1-ecdc"/>
     <entryLink import="true" name="Drop Pod" hidden="false" type="selectionEntry" id="c4d5-4a1b-2b29-d473" targetId="4d57-c5c8-c1a1-e8a6"/>
-    <entryLink import="true" name="Eliminator Squad" hidden="false" type="selectionEntry" id="be63-b837-d723-d3c6" targetId="d6c3-e9d2-430d-6c2f"/>
-    <entryLink import="true" name="Eradicator Squad" hidden="false" type="selectionEntry" id="1b37-d674-f2ef-6d3b" targetId="c570-c6ba-c9dc-5a44"/>
-    <entryLink import="true" name="Firestrike Servo-Turrets" hidden="false" type="selectionEntry" id="7d2-9663-8ccc-8595" targetId="edf8-643b-cd1-3c11"/>
-    <entryLink import="true" name="Gladiator Lancer" hidden="false" type="selectionEntry" id="774e-1b48-d9b4-84b8" targetId="7814-107b-a498-96f6"/>
-    <entryLink import="true" name="Gladiator Reaper" hidden="false" type="selectionEntry" id="67b0-bbc-b17-24f4" targetId="ed20-824b-7419-aebc"/>
-    <entryLink import="true" name="Gladiator Valiant" hidden="false" type="selectionEntry" id="af30-8cda-c8d2-4ac3" targetId="6b89-8147-9b6b-6db1"/>
-    <entryLink import="true" name="Hammerfall Bunker" hidden="false" type="selectionEntry" id="75dd-d7a5-f45c-f90c" targetId="5882-9143-e7c5-ac11"/>
-    <entryLink import="true" name="Heavy Intercessor Squad" hidden="false" type="selectionEntry" id="44a8-9703-5aed-64f" targetId="7324-e591-939b-b675"/>
-    <entryLink import="true" name="Hellblaster Squad" hidden="false" type="selectionEntry" id="4c8-e877-566b-a1ee" targetId="7102-b3a4-9bfc-1b84"/>
-    <entryLink import="true" name="Hunter [Legends]" hidden="false" type="selectionEntry" id="d318-96c5-d134-fa02" targetId="3ad-729-3235-4777"/>
-    <entryLink import="true" name="Impulsor" hidden="false" type="selectionEntry" id="3fe5-fdf6-5abc-c60f" targetId="bfb1-7512-e1a3-9fa2"/>
-    <entryLink import="true" name="Inceptor Squad" hidden="false" type="selectionEntry" id="28ff-a147-b488-2411" targetId="3e14-2a-d358-6ada"/>
-    <entryLink import="true" name="Incursor Squad" hidden="false" type="selectionEntry" id="19ec-f615-a22c-431" targetId="527c-120e-9e4e-9bfe"/>
-    <entryLink import="true" name="Infernus Squad" hidden="false" type="selectionEntry" id="20b3-f504-9c79-bc74" targetId="b007-fc7b-8e4a-b017"/>
-    <entryLink import="true" name="Infiltrator Squad" hidden="false" type="selectionEntry" id="5c31-c468-f354-c0a6" targetId="70dc-ed18-2788-b35a"/>
-    <entryLink import="true" name="Intercessor Squad" hidden="false" type="selectionEntry" id="85b1-eb9a-17a6-e5be" targetId="8da0-4570-c3c-819f"/>
-    <entryLink import="true" name="Invictor Tactical Warsuit" hidden="false" type="selectionEntry" id="868c-850d-ca57-b4b7" targetId="24df-fdd6-4d7b-fc0e"/>
-    <entryLink import="true" name="Invader ATV" hidden="false" type="selectionEntry" id="8b71-580f-ad19-83d7" targetId="8d7b-3dfe-7b91-2490"/>
-    <entryLink import="true" name="Ironclad Dreadnought [Legends]" hidden="false" type="selectionEntry" id="de65-a660-340f-96e8" targetId="64c7-8b87-1b4f-7850"/>
-    <entryLink import="true" name="Land Speeder Tornado [Legends]" hidden="false" type="selectionEntry" id="fb73-22fb-c51c-16ca" targetId="760c-24f2-ac1e-162b"/>
+    <entryLink import="true" name="Eliminator Squad [Primaris]" hidden="false" type="selectionEntry" id="be63-b837-d723-d3c6" targetId="d6c3-e9d2-430d-6c2f"/>
+    <entryLink import="true" name="Eradicator Squad [Primaris]" hidden="false" type="selectionEntry" id="1b37-d674-f2ef-6d3b" targetId="c570-c6ba-c9dc-5a44"/>
+    <entryLink import="true" name="Firestrike Servo-Turrets [Primaris]" hidden="false" type="selectionEntry" id="7d2-9663-8ccc-8595" targetId="edf8-643b-cd1-3c11"/>
+    <entryLink import="true" name="Gladiator Lancer [Primaris]" hidden="false" type="selectionEntry" id="774e-1b48-d9b4-84b8" targetId="7814-107b-a498-96f6"/>
+    <entryLink import="true" name="Gladiator Reaper [Primaris]" hidden="false" type="selectionEntry" id="67b0-bbc-b17-24f4" targetId="ed20-824b-7419-aebc"/>
+    <entryLink import="true" name="Gladiator Valiant [Primaris]" hidden="false" type="selectionEntry" id="af30-8cda-c8d2-4ac3" targetId="6b89-8147-9b6b-6db1"/>
+    <entryLink import="true" name="Hammerfall Bunker [Primaris]" hidden="false" type="selectionEntry" id="75dd-d7a5-f45c-f90c" targetId="5882-9143-e7c5-ac11"/>
+    <entryLink import="true" name="Heavy Intercessor Squad [Primaris]" hidden="false" type="selectionEntry" id="44a8-9703-5aed-64f" targetId="7324-e591-939b-b675"/>
+    <entryLink import="true" name="Hellblaster Squad [Primaris]" hidden="false" type="selectionEntry" id="4c8-e877-566b-a1ee" targetId="7102-b3a4-9bfc-1b84"/>
+    <entryLink import="true" name="Hunter" hidden="false" type="selectionEntry" id="d318-96c5-d134-fa02" targetId="3ad-729-3235-4777"/>
+    <entryLink import="true" name="Impulsor [Primaris]" hidden="false" type="selectionEntry" id="3fe5-fdf6-5abc-c60f" targetId="bfb1-7512-e1a3-9fa2"/>
+    <entryLink import="true" name="Inceptor Squad [Primaris]" hidden="false" type="selectionEntry" id="28ff-a147-b488-2411" targetId="3e14-2a-d358-6ada"/>
+    <entryLink import="true" name="Incursor Squad [Primaris]" hidden="false" type="selectionEntry" id="19ec-f615-a22c-431" targetId="527c-120e-9e4e-9bfe"/>
+    <entryLink import="true" name="Infernus Squad [Primaris]" hidden="false" type="selectionEntry" id="20b3-f504-9c79-bc74" targetId="b007-fc7b-8e4a-b017"/>
+    <entryLink import="true" name="Infiltrator Squad [Primaris]" hidden="false" type="selectionEntry" id="5c31-c468-f354-c0a6" targetId="70dc-ed18-2788-b35a"/>
+    <entryLink import="true" name="Intercessor Squad [Primaris]" hidden="false" type="selectionEntry" id="85b1-eb9a-17a6-e5be" targetId="8da0-4570-c3c-819f"/>
+    <entryLink import="true" name="Invictor Tactical Warsuit [Primaris]" hidden="false" type="selectionEntry" id="868c-850d-ca57-b4b7" targetId="24df-fdd6-4d7b-fc0e"/>
+    <entryLink import="true" name="Invader ATV [Primaris]" hidden="false" type="selectionEntry" id="8b71-580f-ad19-83d7" targetId="8d7b-3dfe-7b91-2490"/>
+    <entryLink import="true" name="Ironclad Dreadnought" hidden="false" type="selectionEntry" id="de65-a660-340f-96e8" targetId="64c7-8b87-1b4f-7850"/>
+    <entryLink import="true" name="Land Speeder Tornado" hidden="false" type="selectionEntry" id="fb73-22fb-c51c-16ca" targetId="760c-24f2-ac1e-162b"/>
     <entryLink import="true" name="Judiciar" hidden="false" type="selectionEntry" id="219b-58dd-df81-b99e" targetId="8dcb-987c-1ab4-b976"/>
     <entryLink import="true" name="Land Raider" hidden="false" type="selectionEntry" id="8c40-7f05-28ff-5e1a" targetId="8cca-9318-3bec-d360"/>
     <entryLink import="true" name="Land Raider Crusader" hidden="false" type="selectionEntry" id="e7d6-b926-8592-d625" targetId="1d65-c592-2e16-b045"/>
     <entryLink import="true" name="Land Raider Redeemer" hidden="false" type="selectionEntry" id="2b9d-9c13-9277-d157" targetId="d361-a36e-1448-264d"/>
-    <entryLink import="true" name="Land Speeder [Legends]" hidden="false" type="selectionEntry" id="a5-bcf5-ff50-3ed3" targetId="5031-c88d-5a9c-754d"/>
-    <entryLink import="true" name="Land Speeder Typhoon [Legends]" hidden="false" type="selectionEntry" id="c236-ccd1-b830-169c" targetId="90fe-d51c-1541-5d60"/>
-    <entryLink import="true" name="Land Speeder Storm [Legends]" hidden="false" type="selectionEntry" id="e415-ca97-489b-5923" targetId="fce3-2e6f-cede-69cc">
+    <entryLink import="true" name="Land Speeder" hidden="false" type="selectionEntry" id="a5-bcf5-ff50-3ed3" targetId="5031-c88d-5a9c-754d"/>
+    <entryLink import="true" name="Land Speeder Typhoon" hidden="false" type="selectionEntry" id="c236-ccd1-b830-169c" targetId="90fe-d51c-1541-5d60"/>
+    <entryLink import="true" name="Land Speeder Storm" hidden="false" type="selectionEntry" id="e415-ca97-489b-5923" targetId="fce3-2e6f-cede-69cc">
       <costs>
         <cost name="pts" typeId="51b2-306e-1021-d207" value="70"/>
       </costs>
@@ -245,34 +245,34 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Librarian in Phobos Armour" hidden="false" type="selectionEntry" id="a8b0-fc91-17d5-5963" targetId="137c-2add-1a51-ee96"/>
-    <entryLink import="true" name="Vanguard Veteran Squad [Legends]" hidden="false" type="selectionEntry" id="aa6a-a87a-8ec3-6aa5" targetId="f1b9-b2e8-4ccf-d6cb"/>
-    <entryLink import="true" name="Librarian with Jump Pack [Legends]" hidden="false" type="selectionEntry" id="8e04-4d58-493e-e8ba" targetId="45af-a02e-e8e2-49f"/>
+    <entryLink import="true" name="Librarian in Phobos Armour [Primaris]" hidden="false" type="selectionEntry" id="a8b0-fc91-17d5-5963" targetId="137c-2add-1a51-ee96"/>
+    <entryLink import="true" name="Vanguard Veteran Squad" hidden="false" type="selectionEntry" id="aa6a-a87a-8ec3-6aa5" targetId="f1b9-b2e8-4ccf-d6cb"/>
+    <entryLink import="true" name="Librarian with Jump Pack" hidden="false" type="selectionEntry" id="8e04-4d58-493e-e8ba" targetId="45af-a02e-e8e2-49f"/>
     <entryLink import="true" name="Librarian in Terminator Armour" hidden="false" type="selectionEntry" id="634d-dab3-fa1a-958c" targetId="2468-24f5-ad9b-8388"/>
-    <entryLink import="true" name="Lieutenant in Phobos Armour" hidden="false" type="selectionEntry" id="7916-7982-2101-bc03" targetId="fe0e-6070-e7b-d4b8"/>
+    <entryLink import="true" name="Lieutenant in Phobos Armour [Primaris]" hidden="false" type="selectionEntry" id="7916-7982-2101-bc03" targetId="fe0e-6070-e7b-d4b8"/>
     <entryLink import="true" name="Apothecary" hidden="false" type="selectionEntry" id="a74c-27a6-a054-e13c" targetId="8a9d-11f-fad-bd0f"/>
-    <entryLink import="true" name="Lieutenant in Reiver Armour" hidden="false" type="selectionEntry" id="537f-5a96-5985-700b" targetId="6dfd-beb0-5b01-b21e"/>
-    <entryLink import="true" name="Lieutenant with Combi-weapon" hidden="false" type="selectionEntry" id="ec05-3b74-7fd8-343" targetId="109f-f71d-56-d9eb"/>
-    <entryLink import="true" name="Thunderfire Cannon [Legends]" hidden="false" type="selectionEntry" id="c0c8-ed41-35d7-d004" targetId="2fa7-e488-c012-4af1"/>
-    <entryLink import="true" name="Outrider Squad" hidden="false" type="selectionEntry" id="da66-4d12-2b43-4360" targetId="b5e8-c34b-566b-8bda"/>
-    <entryLink import="true" name="Scout Bike Squad [Legends]" hidden="false" type="selectionEntry" id="8650-9036-5842-d423" targetId="699f-a59e-baa6-ba8b"/>
+    <entryLink import="true" name="Lieutenant in Reiver Armour [Primaris]" hidden="false" type="selectionEntry" id="537f-5a96-5985-700b" targetId="6dfd-beb0-5b01-b21e"/>
+    <entryLink import="true" name="Lieutenant with Combi-weapon [Primaris]" hidden="false" type="selectionEntry" id="ec05-3b74-7fd8-343" targetId="109f-f71d-56-d9eb"/>
+    <entryLink import="true" name="Thunderfire Cannon" hidden="false" type="selectionEntry" id="c0c8-ed41-35d7-d004" targetId="2fa7-e488-c012-4af1"/>
+    <entryLink import="true" name="Outrider Squad [Primaris]" hidden="false" type="selectionEntry" id="da66-4d12-2b43-4360" targetId="b5e8-c34b-566b-8bda"/>
+    <entryLink import="true" name="Scout Bike Squad" hidden="false" type="selectionEntry" id="8650-9036-5842-d423" targetId="699f-a59e-baa6-ba8b"/>
     <entryLink import="true" name="Rhino" hidden="false" type="selectionEntry" id="efc9-2aff-c5b-6790" targetId="a14e-75ca-ef91-397f"/>
     <entryLink import="true" name="Predator Annihilator" hidden="false" type="selectionEntry" id="57a1-1350-9b3c-9452" targetId="31a-6c3e-5843-4023"/>
-    <entryLink import="true" name="Repulsor Executioner" hidden="false" type="selectionEntry" id="6d49-e23e-978b-7160" targetId="9259-f166-15f2-7f79"/>
-    <entryLink import="true" name="Lieutenant" hidden="false" type="selectionEntry" id="9770-3a56-619e-f390" targetId="ce15-e87e-7cff-b129"/>
-    <entryLink import="true" name="Relic Terminator Squad [Legends]" hidden="false" type="selectionEntry" id="9f08-f0fd-cfdd-57b1" targetId="9d3f-134e-1f5b-531a"/>
+    <entryLink import="true" name="Repulsor Executioner [Primaris]" hidden="false" type="selectionEntry" id="6d49-e23e-978b-7160" targetId="9259-f166-15f2-7f79"/>
+    <entryLink import="true" name="Lieutenant [Primaris]" hidden="false" type="selectionEntry" id="9770-3a56-619e-f390" targetId="ce15-e87e-7cff-b129"/>
+    <entryLink import="true" name="Cataphractii Terminator Squad" hidden="false" type="selectionEntry" id="9f08-f0fd-cfdd-57b1" targetId="9d3f-134e-1f5b-531a"/>
     <entryLink import="true" name="Predator Destructor" hidden="false" type="selectionEntry" id="90c2-1ed5-bebf-73e8" targetId="d4c8-dd6a-cd7a-ccc3"/>
-    <entryLink import="true" name="Redemptor Dreadnought" hidden="false" type="selectionEntry" id="fcb6-80ca-22a-4771" targetId="1d94-b3c8-9205-827e"/>
+    <entryLink import="true" name="Redemptor Dreadnought [Primaris]" hidden="false" type="selectionEntry" id="fcb6-80ca-22a-4771" targetId="1d94-b3c8-9205-827e"/>
     <entryLink import="true" name="Ancient" hidden="false" type="selectionEntry" id="cd69-af58-774-d387" targetId="6562-d718-b8e0-c457"/>
     <entryLink import="true" name="Primaris Company Champion [Legends]" hidden="false" type="selectionEntry" id="93f6-358f-c8d-7d4d" targetId="36cf-5961-78b9-79ce"/>
     <entryLink import="true" name="Razorback" hidden="false" type="selectionEntry" id="f91-2bd6-3077-9b69" targetId="ed11-25b9-a0eb-89f4"/>
     <entryLink import="true" name="Librarian" hidden="false" type="selectionEntry" id="b62e-cd23-d338-8142" targetId="78eb-9334-f5c0-6095"/>
     <entryLink import="true" name="Chaplain" hidden="false" type="selectionEntry" id="dfb5-f763-308d-e0d9" targetId="ceb5-55c7-2d49-d952"/>
-    <entryLink import="true" name="Reiver Squad" hidden="false" type="selectionEntry" id="72c7-e95f-cade-27d7" targetId="a7ae-e495-683b-7c90"/>
+    <entryLink import="true" name="Reiver Squad [Primaris]" hidden="false" type="selectionEntry" id="72c7-e95f-cade-27d7" targetId="a7ae-e495-683b-7c90"/>
     <entryLink import="true" name="Captain" hidden="false" type="selectionEntry" id="91e3-a419-8c58-98f5" targetId="6c10-5b51-5bc0-8d2c"/>
     <entryLink import="true" name="Techmarine" hidden="false" type="selectionEntry" id="c7ef-84b1-fdf5-c5a8" targetId="e671-cd3a-2b03-3954"/>
-    <entryLink import="true" name="Repulsor" hidden="false" type="selectionEntry" id="b6f6-3b6d-2508-7c12" targetId="e8e-fc5c-c689-99ca"/>
-    <entryLink import="true" name="Scout Sniper Squad [Legends]" hidden="false" type="selectionEntry" id="b90d-26e-4e1e-73ab" targetId="9a96-8de3-f4aa-7497">
+    <entryLink import="true" name="Repulsor [Primaris]" hidden="false" type="selectionEntry" id="b6f6-3b6d-2508-7c12" targetId="e8e-fc5c-c689-99ca"/>
+    <entryLink import="true" name="Scout Sniper Squad" hidden="false" type="selectionEntry" id="b90d-26e-4e1e-73ab" targetId="9a96-8de3-f4aa-7497">
       <modifiers>
         <modifier type="set" value="true" field="hidden">
           <conditions>
@@ -301,15 +301,15 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Suppressor Squad" hidden="false" type="selectionEntry" id="dd1b-428a-9463-f1ee" targetId="97f6-b1f8-c72d-e826"/>
-    <entryLink import="true" name="Storm Speeder Hailstrike" hidden="false" type="selectionEntry" id="5cba-2616-bbb4-771d" targetId="9cb9-9ab5-727f-80e5"/>
-    <entryLink import="true" name="Stalker [Legends]" hidden="false" type="selectionEntry" id="66d7-24ac-9496-23be" targetId="adcd-2954-5a7f-d7ed"/>
+    <entryLink import="true" name="Suppressor Squad [Primaris]" hidden="false" type="selectionEntry" id="dd1b-428a-9463-f1ee" targetId="97f6-b1f8-c72d-e826"/>
+    <entryLink import="true" name="Storm Speeder Hailstrike [Primaris]" hidden="false" type="selectionEntry" id="5cba-2616-bbb4-771d" targetId="9cb9-9ab5-727f-80e5"/>
+    <entryLink import="true" name="Stalker" hidden="false" type="selectionEntry" id="66d7-24ac-9496-23be" targetId="adcd-2954-5a7f-d7ed"/>
     <entryLink import="true" name="Sternguard Veteran Squad" hidden="false" type="selectionEntry" id="bc4e-8331-8179-255b" targetId="907f-11-c4d1-ec21"/>
-    <entryLink import="true" name="Storm Speeder Hammerstrike" hidden="false" type="selectionEntry" id="44fa-abe-61ee-c8ab" targetId="9489-445c-f950-7292"/>
-    <entryLink import="true" name="Storm Speeder Thunderstrike" hidden="false" type="selectionEntry" id="e1c7-4bd8-ebad-6154" targetId="993a-9cbc-8052-e40"/>
+    <entryLink import="true" name="Storm Speeder Hammerstrike [Primaris]" hidden="false" type="selectionEntry" id="44fa-abe-61ee-c8ab" targetId="9489-445c-f950-7292"/>
+    <entryLink import="true" name="Storm Speeder Thunderstrike [Primaris]" hidden="false" type="selectionEntry" id="e1c7-4bd8-ebad-6154" targetId="993a-9cbc-8052-e40"/>
     <entryLink import="true" name="Stormhawk Interceptor" hidden="false" type="selectionEntry" id="b8d1-94bf-bbad-c41e" targetId="3d99-47aa-8cf3-883f"/>
     <entryLink import="true" name="Vindicator" hidden="false" type="selectionEntry" id="ac92-1f43-46e4-bfa7" targetId="cb6d-201f-4888-3027"/>
-    <entryLink import="true" name="Kratos [Legends]" hidden="false" type="selectionEntry" id="a1f-8e28-eb5d-7cd1" targetId="78aa-3f99-5fb7-7f83">
+    <entryLink import="true" name="Kratos" hidden="false" type="selectionEntry" id="a1f-8e28-eb5d-7cd1" targetId="78aa-3f99-5fb7-7f83">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="d936-1066-ed7f-f225" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="8708-7263-ccd-142b" primary="false" name="Imperium"/>
@@ -390,7 +390,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Deredeo Dreadnought [Legends]" hidden="false" type="selectionEntry" id="4edd-c031-f40-60cb" targetId="d38d-c3a2-f753-efea">
+    <entryLink import="true" name="Deredeo Dreadnought" hidden="false" type="selectionEntry" id="4edd-c031-f40-60cb" targetId="d38d-c3a2-f753-efea">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="e3ba-8a1d-4801-3ad3" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="605-9287-7920-e193" primary="false" name="Imperium"/>
@@ -471,7 +471,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Relic Contemptor Dreadnought [Legends]" hidden="false" type="selectionEntry" id="6a6e-7e3d-2721-35bc" targetId="783a-1c02-b377-b169">
+    <entryLink import="true" name="Relic Contemptor Dreadnought" hidden="false" type="selectionEntry" id="6a6e-7e3d-2721-35bc" targetId="783a-1c02-b377-b169">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="870b-6c30-3cb6-6237" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="c296-e94a-4fb1-1096" primary="false" name="Imperium"/>
@@ -552,7 +552,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Leviathan Dreadnought [Legends]" hidden="false" type="selectionEntry" id="c88c-5a05-c07f-bfc1" targetId="14d4-8062-f090-6719">
+    <entryLink import="true" name="Leviathan Dreadnought" hidden="false" type="selectionEntry" id="c88c-5a05-c07f-bfc1" targetId="14d4-8062-f090-6719">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="10a9-a6da-552c-79c5" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="c67c-3cba-b07e-b842" primary="false" name="Imperium"/>
@@ -710,7 +710,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Deathstorm Drop Pod [Legends]" hidden="false" type="selectionEntry" id="266a-70d9-cc0d-b7c" targetId="68be-7090-1fbc-9021">
+    <entryLink import="true" name="Deathstorm Drop Pod" hidden="false" type="selectionEntry" id="266a-70d9-cc0d-b7c" targetId="68be-7090-1fbc-9021">
       <entryLinks>
         <entryLink import="true" name="Crusade" hidden="false" id="3f79-ee71-ed07-9d47" type="selectionEntryGroup" targetId="9a99-f13c-a667-e698" sortIndex="1"/>
       </entryLinks>
@@ -868,7 +868,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Land Raider Achilles [Legends]" hidden="false" type="selectionEntry" id="b695-9234-c39e-83bd" targetId="3006-ffe-2b0c-6b1b">
+    <entryLink import="true" name="Land Raider Achilles" hidden="false" type="selectionEntry" id="b695-9234-c39e-83bd" targetId="3006-ffe-2b0c-6b1b">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="1f28-cf7e-1fcc-a3e1" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="8d10-9034-d289-3421" primary="false" name="Imperium"/>
@@ -1354,7 +1354,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Rapier Carrier [Legends]" hidden="false" type="selectionEntry" id="235d-274d-1944-b1dd" targetId="2aee-e03c-836e-4c6e">
+    <entryLink import="true" name="Rapier Carrier" hidden="false" type="selectionEntry" id="235d-274d-1944-b1dd" targetId="2aee-e03c-836e-4c6e">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="237f-bbf4-eb3c-7be0" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="6754-fb1d-f176-d793" primary="false" name="Imperium"/>
@@ -1435,7 +1435,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Whirlwind Scorpius [Legends]" hidden="false" type="selectionEntry" id="7795-911d-2974-74e7" targetId="97dc-f0c8-1354-88fb">
+    <entryLink import="true" name="Whirlwind Scorpius" hidden="false" type="selectionEntry" id="7795-911d-2974-74e7" targetId="97dc-f0c8-1354-88fb">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="1847-94f2-5d09-1a04" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="e0f3-f119-ccff-8e92" primary="false" name="Imperium"/>
@@ -1597,7 +1597,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Dreadnought Drop Pod [Legends]" hidden="false" type="selectionEntry" id="dcce-7138-db27-ba2" targetId="7fd0-d95d-d076-3472">
+    <entryLink import="true" name="Dreadnought Drop Pod" hidden="false" type="selectionEntry" id="dcce-7138-db27-ba2" targetId="7fd0-d95d-d076-3472">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="71ef-f2f6-c512-1233" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="63de-5065-dc8-a022" primary="false" name="Imperium"/>
@@ -1759,7 +1759,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Xiphon Interceptor [Legends]" hidden="false" type="selectionEntry" id="b733-bbb9-7d4e-ee8f" targetId="1aa5-d081-2442-4c37">
+    <entryLink import="true" name="Xiphon Interceptor" hidden="false" type="selectionEntry" id="b733-bbb9-7d4e-ee8f" targetId="1aa5-d081-2442-4c37">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="ad90-1caa-46f7-cc01" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="5c0e-2c7a-c9f6-f52a" primary="false" name="Imperium"/>
@@ -1840,7 +1840,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Storm Eagle Gunship [Legends]" hidden="false" type="selectionEntry" id="1588-c304-7a3e-e4df" targetId="3b7d-b14e-603-e1ad">
+    <entryLink import="true" name="Storm Eagle Gunship" hidden="false" type="selectionEntry" id="1588-c304-7a3e-e4df" targetId="3b7d-b14e-603-e1ad">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="3824-5cf3-43ec-837f" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="a5c4-687-eeb0-a751" primary="false" name="Imperium"/>
@@ -1921,7 +1921,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Fire Raptor Gunship [Legends]" hidden="false" type="selectionEntry" id="506c-80e8-14a1-616f" targetId="1fc7-7880-e4d4-acbf">
+    <entryLink import="true" name="Fire Raptor Gunship" hidden="false" type="selectionEntry" id="506c-80e8-14a1-616f" targetId="1fc7-7880-e4d4-acbf">
       <categoryLinks>
         <categoryLink targetId="6e7-40c-58d9-e402" id="b8be-482a-449b-d1f6" primary="false" name="Faction: Adeptus Astartes"/>
         <categoryLink targetId="aff3-d6a3-2a95-9dc" id="a781-4f58-a3a6-7276" primary="false" name="Imperium"/>
@@ -2650,7 +2650,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Astraeus" hidden="false" type="selectionEntry" id="32de-a3b5-56f5-60b6" targetId="98db-fff3-b1b2-e22f"/>
+    <entryLink import="true" name="Astraeus [Primaris]" hidden="false" type="selectionEntry" id="32de-a3b5-56f5-60b6" targetId="98db-fff3-b1b2-e22f"/>
     <entryLink import="true" name="Thunderhawk Gunship" hidden="false" type="selectionEntry" id="374a-c2f0-2a2c-4d63" targetId="3416-dfee-84ee-e21d"/>
     <entryLink import="true" name="Devastator Squad" hidden="false" type="selectionEntry" id="35c-409a-cf8e-870a" targetId="3f4c-1e67-66dc-ffa5">
       <modifiers>
@@ -2672,29 +2672,29 @@
         <entryLink import="true" name="Show Titans" hidden="false" type="selectionEntry" id="7117-d2ee-6c97-a4ea" targetId="f26b-79db-80e0-3a3b"/>
       </entryLinks>
     </entryLink>
-    <entryLink import="true" name="Land Raider Helios [Legends]" hidden="false" type="selectionEntry" id="c8f-979d-913b-2bad" targetId="f62a-bea1-a015-3668"/>
-    <entryLink import="true" name="Mortis Dreadnought [Legends]" hidden="false" type="selectionEntry" id="b1ba-c9c4-557b-4a47" targetId="525c-7e0-b0de-8a6f"/>
-    <entryLink import="true" name="Deimos Predator [Legends]" hidden="false" type="selectionEntry" id="569e-478f-3778-555b" targetId="534d-4e94-5a8a-75ae"/>
-    <entryLink import="true" name="Chaplain Venerable Dreadnought [Legends]" hidden="false" type="selectionEntry" id="d8c8-3031-2faa-22a6" targetId="b51-a07d-6440-e1ad"/>
-    <entryLink import="true" name="Land Speeder Tempest [Legends]" hidden="false" type="selectionEntry" id="9683-3b69-ae2f-d527" targetId="d4ad-4638-c7a7-1af6"/>
+    <entryLink import="true" name="Land Raider Helios" hidden="false" type="selectionEntry" id="c8f-979d-913b-2bad" targetId="f62a-bea1-a015-3668"/>
+    <entryLink import="true" name="Mortis Dreadnought" hidden="false" type="selectionEntry" id="b1ba-c9c4-557b-4a47" targetId="525c-7e0-b0de-8a6f"/>
+    <entryLink import="true" name="Predator Deimos" hidden="false" type="selectionEntry" id="569e-478f-3778-555b" targetId="534d-4e94-5a8a-75ae"/>
+    <entryLink import="true" name="Chaplain Venerable Dreadnought" hidden="false" type="selectionEntry" id="d8c8-3031-2faa-22a6" targetId="b51-a07d-6440-e1ad"/>
+    <entryLink import="true" name="Land Speeder Tempest" hidden="false" type="selectionEntry" id="9683-3b69-ae2f-d527" targetId="d4ad-4638-c7a7-1af6"/>
     <entryLink import="true" name="Carab Culln the Risen [Legends]" hidden="false" type="selectionEntry" id="64c2-9759-7dd3-89dc" targetId="103c-8f97-ed61-1922"/>
-    <entryLink import="true" name="Caestus Assault Ram [Legends]" hidden="false" type="selectionEntry" id="2b90-3730-69d-d0c0" targetId="df9b-111-d64a-e298"/>
-    <entryLink import="true" name="Land Raider Prometheus [Legends]" hidden="false" type="selectionEntry" id="2266-31ab-d8cc-b280" targetId="bbc6-900e-c5f2-d634"/>
+    <entryLink import="true" name="Caestus Assault Ram" hidden="false" type="selectionEntry" id="2b90-3730-69d-d0c0" targetId="df9b-111-d64a-e298"/>
+    <entryLink import="true" name="Land Raider Prometheus" hidden="false" type="selectionEntry" id="2266-31ab-d8cc-b280" targetId="bbc6-900e-c5f2-d634"/>
     <entryLink import="true" name="Imperial Space Marine [Legends]" hidden="false" type="selectionEntry" id="f926-58fc-de94-89c2" targetId="faa-3b84-1365-9c22"/>
-    <entryLink import="true" name="Terminus Ultra [Legends]" hidden="false" type="selectionEntry" id="38ae-1eb3-c1f3-eaec" targetId="d4c6-55c1-e552-9f6c"/>
-    <entryLink import="true" name="Relic Razorback [Legends]" hidden="false" type="selectionEntry" id="7273-3725-1bd8-b1df" targetId="2a4c-d1a-95c9-f4cf"/>
-    <entryLink import="true" name="Company Veterans on Bikes [Legends]" hidden="false" type="selectionEntry" id="3413-f351-cfb0-d33b" targetId="a40-ff3f-c1ea-fea7"/>
-    <entryLink import="true" name="Company Champion on Bike [Legends]" hidden="false" type="selectionEntry" id="2567-b3bf-f1b-26d5" targetId="97c3-20c8-4c99-39e5"/>
-    <entryLink import="true" name="Ancient on Bike [Legends]" hidden="false" type="selectionEntry" id="1135-ac85-67e9-25aa" targetId="e4c7-b10c-6896-3f0"/>
-    <entryLink import="true" name="Apothecary on Bike [Legends]" hidden="false" type="selectionEntry" id="3e83-39d9-ee6a-7157" targetId="449f-a74d-e85a-2684"/>
-    <entryLink import="true" name="Techmarine on Bike [Legends]" hidden="false" type="selectionEntry" id="f044-7d53-b48f-f6b5" targetId="33e2-3ddf-7063-df9e"/>
-    <entryLink import="true" name="Librarian on Bike [Legends]" hidden="false" type="selectionEntry" id="faf9-d221-4c79-88cf" targetId="1039-4a94-c791-9e1d"/>
-    <entryLink import="true" name="Thunderhawk Transporter [Legends]" hidden="false" type="selectionEntry" id="8d93-37e8-abb3-927e" targetId="1051-f1e8-4ef2-4575"/>
-    <entryLink import="true" name="Tarantula Air Defense Battery [Legends]" hidden="false" type="selectionEntry" id="5582-6675-c288-e3a7" targetId="6a7a-9078-8af1-c02e"/>
-    <entryLink import="true" name="Venerable Dreadnought [Legends]" hidden="false" type="selectionEntry" id="98e6-9432-712c-d0b1" targetId="60cb-cc1-c820-86f5"/>
-    <entryLink import="true" name="Rhino Primaris [Legends]" hidden="false" type="selectionEntry" id="5c5e-e5c9-70b-69df" targetId="80d1-496f-40fd-c154"/>
-    <entryLink import="true" name="Land Raider Excelsior [Legends]" hidden="false" type="selectionEntry" id="3988-1455-febb-f046" targetId="c8e1-69a5-1121-6f79"/>
-    <entryLink import="true" name="Assault Intercessors with Jump Packs" hidden="false" type="selectionEntry" id="ce90-be8f-9f47-6641" targetId="cdd9-efda-95-e7b2"/>
+    <entryLink import="true" name="Land Raider Terminus Ultra" hidden="false" type="selectionEntry" id="38ae-1eb3-c1f3-eaec" targetId="d4c6-55c1-e552-9f6c"/>
+    <entryLink import="true" name="Relic Razorback" hidden="false" type="selectionEntry" id="7273-3725-1bd8-b1df" targetId="2a4c-d1a-95c9-f4cf"/>
+    <entryLink import="true" name="Company Veterans on Bikes" hidden="false" type="selectionEntry" id="3413-f351-cfb0-d33b" targetId="a40-ff3f-c1ea-fea7"/>
+    <entryLink import="true" name="Company Champion on Bike" hidden="false" type="selectionEntry" id="2567-b3bf-f1b-26d5" targetId="97c3-20c8-4c99-39e5"/>
+    <entryLink import="true" name="Ancient on Bike" hidden="false" type="selectionEntry" id="1135-ac85-67e9-25aa" targetId="e4c7-b10c-6896-3f0"/>
+    <entryLink import="true" name="Apothecary on Bike" hidden="false" type="selectionEntry" id="3e83-39d9-ee6a-7157" targetId="449f-a74d-e85a-2684"/>
+    <entryLink import="true" name="Techmarine on Bike" hidden="false" type="selectionEntry" id="f044-7d53-b48f-f6b5" targetId="33e2-3ddf-7063-df9e"/>
+    <entryLink import="true" name="Librarian on Bike" hidden="false" type="selectionEntry" id="faf9-d221-4c79-88cf" targetId="1039-4a94-c791-9e1d"/>
+    <entryLink import="true" name="Thunderhawk Transporter" hidden="false" type="selectionEntry" id="8d93-37e8-abb3-927e" targetId="1051-f1e8-4ef2-4575"/>
+    <entryLink import="true" name="Tarantula Air Defense Battery" hidden="false" type="selectionEntry" id="5582-6675-c288-e3a7" targetId="6a7a-9078-8af1-c02e"/>
+    <entryLink import="true" name="Venerable Dreadnought" hidden="false" type="selectionEntry" id="98e6-9432-712c-d0b1" targetId="60cb-cc1-c820-86f5"/>
+    <entryLink import="true" name="Rhino Primaris" hidden="false" type="selectionEntry" id="5c5e-e5c9-70b-69df" targetId="80d1-496f-40fd-c154"/>
+    <entryLink import="true" name="Land Raider Excelsior" hidden="false" type="selectionEntry" id="3988-1455-febb-f046" targetId="c8e1-69a5-1121-6f79"/>
+    <entryLink import="true" name="Assault Intercessors with Jump Packs [Primaris]" hidden="false" type="selectionEntry" id="ce90-be8f-9f47-6641" targetId="cdd9-efda-95-e7b2"/>
     <entryLink import="true" name="Company Heroes" hidden="false" type="selectionEntry" id="8a1e-45c9-7719-b8c3" targetId="2f2e-d99b-b235-163a"/>
     <entryLink import="true" name="Order of Battle" hidden="false" id="b013-5371-9474-ec33" type="selectionEntry" targetId="eda7-8b4b-3719-af36">
       <entryLinks>
@@ -4196,7 +4196,7 @@
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="b231-4afe-7568-3505" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="b231-4afe-7568-3505" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ef60-66f8-3922-161a"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac01-afd-2211-1194"/>
@@ -4232,7 +4232,7 @@
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a81f-9614-9e96-598f"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="312d-e959-8e7d-4f3a" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="312d-e959-8e7d-4f3a" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ef60-66f8-3922-161a"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac01-afd-2211-1194"/>
@@ -4281,7 +4281,7 @@
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a391-8ce8-423e-768e"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="6c49-d913-160a-6531" type="selectionEntry" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="6c49-d913-160a-6531" type="selectionEntry" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fbf2-c34a-57ad-bfd9"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="eebc-77c0-337b-0001"/>
@@ -4456,7 +4456,7 @@
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Plasma Pistol" hidden="false" id="25c2-104f-fa0c-809e">
       <profiles>
-        <profile id="4a80-2594-8839-c0bf" name="➤ Plasma Pistol - Supercharge" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
+        <profile id="4a80-2594-8839-c0bf" name="Plasma Pistol" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
@@ -4465,31 +4465,6 @@
             <characteristic name="AP" typeId="9ead-8a10-520-de15">-3</characteristic>
             <characteristic name="D" typeId="a354-c1c8-a745-f9e3">2</characteristic>
             <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Hazardous, Pistol</characteristic>
-          </characteristics>
-          <modifiers>
-            <modifier type="set" value="2+" field="94d-8a98-cf90-183e">
-              <conditionGroups>
-                <conditionGroup type="or">
-                  <conditions>
-                    <condition type="instanceOf" value="1" field="selections" scope="ancestor" childId="2d7f-1892-2fd0-e29c" shared="true"/>
-                    <condition type="instanceOf" value="1" field="selections" scope="ancestor" childId="9c1a-42ff-a418-11d1" shared="true"/>
-                    <condition type="instanceOf" value="1" field="selections" scope="ancestor" childId="b95-bdb8-c3e1-456b" shared="true"/>
-                    <condition type="instanceOf" value="1" field="selections" scope="ancestor" childId="b957-d9cd-ee81-560" shared="true"/>
-                  </conditions>
-                </conditionGroup>
-              </conditionGroups>
-            </modifier>
-          </modifiers>
-        </profile>
-        <profile id="5edb-fb23-55e8-8415" name="➤ Plasma Pistol - Standard" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
-          <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
-            <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
-            <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-            <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-            <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Pistol</characteristic>
           </characteristics>
           <modifiers>
             <modifier type="set" value="2+" field="94d-8a98-cf90-183e">
@@ -4626,7 +4601,7 @@
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8647-137d-9347-3fe0"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="fee7-a7c3-205e-1790" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="fee7-a7c3-205e-1790" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5ad4-7be8-e2cf-45dc"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="921e-efec-6e66-2e7d"/>
@@ -4658,7 +4633,7 @@
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="74e6-4e5c-e879-c0f2"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="5d03-ed3c-ba29-b772" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="5d03-ed3c-ba29-b772" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5ad4-7be8-e2cf-45dc"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="921e-efec-6e66-2e7d"/>
@@ -5122,7 +5097,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 </selectionEntry>
               </selectionEntries>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="d2f8-3a63-13bc-6fe9" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="d2f8-3a63-13bc-6fe9" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9a60-9d36-ee60-d013"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="45e0-2b3f-65ce-b1f6"/>
@@ -5188,7 +5163,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="a9a0-3575-014f-5592" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="4a52-7eb9-daec-ae8e" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="4a52-7eb9-daec-ae8e" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ae42-d1b2-8bb6-1c20"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3738-5408-514f-98ad"/>
@@ -5219,7 +5194,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2f05-7a59-e61b-fc81"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="f8d8-e15f-b0e2-1d16" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="f8d8-e15f-b0e2-1d16" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9a60-9d36-ee60-d013"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="45e0-2b3f-65ce-b1f6"/>
@@ -5437,7 +5412,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 </selectionEntry>
               </selectionEntries>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="60ac-e5fb-8c18-cb23" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="60ac-e5fb-8c18-cb23" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ef60-66f8-3922-161a"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac01-afd-2211-1194"/>
@@ -5493,7 +5468,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 </selectionEntry>
               </selectionEntries>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="7ba0-e0a-341f-f3fe" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="7ba0-e0a-341f-f3fe" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ef60-66f8-3922-161a"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac01-afd-2211-1194"/>
@@ -5695,7 +5670,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6ca2-97c-766f-a1ed"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="cd78-ba6a-c45e-d0cb" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="cd78-ba6a-c45e-d0cb" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ef60-66f8-3922-161a"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac01-afd-2211-1194"/>
@@ -5771,7 +5746,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="5f77-3b5b-57b6-f323"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ab39-8daf-3727-d6ec" targetId="18b0-8c2-173f-5" collective="false">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ab39-8daf-3727-d6ec" targetId="18b0-8c2-173f-5" collective="false">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ef60-66f8-3922-161a"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ac01-afd-2211-1194"/>
@@ -5987,7 +5962,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="1a10-2f1d-5108-12aa"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="7524-1927-3f5f-31b3" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="7524-1927-3f5f-31b3" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fdd5-8248-26bd-e7b5"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="16cb-5831-173d-e74f"/>
@@ -6056,7 +6031,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="3604-f8a1-0032-d1e1" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="206f-d005-75c8-2fe5" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="206f-d005-75c8-2fe5" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="7cab-e403-7c51-a539" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -6188,7 +6163,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="2b56-ee28-d399-a360" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="2b56-ee28-d399-a360" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fdd5-8248-26bd-e7b5"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="16cb-5831-173d-e74f"/>
@@ -6219,7 +6194,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b7d6-3187-c137-6483"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="2d7-6d94-7b68-c94f" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="2d7-6d94-7b68-c94f" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fdd5-8248-26bd-e7b5"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="16cb-5831-173d-e74f"/>
@@ -6421,18 +6396,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Plasma Gun" hidden="false" id="4f0e-770d-bae4-bfc3">
       <profiles>
-        <profile name="➤ Plasma Gun - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="6981-dd4b-abd7-7555">
-          <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
-            <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
-            <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-            <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-            <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Rapid Fire 1</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="➤ Plasma Gun - Supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="d269-b979-c324-17a3">
+        <profile name="Plasma Gun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="d269-b979-c324-17a3">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
@@ -6633,18 +6597,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Plasma Cannon" hidden="false" id="47ef-a0e2-2cb0-845d">
       <profiles>
-        <profile name="➤ Plasma Cannon - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c903-8cbf-c0eb-edf3">
-          <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
-            <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
-            <characteristic name="BS" typeId="94d-8a98-cf90-183e">4+</characteristic>
-            <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-            <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Blast, Heavy</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="➤ Plasma Cannon - Supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="2d27-a709-86e6-ee88">
+        <profile name="Plasma Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="2d27-a709-86e6-ee88">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
@@ -6870,7 +6823,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ceb-d185-e2d8-44d8"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="d55-815-395c-12c7" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="d55-815-395c-12c7" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="87a9-7716-3736-daab"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1f39-dab5-5379-e1e2"/>
@@ -6905,7 +6858,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="4181-d750-0940-0919" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="199e-ab71-f29f-51a2" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="199e-ab71-f29f-51a2" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="cb72-939b-4f49-96ec-min"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cb72-939b-4f49-96ec-max"/>
@@ -6992,7 +6945,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Scouts w/ Astartes Shotgun" hidden="false" id="9348-3b0f-f0dc-978b">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="9fbe-a721-1e37-83aa" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="9fbe-a721-1e37-83aa" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="87a9-7716-3736-daab"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1f39-dab5-5379-e1e2"/>
@@ -7047,7 +7000,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Scouts w/ Combat Knife" hidden="false" id="5173-cc7b-b53a-514">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="9660-bb43-b2d5-2c31" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="9660-bb43-b2d5-2c31" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="87a9-7716-3736-daab"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1f39-dab5-5379-e1e2"/>
@@ -7099,7 +7052,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Scout w/ Heavy Weapon" hidden="false" id="9ed8-177c-3a9-f928">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="1ab7-7996-2c8-2570" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="1ab7-7996-2c8-2570" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="87a9-7716-3736-daab"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1f39-dab5-5379-e1e2"/>
@@ -7187,7 +7140,7 @@ this unit, add 1 to any armour saving throw made against that attack.</character
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2c46-5d5f-cf73-237"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="5076-e3eb-c3f8-6438" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="5076-e3eb-c3f8-6438" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b56c-eee8-441e-af68"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d5ec-8325-df1d-3bf1"/>
@@ -7379,7 +7332,7 @@ Strategic Reserves.</characteristic>
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="30e9-3243-2f0f-e5a2" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="eb0f-e5de-6cf7-a473" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="eb0f-e5de-6cf7-a473" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="145c-b9a8-a91d-9982"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="376f-ee0f-1bde-8394"/>
@@ -7440,7 +7393,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f4ee-3b7c-f996-5d98"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="5477-3bfa-cc49-bd9e" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="5477-3bfa-cc49-bd9e" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="145c-b9a8-a91d-9982"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="376f-ee0f-1bde-8394"/>
@@ -7484,7 +7437,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f4ee-3b7c-f996-5d98"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="8998-4abe-766-b832" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="8998-4abe-766-b832" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="145c-b9a8-a91d-9982"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="376f-ee0f-1bde-8394"/>
@@ -7942,7 +7895,7 @@ Strategic Reserves.</characteristic>
                     <entryLink import="true" name="Plasma Pistol" hidden="false" type="selectionEntry" id="21a2-c26f-42dd-99be" targetId="25c2-104f-fa0c-809e"/>
                     <entryLink import="true" name="Inferno Pistol" hidden="false" type="selectionEntry" id="36e4-2755-1409-b487" targetId="d8bf-e17f-d6fa-b7e8"/>
                     <entryLink import="true" name="Hand Flamer" hidden="false" type="selectionEntry" id="22ee-1d48-f002-f934" targetId="9dc6-6ad8-818e-db2e"/>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="c252-ce95-be5e-ac20" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="c252-ce95-be5e-ac20" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                     <entryLink import="true" name="Grav-pistol" hidden="false" id="80cd-8bf0-6305-4e04" type="selectionEntry" targetId="5c5f-bb5a-eb8a-5460"/>
                   </entryLinks>
                 </selectionEntryGroup>
@@ -7991,7 +7944,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1e5e-4895-4b44-34dc"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="3920-2e53-55d7-7b50" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="3920-2e53-55d7-7b50" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="cc63-2cb2-1978-3ce2" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -8208,7 +8161,7 @@ Strategic Reserves.</characteristic>
                     <entryLink import="true" name="Plasma Pistol" hidden="false" type="selectionEntry" id="8bba-7d74-1a84-17f3" targetId="25c2-104f-fa0c-809e"/>
                     <entryLink import="true" name="Inferno Pistol" hidden="false" type="selectionEntry" id="4272-bff4-d645-508a" targetId="d8bf-e17f-d6fa-b7e8"/>
                     <entryLink import="true" name="Hand Flamer" hidden="false" type="selectionEntry" id="da32-2d60-3413-b489" targetId="9dc6-6ad8-818e-db2e"/>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="9311-cda1-9bd6-1827" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="9311-cda1-9bd6-1827" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                     <entryLink import="true" name="Grav-pistol" hidden="false" id="c55b-8850-abf4-7913" type="selectionEntry" targetId="1f74-a1b-2835-ccdd"/>
                   </entryLinks>
                 </selectionEntryGroup>
@@ -8257,7 +8210,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1e5e-4895-4b44-34dc"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="aed6-a6f1-3d35-81b" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="aed6-a6f1-3d35-81b" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="bd6b-b09a-acd9-b275" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -12969,7 +12922,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9053-492f-ce2b-7885"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ad8a-8104-dc08-4f0e" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ad8a-8104-dc08-4f0e" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="50e6-1353-435d-c0a4" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -13240,7 +13193,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="90a9-71be-58d7-64d3"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="336f-46ab-21be-1499" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="336f-46ab-21be-1499" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7507-14e2-3d6c-b894"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9217-c666-746f-97db"/>
@@ -13420,7 +13373,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9053-492f-ce2b-7885"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="d1d1-b62a-20f4-78ab" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="d1d1-b62a-20f4-78ab" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="dd18-1d31-c700-ce4d" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -13684,7 +13637,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="90a9-71be-58d7-64d3"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="7d44-f97e-9224-6c35" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="7d44-f97e-9224-6c35" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7507-14e2-3d6c-b894"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9217-c666-746f-97db"/>
@@ -13851,7 +13804,7 @@ by 1.</characteristic>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="692c-f7be-75d4-ba2d" hidden="false" sortIndex="2">
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="8b02-bd1a-1c87-d2d3" type="selectionEntry" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="8b02-bd1a-1c87-d2d3" type="selectionEntry" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="8c97-ee2d-a137-da7d"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="114d-9969-ef33-3f1c"/>
@@ -14152,7 +14105,7 @@ by 1.</characteristic>
         </profile>
       </profiles>
       <entryLinks>
-        <entryLink import="true" name="Invader ATV" hidden="false" type="selectionEntry" id="eb06-eea4-a9d6-dba5" targetId="8d7b-3dfe-7b91-2490" sortIndex="3">
+        <entryLink import="true" name="Invader ATV [Primaris]" hidden="false" type="selectionEntry" id="eb06-eea4-a9d6-dba5" targetId="8d7b-3dfe-7b91-2490" sortIndex="3">
           <constraints>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e4a4-ea58-4d47-8fff"/>
           </constraints>
@@ -14255,7 +14208,7 @@ by 1.</characteristic>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="55"/>
           </costs>
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="e493-6e39-dcea-4027" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="e493-6e39-dcea-4027" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1e84-1d8b-ab45-1c7c"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f3b4-2f83-8981-9d7b"/>
@@ -14501,7 +14454,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8af4-732a-526d-6049"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="4ba2-32e0-91f-30a4" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="4ba2-32e0-91f-30a4" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="5dd7-26e2-78f5-5100" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -14579,7 +14532,7 @@ by 1.</characteristic>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Space Marine Bikers w/ Bolt Pistol" hidden="false" id="48aa-6991-b817-11ac">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="be35-475-8fee-31e1" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="be35-475-8fee-31e1" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f211-8a13-200f-9644"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8877-3ac7-405d-e077"/>
@@ -14720,7 +14673,7 @@ by 1.</characteristic>
             <cost name="pts" typeId="51b2-306e-1021-d207" value="55"/>
           </costs>
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="b4bb-6854-871-8b2d" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="b4bb-6854-871-8b2d" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1e84-1d8b-ab45-1c7c"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f3b4-2f83-8981-9d7b"/>
@@ -15008,7 +14961,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8af4-732a-526d-6049"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="dbd9-d93d-1e49-eda7" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="dbd9-d93d-1e49-eda7" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="2537-aeda-44ef-0f7f" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -15243,7 +15196,7 @@ by 1.</characteristic>
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="3c6c-9e62-2e86-c29b" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="bee9-f3f9-3895-edb6" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="bee9-f3f9-3895-edb6" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f981-1695-eab0-25a7"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f34f-d6fe-56b8-51d6"/>
@@ -15279,7 +15232,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8dc0-1bf7-851b-f42f"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="759c-59a8-bc67-f749" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="759c-59a8-bc67-f749" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f981-1695-eab0-25a7"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f34f-d6fe-56b8-51d6"/>
@@ -16953,7 +16906,7 @@ by 1.</characteristic>
               <selectionEntryGroups>
                 <selectionEntryGroup name="Pistol Option" hidden="false" id="adf2-4bf1-bc97-2b18">
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="64d9-976-6c0a-d06f" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="64d9-976-6c0a-d06f" targetId="18b0-8c2-173f-5">
                       <constraints>
                         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4e04-173e-b837-331a"/>
                       </constraints>
@@ -16998,7 +16951,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8d64-54af-3a13-b142"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="1477-adae-b502-dd22" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="1477-adae-b502-dd22" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="34c4-1a08-c6e8-bae5-min"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="34c4-1a08-c6e8-bae5-max"/>
@@ -17196,7 +17149,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="ad49-87b7-f458-4f7f" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ce5a-e2c7-b6d6-2f65" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ce5a-e2c7-b6d6-2f65" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3284-efa6-db92-d8ae"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="95e7-b102-6e1e-aae2"/>
@@ -17314,7 +17267,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="55f1-4c41-76a7-a85e" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="55f1-4c41-76a7-a85e" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3284-efa6-db92-d8ae"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="95e7-b102-6e1e-aae2"/>
@@ -17466,7 +17419,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cf3d-3190-e4f1-71b1"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="a6b1-b8e9-a5d3-ede7" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="a6b1-b8e9-a5d3-ede7" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="495b-f3b2-1871-b3c1"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c07f-ba42-939a-e3cc"/>
@@ -17513,7 +17466,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="b10c-4842-7fd2-a010"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="f2d1-2098-d300-6caf" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="f2d1-2098-d300-6caf" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="495b-f3b2-1871-b3c1"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c07f-ba42-939a-e3cc"/>
@@ -17569,7 +17522,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="f05f-df83-e97f-ae17"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="8b44-4db1-462a-ee1c" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="8b44-4db1-462a-ee1c" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="495b-f3b2-1871-b3c1"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c07f-ba42-939a-e3cc"/>
@@ -17721,7 +17674,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2bec-1155-a279-3408"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="489b-cc00-3434-97aa" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="489b-cc00-3434-97aa" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9f50-67f1-1255-5e48"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4d05-a6a9-d5a-ac6b"/>
@@ -17762,7 +17715,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ecd8-89e6-e9ea-417f" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ecd8-89e6-e9ea-417f" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9f50-67f1-1255-5e48"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4d05-a6a9-d5a-ac6b"/>
@@ -17829,7 +17782,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                             <entryLink import="true" name="Weapon Modifications" hidden="false" id="d8fe-03b5-b408-1772" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                           </entryLinks>
                         </entryLink>
-                        <entryLink import="true" name="Bolt pistol" hidden="false" id="15a0-95fc-f8f5-f2eb" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                        <entryLink import="true" name="Bolt Pistol" hidden="false" id="15a0-95fc-f8f5-f2eb" type="selectionEntry" targetId="18b0-8c2-173f-5">
                           <entryLinks>
                             <entryLink import="true" name="Weapon Modifications" hidden="false" id="5921-89a8-4324-b042" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                           </entryLinks>
@@ -18049,7 +18002,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 <constraint type="max" value="4" field="selections" scope="parent" shared="true" id="7421-bd78-6d97-cad2"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="2c3f-71aa-d0c7-2d4" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="2c3f-71aa-d0c7-2d4" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2791-9bfc-1a64-4736"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7214-47bb-89e-8d9d"/>
@@ -18140,7 +18093,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="770b-81ad-43dc-bba8"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="5832-1916-13b8-5e72" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="5832-1916-13b8-5e72" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2791-9bfc-1a64-4736"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7214-47bb-89e-8d9d"/>
@@ -18392,7 +18345,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <selectionEntryGroups>
             <selectionEntryGroup name="Wargear" id="12b7-e04d-f7c8-519d" hidden="false" sortIndex="2">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="289e-2144-399a-9a38" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="289e-2144-399a-9a38" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5841-ddd8-eb92-11ad"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="2518-9d4a-23f1-fc4a"/>
@@ -23240,18 +23193,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Twin Heavy Plasma Cannon" hidden="false" id="9c79-fea0-a4a-bae9">
                   <profiles>
-                    <profile name="➤ Twin Heavy Plasma Cannon - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="fa29-4109-9b58-bfd1">
-                      <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
-                        <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
-                        <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-                        <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-                        <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-                        <characteristic name="D" typeId="a354-c1c8-a745-f9e3">2</characteristic>
-                        <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Blast, Twin-linked</characteristic>
-                      </characteristics>
-                    </profile>
-                    <profile name="➤ Twin Heavy Plasma Cannon - Supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="359b-684e-a4-1da5">
+                    <profile name="Twin Heavy Plasma Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="359b-684e-a4-1da5">
                       <characteristics>
                         <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
@@ -23563,8 +23505,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
 
-■ Bike Squad
-</characteristic>
+■ Bike Squad</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -24740,7 +24681,7 @@ You can attach this model to a unit it can lead units even if one Captain or Ch
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="7b11-35b8-f5c5-51d9" hidden="false" sortIndex="4">
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="dff0-8633-95b-d5d2" type="selectionEntry" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="dff0-8633-95b-d5d2" type="selectionEntry" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="c38-135d-a36d-cb5e"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="113f-2c83-425c-af40"/>
@@ -25014,7 +24955,7 @@ model is within 12&quot;.</characteristic>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="df81-2c1a-5801-97bd" hidden="false" sortIndex="4">
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="13d4-7b6b-f1a0-9a6f" type="selectionEntry" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="13d4-7b6b-f1a0-9a6f" type="selectionEntry" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="31dd-a646-6a09-e3b1"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7097-4acb-ed31-837a"/>
@@ -25355,7 +25296,7 @@ model is within 12&quot;.</characteristic>
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="fb1d-c511-8bf5-81da" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="28c2-c07f-ed3a-e98e" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="28c2-c07f-ed3a-e98e" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <entryLinks>
                     <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="c0a5-f8f1-0331-cb70" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="25f5-8f4d-6c8b-2cbd" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
@@ -26144,7 +26085,7 @@ weapons equipped by models in this model’s unit have the [DEVASTATING WOUNDS]
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="bc3e-4837-c7c0-9528" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="0224-bfd2-568d-0f47" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="0224-bfd2-568d-0f47" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <entryLinks>
                     <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="ef83-df5f-4230-3dbb" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="b76f-6ae7-9f81-36f9" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
@@ -27032,7 +26973,7 @@ Attacks characteristic of 7.</characteristic>
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="90cb-1caa-b9ce-6ddc" hidden="false" sortIndex="4">
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="7fd-6272-6423-81da" type="selectionEntry" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="7fd-6272-6423-81da" type="selectionEntry" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="aae5-a17d-dafa-ceb4"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b2d0-ae28-2ff7-7029"/>
@@ -27519,7 +27460,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="3833-fa84-7146-e3cf" hidden="false" sortIndex="4">
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="77b-6414-98b9-322a" type="selectionEntry" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="77b-6414-98b9-322a" type="selectionEntry" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7f0f-7675-f76e-2586"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a7c6-7e37-4081-5cab"/>
@@ -28153,7 +28094,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4487-59b9-9cd-268a"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="ebcc-2261-39af-7c0" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="ebcc-2261-39af-7c0" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="f1fc-d4b2-f053-bdab" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -28211,7 +28152,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4487-59b9-9cd-268a"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="dbd0-aee0-302e-4fb1" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="dbd0-aee0-302e-4fb1" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="b582-8a34-ec17-23f8" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -28291,7 +28232,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4487-59b9-9cd-268a"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="d2aa-a712-f5ae-c2d3" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="d2aa-a712-f5ae-c2d3" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="3a69-3184-505a-c049" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -28392,7 +28333,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4487-59b9-9cd-268a"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="e68d-feb8-fe95-829c" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="e68d-feb8-fe95-829c" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="0063-2a8a-7f30-d613" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -29001,8 +28942,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
 ■ Chapter Honour Guard
 ■ Company Command Squad
 ■ Sternguard Veteran Squad
-■ Vanguard Veteran Squad
-</characteristic>
+■ Vanguard Veteran Squad</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -30389,18 +30329,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Heavy Plasma Cannon" hidden="false" id="6a16-65ff-b6a2-f359">
       <profiles>
-        <profile name="➤ Heavy Plasma Cannon - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="bf7c-5e35-19a1-d23f">
-          <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
-            <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
-            <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-            <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-            <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">2</characteristic>
-            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Blast</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="➤ Heavy Plasma Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a906-4a15-497b-1126">
+        <profile name="Heavy Plasma Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="a906-4a15-497b-1126">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
@@ -30534,18 +30463,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Plasma Destroyer" hidden="false" id="12ec-4c95-56aa-385e" defaultAmount="1">
                   <profiles>
-                    <profile name="➤ Plasma Destroyer - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="b59b-1f41-52e0-4b1c">
-                      <characteristics>
-                        <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
-                        <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
-                        <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-                        <characteristic name="S" typeId="2229-f494-25db-c5d3">8</characteristic>
-                        <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-                        <characteristic name="D" typeId="a354-c1c8-a745-f9e3">2</characteristic>
-                        <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Blast</characteristic>
-                      </characteristics>
-                    </profile>
-                    <profile name="➤ Plasma Destroyer - Supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="7f73-d9cd-d375-5f8b">
+                    <profile name="Plasma Destroyer" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="7f73-d9cd-d375-5f8b">
                       <characteristics>
                         <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
                         <characteristic name="A" typeId="3bb-c35f-f54-fb08">D3</characteristic>
@@ -32220,18 +32138,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
                 <infoLink name="Hazardous" id="5161-a8bc-fea7-daf3" hidden="false" type="rule" targetId="8367-374c-f87-c627"/>
               </infoLinks>
               <profiles>
-                <profile name="➤ Twin Plasma Gun - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="3a90-3c52-668d-9aa3">
-                  <characteristics>
-                    <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
-                    <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
-                    <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-                    <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-                    <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-                    <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-                    <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Rapid Fire 1, Twin-linked</characteristic>
-                  </characteristics>
-                </profile>
-                <profile name="➤ Twin Plasma Gun - Overcharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="793d-2209-af46-5510">
+                <profile name="Twin Plasma Gun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="793d-2209-af46-5510">
                   <characteristics>
                     <characteristic name="Range" typeId="9896-9419-16a1-92fc">24&quot;</characteristic>
                     <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
@@ -33135,7 +33042,7 @@ You can attach this model to one of the above units even if one Character model
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="88b0-64dc-25ee-56b1" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="bdba-ef68-826d-7d34" targetId="18b0-8c2-173f-5" defaultAmount="1">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="bdba-ef68-826d-7d34" targetId="18b0-8c2-173f-5" defaultAmount="1">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="d19f-4036-8b33-3ae7" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -33281,7 +33188,7 @@ You can attach this model to one of the above units even if one Character model
                         <infoLink name="Devastating Wounds" hidden="false" type="rule" id="3bf5-124-ac4f-4702" targetId="be1e-ac8e-1e2c-3528"/>
                       </infoLinks>
                     </entryLink>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="fd29-a81-9fe9-8945" targetId="18b0-8c2-173f-5" defaultAmount="1"/>
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="fd29-a81-9fe9-8945" targetId="18b0-8c2-173f-5" defaultAmount="1"/>
                     <entryLink import="true" name="Power Weapon" hidden="false" id="0c22-4b33-b405-65a1" type="selectionEntry" targetId="92a8-df9c-f586-b3ce"/>
                     <entryLink import="true" name="Grav-pistol" hidden="false" id="309e-eca8-9859-5de8" type="selectionEntry" targetId="1f74-a1b-2835-ccdd"/>
                     <entryLink import="true" name="Plasma Pistol" hidden="false" id="bfe5-b96a-4afa-f5fb" type="selectionEntry" targetId="25c2-104f-fa0c-809e"/>
@@ -33434,8 +33341,7 @@ You can attach this model to one of the above units even if one Character model
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
 
-■ Bike Squad
-</characteristic>
+■ Bike Squad</characteristic>
           </characteristics>
         </profile>
         <profile name="Company Champion on Bike [Legends]" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="56d8-7cc3-5a55-fe1">
@@ -33526,7 +33432,7 @@ You can attach this model to one of the above units even if one Character model
       <selectionEntryGroups>
         <selectionEntryGroup name="Wargear" id="20c2-66cf-bf7e-ac3e" hidden="false" sortIndex="4">
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="ccc7-f845-d138-d635" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="ccc7-f845-d138-d635" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1e90-2f5b-183d-2526"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="17c4-eeeb-718c-34fb"/>
@@ -33674,7 +33580,7 @@ You can attach this model to one of the above units even if one Character model
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="9941-622c-279e-c576" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="f263-9292-b600-ae30" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="f263-9292-b600-ae30" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
                   <entryLinks>
                     <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="0c38-118f-71b9-fa8d" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="bff0-175a-92b0-a9ee" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
@@ -33939,7 +33845,7 @@ You can attach this model to one of the above units even if one Character model
                 <entryLink import="true" name="Weapon Upgrades" hidden="false" id="1858-e00c-0fa9-f217" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
               </entryLinks>
             </entryLink>
-            <entryLink import="true" name="Bolt pistol" hidden="false" id="ce7d-4e3-2adf-c77b" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" id="ce7d-4e3-2adf-c77b" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b398-43ee-acb1-8bb6"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b68b-cde4-22e3-3b72"/>
@@ -34441,7 +34347,7 @@ Attacks characteristic of 7.</characteristic>
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="97bc-b75e-bb2a-92d7" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="7729-ba8f-d87a-e51f" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="7729-ba8f-d87a-e51f" type="selectionEntry" targetId="18b0-8c2-173f-5" defaultAmount="1">
                   <entryLinks>
                     <entryLink import="true" name="Archeotech Armament upgrade" hidden="false" id="5b37-c557-8713-b464" type="selectionEntry" targetId="4485-e8e3-43a0-6c02"/>
                     <entryLink import="true" name="Weapon Upgrades" hidden="false" id="00d9-16ac-1f4a-984d" type="selectionEntryGroup" targetId="8cf2-a48c-58d2-cb4e"/>
@@ -35358,7 +35264,7 @@ per turn.</characteristic>
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Ancient" hidden="false" id="f26a-2b25-1582-ae68">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="cc94-34b5-4fab-f266" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="cc94-34b5-4fab-f266" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3de3-30b3-b75-e101-min"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3de3-30b3-b75-e101-max"/>
@@ -35424,7 +35330,7 @@ per turn.</characteristic>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Company Champion" hidden="false" id="b365-b786-8fe6-1293">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="27d-1b00-1f3d-63d3" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="27d-1b00-1f3d-63d3" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="429c-9fdc-c178-29db-min"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="429c-9fdc-c178-29db-max"/>
@@ -35481,7 +35387,7 @@ per turn.</characteristic>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Company Veteran w/ Bolt Rifle" hidden="false" id="311e-7cc5-94e7-128f">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="6544-72c6-e92d-aa9" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="6544-72c6-e92d-aa9" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="97aa-2b04-4ead-5e8a-min"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="97aa-2b04-4ead-5e8a-max"/>
@@ -35548,7 +35454,7 @@ per turn.</characteristic>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Company Veteran w/ Heavy Bolter" hidden="false" id="b972-1787-fd71-9d11">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="b186-7687-2dfb-30b6" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="b186-7687-2dfb-30b6" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="4779-6c95-6e1-34d3-min"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4779-6c95-6e1-34d3-max"/>
@@ -36507,7 +36413,7 @@ per turn.</characteristic>
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Plasma Pistol" hidden="false" id="72c9-4b92-5aed-2fbe">
       <profiles>
-        <profile id="b069-0b39-b014-21d8" name="➤ Plasma Pistol - Supercharge" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
+        <profile id="b069-0b39-b014-21d8" name="Plasma Pistol" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
@@ -36516,17 +36422,6 @@ per turn.</characteristic>
             <characteristic name="AP" typeId="9ead-8a10-520-de15">-3</characteristic>
             <characteristic name="D" typeId="a354-c1c8-a745-f9e3">2</characteristic>
             <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Hazardous, Pistol</characteristic>
-          </characteristics>
-        </profile>
-        <profile id="1d1e-f80d-86a9-0b7a" name="➤ Plasma Pistol - Standard" hidden="false" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons">
-          <characteristics>
-            <characteristic name="Range" typeId="9896-9419-16a1-92fc">12&quot;</characteristic>
-            <characteristic name="A" typeId="3bb-c35f-f54-fb08">1</characteristic>
-            <characteristic name="BS" typeId="94d-8a98-cf90-183e">2+</characteristic>
-            <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-            <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">Pistol</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -36679,24 +36574,13 @@ per turn.</characteristic>
         <infoLink name="Blast" id="0200-4635-4ef2-38d9" hidden="false" type="rule" targetId="6c1f-1cf7-ff25-c99e"/>
       </infoLinks>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Plasma cannon" hidden="false" id="fdd7-3066-57cc-ce52" collective="false">
+    <selectionEntry type="upgrade" import="true" name="Plasma Cannon" hidden="false" id="fdd7-3066-57cc-ce52" collective="false">
       <infoLinks>
         <infoLink name="Hazardous" id="c016-10d3-85c3-767d" hidden="false" type="rule" targetId="8367-374c-f87-c627"/>
         <infoLink name="Blast" id="b4c9-a171-1411-6895" hidden="false" type="rule" targetId="6c1f-1cf7-ff25-c99e"/>
       </infoLinks>
       <profiles>
-        <profile name="➤ Plasma cannon - standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="c718-bdaf-b0b4-3f35">
-          <characteristics>
-            <characteristic name="Range" hidden="false" id="ab05-3539-b461-ce3d" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
-            <characteristic name="A" hidden="false" id="d1b8-bbce-7687-24ac" typeId="3bb-c35f-f54-fb08">D3</characteristic>
-            <characteristic name="BS" hidden="false" id="4bdc-6193-aee3-d8f5" typeId="94d-8a98-cf90-183e">3+</characteristic>
-            <characteristic name="S" hidden="false" id="10bf-c8e3-6309-85ab" typeId="2229-f494-25db-c5d3">7</characteristic>
-            <characteristic name="AP" hidden="false" id="cd3f-6a2c-0ff8-ac7f" typeId="9ead-8a10-520-de15">-2</characteristic>
-            <characteristic name="D" hidden="false" id="70aa-38e0-abe6-86c7" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-            <characteristic name="Keywords" hidden="false" id="db0e-3b9d-1e09-7df6" typeId="7f1b-8591-2fcf-d01c">Blast</characteristic>
-          </characteristics>
-        </profile>
-        <profile name="➤ Plasma cannon - supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="33e2-fdb7-dea5-9e36">
+        <profile name="Plasma Cannon" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="33e2-fdb7-dea5-9e36">
           <characteristics>
             <characteristic name="Range" hidden="false" id="854e-3dd0-bef5-257b" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
             <characteristic name="A" hidden="false" id="c7fa-c356-1d21-baff" typeId="3bb-c35f-f54-fb08">D3</characteristic>
@@ -36950,18 +36834,7 @@ per turn.</characteristic>
                     </selectionEntry>
                     <selectionEntry type="upgrade" import="true" name="Plasma Blaster" hidden="false" id="f44e-73c2-b1b2-f388">
                       <profiles>
-                        <profile name="➤ Plasma Blaster - Standard" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="fafa-cc3a-a96f-398d">
-                          <characteristics>
-                            <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
-                            <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
-                            <characteristic name="BS" typeId="94d-8a98-cf90-183e">3+</characteristic>
-                            <characteristic name="S" typeId="2229-f494-25db-c5d3">7</characteristic>
-                            <characteristic name="AP" typeId="9ead-8a10-520-de15">-2</characteristic>
-                            <characteristic name="D" typeId="a354-c1c8-a745-f9e3">1</characteristic>
-                            <characteristic name="Keywords" typeId="7f1b-8591-2fcf-d01c">-</characteristic>
-                          </characteristics>
-                        </profile>
-                        <profile name="➤ Plasma Blaster - Supercharge" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="3f0b-0c57-e887-6c8f">
+                        <profile name="Plasma Blaster" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="3f0b-0c57-e887-6c8f">
                           <characteristics>
                             <characteristic name="Range" typeId="9896-9419-16a1-92fc">18&quot;</characteristic>
                             <characteristic name="A" typeId="3bb-c35f-f54-fb08">2</characteristic>
