@@ -5843,6 +5843,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             <selectionEntry type="upgrade" import="true" name="Deathwatch Boltgun" hidden="false" id="d5e2-4316-7792-2c87" collective="true">
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d4de-bf67-b4f1-1714"/>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="b804-3600-bb9c-14ca" includeChildSelections="false"/>
               </constraints>
               <profiles>
                 <profile name="Deathwatch Boltgun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="5ff2-f39b-bf7f-7872">
@@ -5913,7 +5914,6 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <selectionEntry type="upgrade" import="true" name="Astartes shield" hidden="false" id="542a-e5e6-1f6f-fe97">
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="cf3b-6530-3beb-c3be" includeChildSelections="false"/>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2ffe-0e9f-e93c-d213" includeChildSelections="false"/>
                   </constraints>
                   <profiles>
                     <profile name="Astartes shield" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="d366-20a8-5e11-11f9">
@@ -5955,13 +5955,12 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                   </infoLinks>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="9740-ed22-b578-deea" includeChildSelections="false"/>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f72f-6197-3ea7-eb93" includeChildSelections="false"/>
                   </constraints>
                 </selectionEntry>
               </selectionEntries>
               <constraints>
-                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5aa8-9871-d1ef-a883"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8eb6-8530-d562-0e23"/>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="1a26-b8af-635c-12e6"/>
               </constraints>
             </selectionEntryGroup>
           </selectionEntryGroups>
@@ -6020,7 +6019,6 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                   </profiles>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="121a-7dc3-0497-6ce0"/>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="ddea-6cc2-7e1f-b968"/>
                   </constraints>
                   <infoLinks>
                     <infoLink name="Melta" id="c12d-9f31-2d83-7277" hidden="false" type="rule" targetId="7cdb-fb99-44a9-8849"/>
@@ -6042,7 +6040,6 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                   </profiles>
                   <constraints>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6f1b-2971-e79f-607e"/>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d495-5fc3-5293-a09f"/>
                   </constraints>
                   <infoLinks>
                     <infoLink name="Anti-" id="d1a3-0763-0ec2-dbe0" hidden="false" type="rule" targetId="4111-82e3-9444-e942"/>
@@ -6087,7 +6084,6 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
               <selectionEntries>
                 <selectionEntry type="upgrade" import="true" name="Stalker Boltgun" hidden="false" id="6d42-33c3-c55a-58ca" collective="true">
                   <constraints>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="64b4-4eb8-826b-8045" includeChildSelections="false"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="ccef-f877-1c1c-b8f7" includeChildSelections="false"/>
                   </constraints>
                   <profiles>
@@ -6128,7 +6124,6 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                   </infoLinks>
                   <comment>Assault, Heavy</comment>
                   <constraints>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="5b50-898b-1778-cc79"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="40a3-02c3-1de7-a1ca" includeChildSelections="false"/>
                   </constraints>
                 </selectionEntry>
@@ -6168,6 +6163,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             <selectionEntry type="upgrade" import="true" name="Deathwatch Boltgun" hidden="false" id="3dd2-09ef-0f57-5886" collective="true">
               <constraints>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="c94e-0e73-968a-4497"/>
+                <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="118b-9381-9ffd-050f" includeChildSelections="false"/>
               </constraints>
               <profiles>
                 <profile name="Deathwatch Boltgun" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="7eb3-b80d-f75a-1def">
