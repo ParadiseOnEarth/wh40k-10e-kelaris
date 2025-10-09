@@ -1043,7 +1043,7 @@ If a model is equipped with one or more Pistols, unless it is a **^^Monster^^** 
 ■ Otherwise, if possible, select one model in that unit (excluding **^^Character^^** models) equipped with one or more Hazardous weapons. 
 ■ Otherwise, select one **^^Character^^** model in that unit equipped with one or more Hazardous weapons. 
 
-If a model was selected, it must make an unmodified Saving Throw. A selected model automatically fails the Saving Throw if his Hazardous weapon has a non-Hazardous profile.
+If a model was selected, it must make an unmodified Saving Throw. A selected model automatically fails the Saving Throw if its Hazardous weapon has a non-Hazardous profile.
 If failed, that unit suffers 3 mortal wounds and when allocating those mortal wounds, they must be allocated to the selected model. 
 
 If a unit from a player’s army is selected as the target of the Fire Overwatch Stratagem in their opponent’s Charge phase, any mortal wounds inflicted by Hazardous tests are allocated after the charging unit has ended its Charge move.</description>
