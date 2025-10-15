@@ -13083,7 +13083,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="36ca-83d3-30ab-a459"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Eviscerator" hidden="false" type="selectionEntry" id="344d-7596-5675-8808" targetId="515e-8dca-b455-dc02">
+                    <entryLink import="true" name="Eviscerator" hidden="false" type="selectionEntry" id="344d-7596-5675-8808" targetId="515e-8dca-b455-dc02" collective="true">
                       <modifiers>
                         <modifier type="set" value="0" field="2b10-e40b-c031-62ec">
                           <conditions>
@@ -13578,7 +13578,7 @@ by 1.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="36ca-83d3-30ab-a459"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Eviscerator" hidden="false" type="selectionEntry" id="7346-8300-85-34e1" targetId="515e-8dca-b455-dc02">
+                    <entryLink import="true" name="Eviscerator" hidden="false" type="selectionEntry" id="7346-8300-85-34e1" targetId="515e-8dca-b455-dc02" collective="true">
                       <modifiers>
                         <modifier type="set" value="0" field="2b10-e40b-c031-62ec">
                           <conditions>
