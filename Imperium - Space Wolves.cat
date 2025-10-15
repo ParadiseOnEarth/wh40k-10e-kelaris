@@ -294,7 +294,7 @@
       </infoLinks>
       <entryLinks>
         <entryLink import="true" name="Warlord" hidden="false" type="selectionEntry" id="6706-152-e202-7653" targetId="caa-f869-3cbd-b48e"/>
-        <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="4826-82-e2da-4832" targetId="18b0-8c2-173f-5">
+        <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="4826-82-e2da-4832" targetId="18b0-8c2-173f-5">
           <constraints>
             <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="adc6-7b4a-37b9-3c40"/>
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="18d-54b4-e57c-771e"/>
@@ -2004,8 +2004,7 @@ You can attach this model to one of the above units even if one Captain or Chap
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following unit:
 
-■ Thunderwolf Cavalry
-</characteristic>
+■ Thunderwolf Cavalry</characteristic>
           </characteristics>
         </profile>
         <profile name="Wolf Guard Battle Leader on Thunderwolf" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="6010-e44c-164f-2f49">
@@ -2507,7 +2506,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e898-ef4a-649b-023e" includeChildSelections="false"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ec70-ae0f-a07b-a61b" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ec70-ae0f-a07b-a61b" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="29-947c-d02f-9bb1"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="727b-b611-2816-3ab5" includeChildSelections="false"/>
@@ -2527,7 +2526,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7a8a-d7d1-ba-af9c"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="7577-7eb0-3354-5844" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="7577-7eb0-3354-5844" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <entryLinks>
                         <entryLink import="true" name="Weapon Modifications" hidden="false" id="cfa8-25f7-b66a-1878" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
@@ -2702,7 +2701,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6928-1b74-a0c6-cdfe"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="d883-7029-e67f-9bb6" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="d883-7029-e67f-9bb6" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7089-3675-af6c-2f"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="8396-73f3-7f3e-1c4a"/>
@@ -2781,7 +2780,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                 <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="561f-0299-54c5-a208" includeChildSelections="false"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="bd6b-d5bc-ca1d-0323" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="bd6b-d5bc-ca1d-0323" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="fdf5-1ab6-a14d-d988-min" includeChildSelections="false"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fdf5-1ab6-a14d-d988-max" includeChildSelections="false"/>
@@ -3198,7 +3197,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Wolf Guard w/ bolt pistol" hidden="false" id="41a6-294b-7367-efef">
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="92f-ce44-3c22-b94b" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="92f-ce44-3c22-b94b" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="7718-2b7b-aa5f-dc0"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6381-2a4a-e48f-f36b"/>
@@ -4879,7 +4878,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="176b-9bf4-284d-a186" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="9792-61d-e3b2-7d8d" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="9792-61d-e3b2-7d8d" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6547-ebc-ef86-5f9d"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1602-699f-9e12-c055"/>
@@ -5249,7 +5248,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="63cc-743b-115c-8464"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="4723-d7ee-38f-adf4" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="4723-d7ee-38f-adf4" targetId="18b0-8c2-173f-5">
                   <entryLinks>
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="d0bb-03d8-39cb-d3e1" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
@@ -5320,7 +5319,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="525c-8847-c69e-9061"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="678b-7a6c-ad1a-1dfd" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="678b-7a6c-ad1a-1dfd" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e54f-1ca1-fe29-c5d0"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="dd00-a14d-7d3d-7ca3"/>
@@ -5607,7 +5606,7 @@ You can attach this model to one of the above units even if one Captain or Chap
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d4d1-9b58-2b45-8b76"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="92e6-cc1d-ec73-dc57" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="92e6-cc1d-ec73-dc57" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5633,7 +5632,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ lascannon" hidden="false" id="b211-f789-7af2-faed">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="4f67-29d3-550e-e35a" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="2643-161c-c680-a38a" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="2643-161c-c680-a38a" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5683,7 +5682,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ heavy bolter" hidden="false" id="57a4-1e68-70cd-5fb2">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="98ca-a390-5e7-537e" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="608d-f701-4c61-ffda" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="608d-f701-4c61-ffda" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5734,7 +5733,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ grav-cannon" hidden="false" id="52c4-4723-5858-e989">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="4ed7-7a3d-ef78-9445" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="1555-2d27-4007-615" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="1555-2d27-4007-615" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5785,7 +5784,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ missile launcher" hidden="false" id="5a5d-5dc3-69b9-bcec">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="a0b1-7519-c3cd-d306" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="4e1c-36f6-2359-f62d" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="4e1c-36f6-2359-f62d" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5847,7 +5846,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ plasma cannon" hidden="false" id="865d-ad15-c914-ac80">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="2e14-db95-ff37-2004" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="5441-1b9c-497-cbdc" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="5441-1b9c-497-cbdc" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5910,7 +5909,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ multi-melta" hidden="false" id="f045-8d18-58c1-ebe">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="95b3-c8d6-c9f1-d405" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="f37a-8660-f2a3-ac71" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="f37a-8660-f2a3-ac71" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -5942,7 +5941,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <selectionEntry type="model" import="true" name="Long Fang w/ heavy flamer" hidden="false" id="4a61-b15e-bd20-25d">
               <entryLinks>
                 <entryLink import="true" name="Close combat weapon" hidden="false" type="selectionEntry" id="fb3-5a69-947c-404f" targetId="c5c2-d76d-97ed-de16"/>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="bb91-4a0b-4db0-d86c" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="bb91-4a0b-4db0-d86c" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be85-c5c4-f91b-4d42"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="100e-5065-8d2a-3e0a"/>
@@ -6093,7 +6092,7 @@ You can attach this model to one of the above units even if one Captain or Chap
             <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e5f2-1a32-e349-fddd"/>
           </constraints>
           <entryLinks>
-            <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="97d-e7be-65a0-1d99" targetId="18b0-8c2-173f-5">
+            <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="97d-e7be-65a0-1d99" targetId="18b0-8c2-173f-5">
               <constraints>
                 <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="499f-c6e1-ad0a-a302"/>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="139b-702b-5afc-f06e"/>
@@ -6770,7 +6769,7 @@ You must attach this model to one of the above units, and can do so even if one
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="783b-aa48-5bb1-1b71"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="3e3f-742c-5bcf-e4aa" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="3e3f-742c-5bcf-e4aa" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="be79-6adf-1ef7-e7e1"/>
                       </constraints>
@@ -7100,7 +7099,7 @@ You must attach this model to the above unit, and can do so even if one or more
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="0ef8-73cd-6865-7333"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" id="4136-3a81-50f1-a35b" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="4136-3a81-50f1-a35b" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="dd65-b3c2-e0ee-7d13"/>
                       </constraints>
@@ -8287,7 +8286,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="6e52-419c-89cf-8c21"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="2198-ee55-e8a9-7f43" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="2198-ee55-e8a9-7f43" targetId="18b0-8c2-173f-5">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d48d-d8d-18b4-303a"/>
                       </constraints>
@@ -8427,7 +8426,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1a6b-c663-98d1-4c54"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="9f49-8a3e-14b9-375b" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="9f49-8a3e-14b9-375b" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d0ae-4dba-7b60-443b"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a4b-7626-95e6-ebce"/>
@@ -8458,7 +8457,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1a6b-c663-98d1-4c54"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="456e-f986-e911-630b" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="456e-f986-e911-630b" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d0ae-4dba-7b60-443b"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a4b-7626-95e6-ebce"/>
@@ -8513,7 +8512,7 @@ Strategic Reserves.</characteristic>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1a6b-c663-98d1-4c54"/>
                   </constraints>
                 </entryLink>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="33d2-f7e4-a948-650" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="33d2-f7e4-a948-650" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d0ae-4dba-7b60-443b"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a4b-7626-95e6-ebce"/>
@@ -8575,7 +8574,7 @@ Strategic Reserves.</characteristic>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ba08-99f3-e7c5-e0a3" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ba08-99f3-e7c5-e0a3" targetId="18b0-8c2-173f-5">
                   <constraints>
                     <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d0ae-4dba-7b60-443b"/>
                     <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a4b-7626-95e6-ebce"/>
@@ -8616,7 +8615,7 @@ Strategic Reserves.</characteristic>
                         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1a6b-c663-98d1-4c54"/>
                       </constraints>
                     </entryLink>
-                    <entryLink import="true" name="Bolt pistol" hidden="false" type="selectionEntry" id="ae61-8c64-f7dc-3da" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="ae61-8c64-f7dc-3da" targetId="18b0-8c2-173f-5">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d0ae-4dba-7b60-443b"/>
                         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="a4b-7626-95e6-ebce"/>
@@ -9275,7 +9274,7 @@ Strategic Reserves.</characteristic>
                 <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="35ee-57de-7bd8-1678"/>
               </constraints>
               <entryLinks>
-                <entryLink import="true" name="Bolt pistol" hidden="false" id="a96b-7f25-cf66-2663" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="a96b-7f25-cf66-2663" type="selectionEntry" targetId="18b0-8c2-173f-5">
                   <selectionEntryGroups>
                     <selectionEntryGroup name="Weapon Upgrades" id="3cfc-d002-59ff-8e28" hidden="false" flatten="true">
                       <entryLinks>
@@ -10632,8 +10631,7 @@ a Transport</characteristic>
 ■ Blood Claws
 ■ Grey Hunters
 ■ Long Fangs
-■ Wolf Guard
-</characteristic>
+■ Wolf Guard</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -11109,8 +11107,7 @@ a Transport</characteristic>
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model can be attached to the following units:
 
-■ Bike Squad
-</characteristic>
+■ Bike Squad</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -12395,24 +12392,24 @@ a Transport</characteristic>
     <entryLink import="true" name="Krom Dragongaze [Legends]" hidden="true" type="selectionEntry" id="67e8-1fd4-ceff-2375" targetId="af71-2b1b-2eee-d2be"/>
     <entryLink import="true" name="Harald Deathwolf [Legends]" hidden="true" type="selectionEntry" id="6c2c-f5a3-41d6-3b93" targetId="7d72-63bf-a5f2-bb6c"/>
     <entryLink import="true" name="Canis Wolfborn [Legends]" hidden="true" type="selectionEntry" id="5bd6-7d06-3210-f614" targetId="d63f-bf2c-d38b-58c0"/>
-    <entryLink import="true" name="Wolf Guard Battle Leader in Terminator Armour [Legends]" hidden="false" type="selectionEntry" id="a99b-7a34-a186-8320" targetId="bcab-c09a-6584-3b26"/>
-    <entryLink import="true" name="Wolf Lord on Thunderwolf [Legends]" hidden="false" type="selectionEntry" id="5a1f-b53-3b2a-2591" targetId="295-5df2-e140-7266"/>
-    <entryLink import="true" name="Wolf Guard Battle Leader on Thunderwolf [Legends]" hidden="false" type="selectionEntry" id="f673-43ae-9348-61fd" targetId="6ec-fcf9-ebb6-7c55"/>
+    <entryLink import="true" name="Wolf Guard Battle Leader in Terminator Armour" hidden="false" type="selectionEntry" id="a99b-7a34-a186-8320" targetId="bcab-c09a-6584-3b26"/>
+    <entryLink import="true" name="Wolf Lord on Thunderwolf" hidden="false" type="selectionEntry" id="5a1f-b53-3b2a-2591" targetId="295-5df2-e140-7266"/>
+    <entryLink import="true" name="Wolf Guard Battle Leader on Thunderwolf" hidden="false" type="selectionEntry" id="f673-43ae-9348-61fd" targetId="6ec-fcf9-ebb6-7c55"/>
     <entryLink import="true" name="Blood Claws" hidden="false" type="selectionEntry" id="498-8bb5-1f55-65c2" targetId="fa8f-f5a2-993-bdbb"/>
     <entryLink import="true" name="Grey Hunters" hidden="false" type="selectionEntry" id="2e24-116d-87cb-1d8d" targetId="60ce-47ea-50fa-53f2"/>
-    <entryLink import="true" name="Wolf Guard [Legends]" hidden="false" type="selectionEntry" id="c62b-1220-a7b0-5917" targetId="8486-fe44-efc3-e51b"/>
+    <entryLink import="true" name="Wolf Guard" hidden="false" type="selectionEntry" id="c62b-1220-a7b0-5917" targetId="8486-fe44-efc3-e51b"/>
     <entryLink import="true" name="Lukas the Trickster [Legends]" hidden="true" type="selectionEntry" id="ad91-10ab-6d45-ae4e" targetId="6044-a19c-fd13-fdb8"/>
     <entryLink import="true" name="Wolf Guard Terminators" hidden="false" type="selectionEntry" id="5167-2675-f8da-b1d7" targetId="ca30-caf3-d7a8-1d32"/>
-    <entryLink import="true" name="Hounds of Morkai [Legends]" hidden="true" type="selectionEntry" id="5ee-f1ee-d24d-13ad" targetId="f37d-87d6-e14c-e697"/>
+    <entryLink import="true" name="Hounds of Morkai" hidden="true" type="selectionEntry" id="5ee-f1ee-d24d-13ad" targetId="f37d-87d6-e14c-e697"/>
     <entryLink import="true" name="Wulfen" hidden="false" type="selectionEntry" id="b55a-14dc-71ca-8e55" targetId="d937-bd7d-618d-4e2d"/>
     <entryLink import="true" name="Wulfen Dreadnought" hidden="false" type="selectionEntry" id="dd6d-ee77-b9ea-d2e5" targetId="91fa-49ac-5b0a-c155"/>
     <entryLink import="true" name="Murderfang" hidden="false" type="selectionEntry" id="4bec-dc7d-f031-4d01" targetId="6ef5-6700-d888-df3b"/>
     <entryLink import="true" name="Thunderwolf Cavalry" hidden="false" type="selectionEntry" id="20ee-2cf8-78b6-58df" targetId="7a50-3722-8195-5877"/>
     <entryLink import="true" name="Fenrisian Wolves" hidden="false" type="selectionEntry" id="b429-8c1b-614c-7e94" targetId="dc75-5a79-4121-1d72"/>
-    <entryLink import="true" name="Skyclaws [Legends]" hidden="false" type="selectionEntry" id="915f-cecb-b52e-5fdb" targetId="b556-b0e1-3b4e-597a"/>
-    <entryLink import="true" name="Long Fangs [Legends]" hidden="false" type="selectionEntry" id="257a-e93f-b9f1-989a" targetId="47fa-f42-bb06-77d2"/>
-    <entryLink import="true" name="Stormfang Gunship [Legends]" hidden="false" type="selectionEntry" id="9a97-a630-1fc6-bccd" targetId="3b8b-19bb-1855-98c5"/>
-    <entryLink import="true" name="Stormwolf [Legends]" hidden="false" type="selectionEntry" id="891a-8f91-4e3-ceff" targetId="b85d-d565-d3a4-8f8b"/>
+    <entryLink import="true" name="Skyclaws" hidden="false" type="selectionEntry" id="915f-cecb-b52e-5fdb" targetId="b556-b0e1-3b4e-597a"/>
+    <entryLink import="true" name="Long Fangs" hidden="false" type="selectionEntry" id="257a-e93f-b9f1-989a" targetId="47fa-f42-bb06-77d2"/>
+    <entryLink import="true" name="Stormfang Gunship" hidden="false" type="selectionEntry" id="9a97-a630-1fc6-bccd" targetId="3b8b-19bb-1855-98c5"/>
+    <entryLink import="true" name="Stormwolf" hidden="false" type="selectionEntry" id="891a-8f91-4e3-ceff" targetId="b85d-d565-d3a4-8f8b"/>
     <entryLink import="true" name="Wolf Guard Pack Leader [Legends]" hidden="true" type="selectionEntry" id="6def-e315-3442-ca06" targetId="5d99-8592-a934-48d9"/>
     <entryLink import="true" name="Wolf Guard Pack Leader with Jump Pack [Legends]" hidden="true" type="selectionEntry" id="19df-5f17-d083-304c" targetId="a60f-7d3a-d2f8-60cd"/>
     <entryLink import="true" name="Wolf Guard Pack Leader in Terminator Armour [Legends]" hidden="true" type="selectionEntry" id="7f3d-fae8-b542-56d2" targetId="a341-f355-7305-58bb"/>

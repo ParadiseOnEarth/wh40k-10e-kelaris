@@ -6223,9 +6223,14 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
           <selectionEntries>
             <selectionEntry type="model" import="true" name="Devastator w/ boltgun" hidden="false" id="93d1-f1fb-b535-2988">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="439d-02a7-fae8-a956" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="439d-02a7-fae8-a956" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="e7b7-e44c-fb04-b3d5"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="24cf-2f82-6dfa-4208"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="9817-1b9d-7f2d-1cf8" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Deathwatch Boltgun" hidden="false" id="bd90-2588-43fe-f39f" type="selectionEntry" targetId="d828-2ee5-cd70-9715"/>
+                <entryLink import="true" name="Deathwatch Boltgun" hidden="false" id="bd90-2588-43fe-f39f" type="selectionEntry" targetId="d828-2ee5-cd70-9715" collective="true"/>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="b60e-a1f0-094c-cbcc">
@@ -6245,9 +6250,14 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ grav-cannon" hidden="false" id="ba4e-d48b-172c-2184">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="2aed-58ab-b006-f6d8" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="2aed-58ab-b006-f6d8" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2c02-2a39-03a2-0b10"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="067e-6c26-b324-243f"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="fe12-d2e0-a7ed-2685" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Grav-cannon" hidden="false" id="7714-d2a4-871a-f319" type="selectionEntry" targetId="e87b-bc48-e3cb-6484"/>
+                <entryLink import="true" name="Grav-cannon" hidden="false" id="7714-d2a4-871a-f319" type="selectionEntry" targetId="e87b-bc48-e3cb-6484" collective="true"/>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="12e1-7047-4531-2f3d">
@@ -6267,9 +6277,14 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ heavy bolter" hidden="false" id="c851-778d-052a-d4c1">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="2640-1883-1468-2857" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="2640-1883-1468-2857" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="539a-8161-3877-922e"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="4ac3-b4e5-c11e-34d3"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="d2e1-21b4-66e7-772e" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Deathwach Heavy Bolter" hidden="false" id="916c-ecc8-8ae4-817c" type="selectionEntry" targetId="e9d8-9206-1665-bf15"/>
+                <entryLink import="true" name="Deathwach Heavy Bolter" hidden="false" id="916c-ecc8-8ae4-817c" type="selectionEntry" targetId="e9d8-9206-1665-bf15" collective="true"/>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="ff23-8119-2533-4d46">
@@ -6289,9 +6304,19 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ infernus heavy bolter" hidden="false" id="88fe-68e4-81ff-0d45">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="fda1-cc9f-2adf-3aac" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="fda1-cc9f-2adf-3aac" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="4529-50e2-1b76-d4e2"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="b386-4cc2-0832-32a0"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="61f9-79ab-1e91-e50c" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Infernus heavy bolter" hidden="false" id="5d2d-b674-b9b1-a75a" type="selectionEntry" targetId="ef13-323d-7627-dc7"/>
+                <entryLink import="true" name="Infernus heavy bolter" hidden="false" id="5d2d-b674-b9b1-a75a" type="selectionEntry" targetId="ef13-323d-7627-dc7" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="f369-8959-80d0-3606"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e024-7850-9161-d882"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="d8e1-11ca-4394-ae65">
@@ -6311,9 +6336,19 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ lascannon" hidden="false" id="17da-4be3-1ef7-11e8">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="c928-4568-fa23-fb84" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="c928-4568-fa23-fb84" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="96fe-d92e-8217-722e"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e7a1-1080-27af-7873"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="321a-c99b-0e5b-0aef" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Lascannon" hidden="false" id="7681-0bf9-7953-39e0" type="selectionEntry" targetId="e0fb-ea05-d58d-1799"/>
+                <entryLink import="true" name="Lascannon" hidden="false" id="7681-0bf9-7953-39e0" type="selectionEntry" targetId="e0fb-ea05-d58d-1799" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d79b-43e0-2a23-cd6a"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="e722-e1d6-b891-38d2"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="5a8b-1651-8db9-4f7b">
@@ -6333,9 +6368,19 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ heavy flamer" hidden="false" id="f10e-e691-0312-be9d">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="3852-767f-b454-2616" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="3852-767f-b454-2616" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d5fc-842e-7687-7b98"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="aa55-04c2-8790-a45e"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="bbf7-bd02-4d73-2a57" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Heavy Flamer" hidden="false" id="659f-9031-4436-c81e" type="selectionEntry" targetId="b3e6-f7a7-8357-2055"/>
+                <entryLink import="true" name="Heavy Flamer" hidden="false" id="659f-9031-4436-c81e" type="selectionEntry" targetId="b3e6-f7a7-8357-2055" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="2858-533c-842b-3069"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="d385-fa21-25be-a357"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="ef0c-55eb-429a-b285">
@@ -6355,9 +6400,19 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ plasma cannon" hidden="false" id="b567-dc0a-23e5-7003">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="7c43-e6fa-9a1f-44db" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="7c43-e6fa-9a1f-44db" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="eb2d-8593-4f14-3357"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="832d-1ec7-2445-aed1"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="6c8a-d670-c1b2-fd29" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Plasma Cannon" hidden="false" id="5275-f0ac-a1e2-f6f6" type="selectionEntry" targetId="47ef-a0e2-2cb0-845d"/>
+                <entryLink import="true" name="Plasma Cannon" hidden="false" id="5275-f0ac-a1e2-f6f6" type="selectionEntry" targetId="47ef-a0e2-2cb0-845d" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6fee-9fad-2ad8-01d3"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="530c-01d3-6320-e668"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="55c5-e8af-23bd-1630">
@@ -6377,9 +6432,19 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ multi-melta" hidden="false" id="f3d7-c7b8-412e-ef40">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="385a-7fd8-c12d-31f1" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="385a-7fd8-c12d-31f1" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="d7e5-154f-98d1-b885"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="859d-1197-427a-2999"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="d533-df2d-d6bb-4189" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Multi-melta" hidden="false" id="4c95-a0d0-3528-d738" type="selectionEntry" targetId="59c-91b5-f87b-1395"/>
+                <entryLink import="true" name="Multi-melta" hidden="false" id="4c95-a0d0-3528-d738" type="selectionEntry" targetId="59c-91b5-f87b-1395" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="58f2-04fc-436e-b77c"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="481a-d93c-c7ce-7327"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="db0a-706f-95d9-7018">
@@ -6399,9 +6464,14 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ frag cannon" hidden="false" id="fba2-1bf9-99e5-733c">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="3afa-e0dc-4eba-1847" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="3afa-e0dc-4eba-1847" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6b4e-f6de-1d66-5458"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="fa05-4609-f04e-fb7c"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="7542-3d90-70d7-58f0" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Frag cannon" hidden="false" id="a3ff-45ba-bee5-3db8" type="selectionEntry" targetId="2841-ed0e-d574-47cc"/>
+                <entryLink import="true" name="Frag cannon" hidden="false" id="a3ff-45ba-bee5-3db8" type="selectionEntry" targetId="2841-ed0e-d574-47cc" collective="true"/>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="7ab9-45d5-f286-9657">
@@ -6421,9 +6491,19 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Devastator w/ missile launcher" hidden="false" id="e561-af78-b953-ab51">
               <entryLinks>
-                <entryLink import="true" name="Bolt Pistol" hidden="false" id="5334-4305-dc8e-d971" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
+                <entryLink import="true" name="Bolt Pistol" hidden="false" id="5334-4305-dc8e-d971" type="selectionEntry" targetId="18b0-8c2-173f-5">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9ef2-28ea-0859-1dfb"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="36f9-d483-fac7-08ac"/>
+                  </constraints>
+                </entryLink>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="76fe-58c2-ab32-2353" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
-                <entryLink import="true" name="Missile Launcher" hidden="false" id="2e3f-5eeb-0f43-a9ee" type="selectionEntry" targetId="1c19-102c-9058-c35d"/>
+                <entryLink import="true" name="Missile Launcher" hidden="false" id="2e3f-5eeb-0f43-a9ee" type="selectionEntry" targetId="1c19-102c-9058-c35d" collective="true">
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="33cf-a488-24cc-e3e2"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5437-9866-b259-7864"/>
+                  </constraints>
+                </entryLink>
               </entryLinks>
               <profiles>
                 <profile name="Deathwatch Devastator" typeId="c547-1836-d8a-ff4f" typeName="Unit" hidden="false" id="a847-1867-66b6-baa8">
@@ -6455,7 +6535,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
         <constraint type="min" value="0" field="716d-91b7-d55a-1022" scope="self" shared="true" id="93b9-62f8-006f-a324" includeChildSelections="true"/>
       </constraints>
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="150"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="140"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
         <cost name="Crusade: Battle Honours" typeId="75bb-ded1-c86d-bdf0" value="0"/>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0"/>
@@ -6465,7 +6545,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
         <cost name="Relic Fragments" typeId="0ece-6541-4662-ece2" value="0"/>
       </costs>
       <modifiers>
-        <modifier type="set" value="170" field="51b2-306e-1021-d207">
+        <modifier type="set" value="160" field="51b2-306e-1021-d207">
           <conditions>
             <condition type="greaterThan" value="4" field="selections" scope="edbf-0c8d-902a-b293" childId="model" shared="true" includeChildSelections="true"/>
           </conditions>
