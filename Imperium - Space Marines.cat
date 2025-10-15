@@ -7926,11 +7926,11 @@ Strategic Reserves.</characteristic>
                 <entryLink import="true" name="Terminator Honours upgrade" hidden="false" id="11d0-1cc1-eec4-a97c" type="selectionEntry" targetId="e7f9-66f5-9b9e-c587"/>
               </entryLinks>
               <selectionEntryGroups>
-                <selectionEntryGroup name="Pistol Option" hidden="false" id="6f57-8789-8362-12e6" defaultSelectionEntryId="3920-2e53-55d7-7b50">
+                <selectionEntryGroup name="Pistol Option" id="10dd-20e3-8cef-a55e" hidden="false" defaultSelectionEntryId="aed6-a6f1-3d35-81b">
                   <selectionEntries>
-                    <selectionEntry type="upgrade" import="true" name="Storm Shield" hidden="false" id="29e1-5f2e-8d3a-8c4">
+                    <selectionEntry type="upgrade" import="true" name="Storm Shield" hidden="false" id="5479-fac7-8c26-0215">
                       <profiles>
-                        <profile name="Storm Shield" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="fc35-3484-8187-d7f5">
+                        <profile name="Storm Shield" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="4e80-d064-14a4-e93c">
                           <characteristics>
                             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a 4+ invulnerable save</characteristic>
                           </characteristics>
@@ -7939,36 +7939,93 @@ Strategic Reserves.</characteristic>
                     </selectionEntry>
                   </selectionEntries>
                   <constraints>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="33c-6407-f7a-5170"/>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="1e5e-4895-4b44-34dc"/>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="6fcb-8864-0949-745b"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="3812-46ef-36d6-afd8"/>
                   </constraints>
                   <entryLinks>
-                    <entryLink import="true" name="Bolt Pistol" hidden="false" type="selectionEntry" id="3920-2e53-55d7-7b50" targetId="18b0-8c2-173f-5">
+                    <entryLink import="true" name="Bolt Pistol" hidden="false" id="3106-93c0-cc37-b99d" type="selectionEntry" targetId="18b0-8c2-173f-5">
                       <entryLinks>
-                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="cc63-2cb2-1978-3ce2" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="4c79-cd2c-4cbe-9ccc" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
-                    <entryLink import="true" name="Plasma Pistol" hidden="false" type="selectionEntry" id="78d7-5800-5cb-80f7" targetId="25c2-104f-fa0c-809e">
+                    <entryLink import="true" name="Plasma Pistol" hidden="false" id="fa30-4463-dd92-5f53" type="selectionEntry" targetId="25c2-104f-fa0c-809e">
                       <entryLinks>
-                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="0868-1bed-65f7-e453" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="f632-2656-94aa-e374" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
-                    <entryLink import="true" name="Inferno Pistol" hidden="false" type="selectionEntry" id="d98-bf8b-7aed-fd6a" targetId="d8bf-e17f-d6fa-b7e8">
+                    <entryLink import="true" name="Inferno Pistol" hidden="false" id="1c58-51bb-2ab2-2230" type="selectionEntry" targetId="d8bf-e17f-d6fa-b7e8">
                       <entryLinks>
-                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="72cf-42be-0a0d-898e" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="640d-00bf-9282-d750" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
-                    <entryLink import="true" name="Hand Flamer" hidden="false" type="selectionEntry" id="e2d-9908-69c-497a" targetId="9dc6-6ad8-818e-db2e">
+                    <entryLink import="true" name="Hand Flamer" hidden="false" id="abaf-0929-48cf-e35b" type="selectionEntry" targetId="9dc6-6ad8-818e-db2e">
                       <entryLinks>
-                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="3b6a-fcea-405b-6bc6" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="6391-d7c7-f402-fb82" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
-                    <entryLink import="true" name="Grav-pistol" hidden="false" id="1adf-6ccb-75ab-a0f5" type="selectionEntry" targetId="5c5f-bb5a-eb8a-5460">
+                    <entryLink import="true" name="Grav-pistol" hidden="false" id="9956-e00b-f544-198d" type="selectionEntry" targetId="1f74-a1b-2835-ccdd">
                       <entryLinks>
-                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="b723-c8b1-584b-e72e" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
+                        <entryLink import="true" name="Weapon Modifications" hidden="false" id="d5ce-f365-b7b3-e188" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                       </entryLinks>
                     </entryLink>
                   </entryLinks>
+                  <modifiers>
+                    <modifier type="set" value="0" field="3812-46ef-36d6-afd8">
+                      <conditions>
+                        <condition type="greaterThan" value="0" field="selections" scope="20d9-b1de-d9db-72ef" childId="273e-b4fa-5166-5dcb" shared="true"/>
+                      </conditions>
+                    </modifier>
+                    <modifier type="set" value="0" field="6fcb-8864-0949-745b">
+                      <conditions>
+                        <condition type="greaterThan" value="0" field="selections" scope="20d9-b1de-d9db-72ef" childId="273e-b4fa-5166-5dcb" shared="true"/>
+                      </conditions>
+                    </modifier>
+                  </modifiers>
+                </selectionEntryGroup>
+                <selectionEntryGroup name="Melee Option" id="71e0-afce-38b3-441e" hidden="false">
+                  <selectionEntries>
+                    <selectionEntry type="upgrade" import="true" name="Power Weapon" hidden="false" id="ec95-ea51-cb37-a64b" collective="true">
+                      <profiles>
+                        <profile name="Power Weapon" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="8085-d545-bae4-7b95">
+                          <characteristics>
+                            <characteristic name="Range" typeId="914c-b413-91e3-a132">Melee</characteristic>
+                            <characteristic name="A" typeId="2337-daa1-6682-b110">4</characteristic>
+                            <characteristic name="WS" typeId="95d1-95f-45b4-11d6">3+</characteristic>
+                            <characteristic name="S" typeId="ab33-d393-96ce-ccba">5</characteristic>
+                            <characteristic name="AP" typeId="41a0-1301-112a-e2f2">-2</characteristic>
+                            <characteristic name="D" typeId="3254-9fe6-d824-513e">1</characteristic>
+                            <characteristic name="Keywords" typeId="893f-9000-ccf7-648e">-</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                    </selectionEntry>
+                    <selectionEntry type="upgrade" import="true" name="Twin Lightning Claws" hidden="false" id="273e-b4fa-5166-5dcb">
+                      <profiles>
+                        <profile name="Twin Lightning Claws" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="d5c6-cb3a-da0a-85da">
+                          <characteristics>
+                            <characteristic name="Range" typeId="914c-b413-91e3-a132">Melee</characteristic>
+                            <characteristic name="A" typeId="2337-daa1-6682-b110">5</characteristic>
+                            <characteristic name="WS" typeId="95d1-95f-45b4-11d6">3+</characteristic>
+                            <characteristic name="S" typeId="ab33-d393-96ce-ccba">5</characteristic>
+                            <characteristic name="AP" typeId="41a0-1301-112a-e2f2">-2</characteristic>
+                            <characteristic name="D" typeId="3254-9fe6-d824-513e">1</characteristic>
+                            <characteristic name="Keywords" typeId="893f-9000-ccf7-648e">Twin-linked</characteristic>
+                          </characteristics>
+                        </profile>
+                      </profiles>
+                      <infoLinks>
+                        <infoLink name="Twin-linked" id="bbde-7419-0c03-6e07" hidden="false" type="rule" targetId="cf93-ad4d-2f08-a79d"/>
+                      </infoLinks>
+                    </selectionEntry>
+                  </selectionEntries>
+                  <entryLinks>
+                    <entryLink import="true" name="Power Fist" hidden="false" id="be32-973b-3027-f114" type="selectionEntry" targetId="f8d8-7e77-4b71-faac"/>
+                    <entryLink import="true" name="Thunder Hammer" hidden="false" id="ca93-1879-55e2-6bca" type="selectionEntry" targetId="4913-96d4-2b1f-2c21"/>
+                  </entryLinks>
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="3638-35de-4df8-9bf2"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="7605-5138-aa1a-ee2b"/>
+                  </constraints>
                 </selectionEntryGroup>
               </selectionEntryGroups>
               <profiles>
@@ -7983,27 +8040,6 @@ Strategic Reserves.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
-              <selectionEntries>
-                <selectionEntry type="upgrade" import="true" name="Power Weapon" hidden="false" id="ddd0-b271-25c7-ae58" collective="true">
-                  <profiles>
-                    <profile name="Power Weapon" typeId="8a40-4aaa-c780-9046" typeName="Melee Weapons" hidden="false" id="be1c-b335-bde6-30ae">
-                      <characteristics>
-                        <characteristic name="Range" typeId="914c-b413-91e3-a132">Melee</characteristic>
-                        <characteristic name="A" typeId="2337-daa1-6682-b110">4</characteristic>
-                        <characteristic name="WS" typeId="95d1-95f-45b4-11d6">3+</characteristic>
-                        <characteristic name="S" typeId="ab33-d393-96ce-ccba">5</characteristic>
-                        <characteristic name="AP" typeId="41a0-1301-112a-e2f2">-2</characteristic>
-                        <characteristic name="D" typeId="3254-9fe6-d824-513e">1</characteristic>
-                        <characteristic name="Keywords" typeId="893f-9000-ccf7-648e">-</characteristic>
-                      </characteristics>
-                    </profile>
-                  </profiles>
-                  <constraints>
-                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="c29d-13eb-0134-58c7"/>
-                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="673f-f1af-e5ef-b6c5"/>
-                  </constraints>
-                </selectionEntry>
-              </selectionEntries>
             </selectionEntry>
           </selectionEntries>
           <constraints>
@@ -8261,6 +8297,11 @@ Strategic Reserves.</characteristic>
                   </entryLinks>
                   <modifiers>
                     <modifier type="set" value="0" field="1e5e-4895-4b44-34dc">
+                      <conditions>
+                        <condition type="greaterThan" value="0" field="selections" scope="6942-e38d-5ae0-be75" childId="5149-bd52-c1d0-14c2" shared="true"/>
+                      </conditions>
+                    </modifier>
+                    <modifier type="set" value="0" field="33c-6407-f7a-5170">
                       <conditions>
                         <condition type="greaterThan" value="0" field="selections" scope="6942-e38d-5ae0-be75" childId="5149-bd52-c1d0-14c2" shared="true"/>
                       </conditions>
