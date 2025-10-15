@@ -6658,7 +6658,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
     </selectionEntry>
     <selectionEntry type="upgrade" import="true" name="Deathwach Heavy Bolter" hidden="false" id="e9d8-9206-1665-bf15" collective="true">
       <profiles>
-        <profile name="Heavy Bolter" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="8d20-873b-21e1-e85e">
+        <profile name="Deathwatch Heavy Bolter" typeId="f77d-b953-8fa4-b762" typeName="Ranged Weapons" hidden="false" id="8d20-873b-21e1-e85e">
           <characteristics>
             <characteristic name="Range" typeId="9896-9419-16a1-92fc">36&quot;</characteristic>
             <characteristic name="A" typeId="3bb-c35f-f54-fb08">3</characteristic>
