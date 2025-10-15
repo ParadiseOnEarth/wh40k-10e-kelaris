@@ -13087,7 +13087,14 @@ by 1.</characteristic>
                       <modifiers>
                         <modifier type="set" value="0" field="2b10-e40b-c031-62ec">
                           <conditions>
-                            <condition type="atLeast" value="2" field="selections" scope="parent" childId="50c2-3ed4-ef56-6fac" shared="true" id="2470-9db2-383a-5c80" includeChildSelections="true"/>
+                            <condition type="greaterThan" value="0" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" id="2470-9db2-383a-5c80" includeChildSelections="false"/>
+                            <condition type="lessThan" value="6" field="selections" scope="ca4e-47d5-a704-8e5a" childId="model" shared="true" includeChildSelections="true"/>
+                          </conditions>
+                        </modifier>
+                        <modifier type="set" value="0" field="2b10-e40b-c031-62ec">
+                          <conditions>
+                            <condition type="equalTo" value="2" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" id="5651-22c1-adb8-5fb9" includeChildSelections="false"/>
+                            <condition type="greaterThan" value="5" field="selections" scope="ca4e-47d5-a704-8e5a" childId="model" shared="true" includeChildSelections="true"/>
                           </conditions>
                         </modifier>
                       </modifiers>
@@ -13187,7 +13194,8 @@ by 1.</characteristic>
               <modifiers>
                 <modifier type="increment" value="1" field="27ab-a363-8238-dd82">
                   <conditions>
-                    <condition type="equalTo" value="10" field="selections" scope="ca4e-47d5-a704-8e5a" childId="69fc-472b-e77b-fab8" shared="true" id="3c69-fc26-b0d7-9b82"/>
+                    <condition type="greaterThan" value="5" field="selections" scope="ca4e-47d5-a704-8e5a" childId="model" shared="true" id="3c69-fc26-b0d7-9b82" includeChildSelections="true"/>
+                    <condition type="lessThan" value="3" field="selections" scope="db5-450b-5c4b-5743" childId="515e-8dca-b455-dc02" shared="true" includeChildSelections="true"/>
                   </conditions>
                 </modifier>
               </modifiers>
@@ -13206,7 +13214,7 @@ by 1.</characteristic>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Assault Marine w/ Special Weapon" hidden="false" id="1a01-caad-fc9f-6feb">
               <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="205c-4773-61b3-3bc4"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="205c-4773-61b3-3bc4"/>
               </constraints>
               <selectionEntryGroups>
                 <selectionEntryGroup name="Weapon Option" hidden="false" id="1138-5c30-809d-a129">
@@ -13296,7 +13304,7 @@ by 1.</characteristic>
               <modifiers>
                 <modifier type="increment" value="1" field="205c-4773-61b3-3bc4">
                   <conditions>
-                    <condition type="equalTo" value="10" field="selections" scope="ca4e-47d5-a704-8e5a" childId="69fc-472b-e77b-fab8" shared="true"/>
+                    <condition type="greaterThan" value="5" field="selections" scope="ca4e-47d5-a704-8e5a" childId="model" shared="true" includeChildSelections="true"/>
                   </conditions>
                 </modifier>
               </modifiers>
@@ -13538,7 +13546,14 @@ by 1.</characteristic>
                       <modifiers>
                         <modifier type="set" value="0" field="2b10-e40b-c031-62ec">
                           <conditions>
-                            <condition type="atLeast" value="2" field="selections" scope="parent" childId="50c2-3ed4-ef56-6fac" shared="true" id="2470-9db2-383a-5c80" includeChildSelections="true"/>
+                            <condition type="greaterThan" value="0" field="selections" scope="bfe7-b726-9158-d5ad" childId="50c2-3ed4-ef56-6fac" shared="true" id="2470-9db2-383a-5c80" includeChildSelections="true"/>
+                            <condition type="lessThan" value="6" field="selections" scope="bfe7-b726-9158-d5ad" childId="model" shared="true" includeChildSelections="true"/>
+                          </conditions>
+                        </modifier>
+                        <modifier type="set" value="0" field="2b10-e40b-c031-62ec">
+                          <conditions>
+                            <condition type="equalTo" value="2" field="selections" scope="bfe7-b726-9158-d5ad" childId="50c2-3ed4-ef56-6fac" shared="true" id="71d7-a5be-6173-5bbf" includeChildSelections="true"/>
+                            <condition type="greaterThan" value="5" field="selections" scope="bfe7-b726-9158-d5ad" childId="model" shared="true" includeChildSelections="true"/>
                           </conditions>
                         </modifier>
                       </modifiers>
@@ -13638,7 +13653,8 @@ by 1.</characteristic>
               <modifiers>
                 <modifier type="increment" value="1" field="27ab-a363-8238-dd82">
                   <conditions>
-                    <condition type="equalTo" value="10" field="selections" scope="bfe7-b726-9158-d5ad" childId="model" shared="true" id="3c69-fc26-b0d7-9b82" includeChildSelections="true"/>
+                    <condition type="greaterThan" value="5" field="selections" scope="bfe7-b726-9158-d5ad" childId="model" shared="true" id="3c69-fc26-b0d7-9b82" includeChildSelections="true"/>
+                    <condition type="lessThan" value="3" field="selections" scope="bfe7-b726-9158-d5ad" childId="515e-8dca-b455-dc02" shared="true" includeChildSelections="true"/>
                   </conditions>
                 </modifier>
               </modifiers>
@@ -13657,7 +13673,7 @@ by 1.</characteristic>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Assault Marine with Jump Pack w/ Special Weapon" hidden="false" id="9691-5615-41a3-5e94">
               <constraints>
-                <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="205c-4773-61b3-3bc4"/>
+                <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="205c-4773-61b3-3bc4"/>
               </constraints>
               <selectionEntryGroups>
                 <selectionEntryGroup name="Weapon Option" hidden="false" id="c9e0-e20c-b73d-f0c9">
@@ -13744,6 +13760,13 @@ by 1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
+              <modifiers>
+                <modifier type="set" value="1" field="205c-4773-61b3-3bc4">
+                  <conditions>
+                    <condition type="greaterThan" value="5" field="selections" scope="bfe7-b726-9158-d5ad" childId="model" shared="true" id="b7b5-4103-e343-9dbf" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
             </selectionEntry>
             <selectionEntry type="model" import="true" name="Assault Marine with Jump Pack" hidden="false" id="c862-d76a-95ea-2140" defaultAmount="4">
               <entryLinks>
