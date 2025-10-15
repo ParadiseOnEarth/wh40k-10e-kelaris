@@ -13338,8 +13338,40 @@ by 1.</characteristic>
               </profiles>
               <constraints>
                 <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="9442-5796-9f96-9371"/>
-                <constraint type="min" value="9" field="selections" scope="parent" shared="true" id="766a-e978-93b1-59ad"/>
+                <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="766a-e978-93b1-59ad"/>
               </constraints>
+              <modifiers>
+                <modifier type="set" value="8" field="766a-e978-93b1-59ad">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="0" field="selections" scope="ca4e-47d5-a704-8e5a" childId="1a01-caad-fc9f-6feb" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="8" field="766a-e978-93b1-59ad">
+                  <conditions>
+                    <condition type="equalTo" value="0" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="1" field="selections" scope="ca4e-47d5-a704-8e5a" childId="1a01-caad-fc9f-6feb" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="7" field="766a-e978-93b1-59ad">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="1" field="selections" scope="ca4e-47d5-a704-8e5a" childId="1a01-caad-fc9f-6feb" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="7" field="766a-e978-93b1-59ad">
+                  <conditions>
+                    <condition type="equalTo" value="2" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="0" field="selections" scope="ca4e-47d5-a704-8e5a" childId="1a01-caad-fc9f-6feb" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="7" field="766a-e978-93b1-59ad">
+                  <conditions>
+                    <condition type="equalTo" value="0" field="selections" scope="ca4e-47d5-a704-8e5a" childId="50c2-3ed4-ef56-6fac" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="2" field="selections" scope="ca4e-47d5-a704-8e5a" childId="1a01-caad-fc9f-6feb" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
             </selectionEntry>
           </selectionEntries>
           <constraints>
@@ -13801,8 +13833,40 @@ by 1.</characteristic>
               </profiles>
               <constraints>
                 <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="0d70-4ad0-056c-18df"/>
-                <constraint type="min" value="9" field="selections" scope="parent" shared="true" id="0fee-bf8e-888a-8bee"/>
+                <constraint type="max" value="9" field="selections" scope="parent" shared="true" id="0fee-bf8e-888a-8bee"/>
               </constraints>
+              <modifiers>
+                <modifier type="set" value="8" field="0fee-bf8e-888a-8bee">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="bfe7-b726-9158-d5ad" childId="59bf-237-f76f-37d5" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="0" field="selections" scope="bfe7-b726-9158-d5ad" childId="9691-5615-41a3-5e94" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="8" field="0fee-bf8e-888a-8bee">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="bfe7-b726-9158-d5ad" childId="9691-5615-41a3-5e94" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="0" field="selections" scope="bfe7-b726-9158-d5ad" childId="59bf-237-f76f-37d5" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="7" field="0fee-bf8e-888a-8bee">
+                  <conditions>
+                    <condition type="equalTo" value="1" field="selections" scope="bfe7-b726-9158-d5ad" childId="9691-5615-41a3-5e94" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="1" field="selections" scope="bfe7-b726-9158-d5ad" childId="59bf-237-f76f-37d5" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="7" field="0fee-bf8e-888a-8bee">
+                  <conditions>
+                    <condition type="equalTo" value="2" field="selections" scope="bfe7-b726-9158-d5ad" childId="9691-5615-41a3-5e94" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="0" field="selections" scope="bfe7-b726-9158-d5ad" childId="59bf-237-f76f-37d5" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+                <modifier type="set" value="7" field="0fee-bf8e-888a-8bee">
+                  <conditions>
+                    <condition type="equalTo" value="0" field="selections" scope="bfe7-b726-9158-d5ad" childId="9691-5615-41a3-5e94" shared="true" includeChildSelections="true"/>
+                    <condition type="equalTo" value="2" field="selections" scope="bfe7-b726-9158-d5ad" childId="59bf-237-f76f-37d5" shared="true" includeChildSelections="true"/>
+                  </conditions>
+                </modifier>
+              </modifiers>
             </selectionEntry>
           </selectionEntries>
           <constraints>
