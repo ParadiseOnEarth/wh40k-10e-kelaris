@@ -13309,7 +13309,7 @@ by 1.</characteristic>
                 </modifier>
               </modifiers>
             </selectionEntry>
-            <selectionEntry type="model" import="true" name="Assault Marine" hidden="false" id="da46-4e78-bf9a-6eac">
+            <selectionEntry type="model" import="true" name="Assault Marine" hidden="false" id="da46-4e78-bf9a-6eac" defaultAmount="4">
               <entryLinks>
                 <entryLink import="true" name="Astartes Chainsword" hidden="false" type="selectionEntry" id="e753-ca4d-a218-9577" targetId="efcd-180-d07-b4d6">
                   <constraints>
@@ -13336,6 +13336,10 @@ by 1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
+              <constraints>
+                <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="9442-5796-9f96-9371"/>
+                <constraint type="min" value="9" field="selections" scope="parent" shared="true" id="766a-e978-93b1-59ad"/>
+              </constraints>
             </selectionEntry>
           </selectionEntries>
           <constraints>
@@ -13795,6 +13799,10 @@ by 1.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
+              <constraints>
+                <constraint type="min" value="2" field="selections" scope="parent" shared="true" id="0d70-4ad0-056c-18df"/>
+                <constraint type="min" value="9" field="selections" scope="parent" shared="true" id="0fee-bf8e-888a-8bee"/>
+              </constraints>
             </selectionEntry>
           </selectionEntries>
           <constraints>
