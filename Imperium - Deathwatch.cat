@@ -6221,7 +6221,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
       <selectionEntryGroups>
         <selectionEntryGroup name="4-5 Devastators" id="9bf7-50e5-2859-c90a" hidden="false" sortIndex="2">
           <selectionEntries>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ boltgun" hidden="false" id="93d1-f1fb-b535-2988">
+            <selectionEntry type="model" import="true" name="Devastator w/ boltgun" hidden="false" id="93d1-f1fb-b535-2988">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="439d-02a7-fae8-a956" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="9817-1b9d-7f2d-1cf8" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6243,7 +6243,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="59c9-1a1c-f2d6-ecc9"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ grav-cannon" hidden="false" id="ba4e-d48b-172c-2184">
+            <selectionEntry type="model" import="true" name="Devastator w/ grav-cannon" hidden="false" id="ba4e-d48b-172c-2184">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="2aed-58ab-b006-f6d8" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="fe12-d2e0-a7ed-2685" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6265,7 +6265,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="fd92-012b-4598-2b6e"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ heavy bolter" hidden="false" id="c851-778d-052a-d4c1">
+            <selectionEntry type="model" import="true" name="Devastator w/ heavy bolter" hidden="false" id="c851-778d-052a-d4c1">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="2640-1883-1468-2857" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="d2e1-21b4-66e7-772e" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6287,7 +6287,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="0f72-cba2-14a3-f948"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ infernus heavy bolter" hidden="false" id="88fe-68e4-81ff-0d45">
+            <selectionEntry type="model" import="true" name="Devastator w/ infernus heavy bolter" hidden="false" id="88fe-68e4-81ff-0d45">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="fda1-cc9f-2adf-3aac" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="61f9-79ab-1e91-e50c" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6309,7 +6309,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="50ee-d92d-82d1-485d"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ lascannon" hidden="false" id="17da-4be3-1ef7-11e8">
+            <selectionEntry type="model" import="true" name="Devastator w/ lascannon" hidden="false" id="17da-4be3-1ef7-11e8">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="c928-4568-fa23-fb84" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="321a-c99b-0e5b-0aef" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6331,7 +6331,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="ad77-b667-d1c9-0b2b"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ heavy flamer" hidden="false" id="f10e-e691-0312-be9d">
+            <selectionEntry type="model" import="true" name="Devastator w/ heavy flamer" hidden="false" id="f10e-e691-0312-be9d">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="3852-767f-b454-2616" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="bbf7-bd02-4d73-2a57" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6353,7 +6353,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="ba8c-bc7a-3a11-0474"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ plasma cannon" hidden="false" id="b567-dc0a-23e5-7003">
+            <selectionEntry type="model" import="true" name="Devastator w/ plasma cannon" hidden="false" id="b567-dc0a-23e5-7003">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="7c43-e6fa-9a1f-44db" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="6c8a-d670-c1b2-fd29" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6375,7 +6375,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="1edd-2c5f-c003-2139"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ multi-melta" hidden="false" id="f3d7-c7b8-412e-ef40">
+            <selectionEntry type="model" import="true" name="Devastator w/ multi-melta" hidden="false" id="f3d7-c7b8-412e-ef40">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="385a-7fd8-c12d-31f1" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="d533-df2d-d6bb-4189" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6397,7 +6397,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="5" field="selections" scope="parent" shared="true" id="56be-5b0b-4f17-5f38"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ frag cannon" hidden="false" id="fba2-1bf9-99e5-733c">
+            <selectionEntry type="model" import="true" name="Devastator w/ frag cannon" hidden="false" id="fba2-1bf9-99e5-733c">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="3afa-e0dc-4eba-1847" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="7542-3d90-70d7-58f0" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
@@ -6419,7 +6419,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 <constraint type="max" value="2" field="selections" scope="parent" shared="true" id="0009-af99-41d3-1906"/>
               </constraints>
             </selectionEntry>
-            <selectionEntry type="upgrade" import="true" name="Devastator w/ missile launcher" hidden="false" id="e561-af78-b953-ab51">
+            <selectionEntry type="model" import="true" name="Devastator w/ missile launcher" hidden="false" id="e561-af78-b953-ab51">
               <entryLinks>
                 <entryLink import="true" name="Bolt Pistol" hidden="false" id="5334-4305-dc8e-d971" type="selectionEntry" targetId="18b0-8c2-173f-5"/>
                 <entryLink import="true" name="Close combat weapon" hidden="false" id="76fe-58c2-ab32-2353" type="selectionEntry" targetId="2078-20a8-181f-a708"/>
