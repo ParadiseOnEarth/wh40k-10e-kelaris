@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="7392-3a7f-8e0d-0056" name="Chaos - Death Guard" revision="95" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="7392-3a7f-8e0d-0056" name="Chaos - Death Guard (Homebrew)" revision="97" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue">
   <catalogueLinks>
     <catalogueLink id="9fec-b3ad-9626-6706" name="Chaos - Chaos Knights Library" targetId="2117-ca93-b0db-7a1b" type="catalogue" importRootEntries="true"/>
     <catalogueLink type="catalogue" name="Library - Astartes Heresy Legends" id="ff65-1828-b2a0-477" targetId="fe34-fc04-bdd3-847c" importRootEntries="true"/>
@@ -11,14 +11,14 @@
     <entryLink import="true" name="Daemon Prince of Nurgle" hidden="false" type="selectionEntry" id="8ea0-48a3-68f8-ee6a" targetId="4cb3-e6b6-4e82-23bf"/>
     <entryLink import="true" name="Daemon Prince of Nurgle with wings" hidden="false" type="selectionEntry" id="45d5-2e84-1f02-4fd4" targetId="f4d7-244d-16c4-f2f3"/>
     <entryLink import="true" name="Typhus" hidden="false" type="selectionEntry" id="17ec-2b07-8c4c-cf1" targetId="e6a4-7055-fd23-5123"/>
-    <entryLink import="true" name="Death Guard Chaos Lord" hidden="false" type="selectionEntry" id="8d8b-5cae-1e6a-1ddb" targetId="cfc1-1741-530c-3335"/>
-    <entryLink import="true" name="Death Guard Chaos Lord in Terminator Armour" hidden="false" type="selectionEntry" id="1524-f7fd-4838-ffd7" targetId="bacc-4f1-649-a051"/>
+    <entryLink import="true" name="Death Guard Chaos Lord [Legends]" hidden="false" type="selectionEntry" id="8d8b-5cae-1e6a-1ddb" targetId="cfc1-1741-530c-3335"/>
+    <entryLink import="true" name="Death Guard Chaos Lord in Terminator Armour [Legends]" hidden="false" type="selectionEntry" id="1524-f7fd-4838-ffd7" targetId="bacc-4f1-649-a051"/>
     <entryLink import="true" name="Lord of Virulence" hidden="false" type="selectionEntry" id="af3-b43-7cc8-c165" targetId="c15c-2b5a-dcab-7627"/>
     <entryLink import="true" name="Lord of Contagion" hidden="false" type="selectionEntry" id="10a1-5896-98da-8c7c" targetId="8700-3d3-efbb-ef8d"/>
-    <entryLink import="true" name="Death Guard Sorcerer in Terminator Armour" hidden="false" type="selectionEntry" id="9414-da22-4118-5ac3" targetId="93ac-1b31-4238-d60e"/>
+    <entryLink import="true" name="Death Guard Sorcerer in Terminator Armour [Legends]" hidden="false" type="selectionEntry" id="9414-da22-4118-5ac3" targetId="93ac-1b31-4238-d60e"/>
     <entryLink import="true" name="Malignant Plaguecaster" hidden="false" type="selectionEntry" id="83ad-afe0-9ee9-d7e5" targetId="9900-77d7-10e3-5c91"/>
     <entryLink import="true" name="Plague Marines" hidden="false" type="selectionEntry" id="7ff5-9b50-8c58-b32e" targetId="8467-b3a2-2597-de0d"/>
-    <entryLink import="true" name="Death Guard Cultists" hidden="false" type="selectionEntry" id="7669-5b4f-29dc-73f5" targetId="d579-88cd-c634-f800"/>
+    <entryLink import="true" name="Death Guard Cultists [Legends]" hidden="false" type="selectionEntry" id="7669-5b4f-29dc-73f5" targetId="d579-88cd-c634-f800"/>
     <entryLink import="true" name="Poxwalkers" hidden="false" type="selectionEntry" id="87a0-216e-215b-d3c8" targetId="7c30-1e92-2faa-eb03"/>
     <entryLink import="true" name="Noxious Blightbringer" hidden="false" type="selectionEntry" id="3bac-3a12-8a6e-eaa5" targetId="1ffc-27de-8aea-e7bb"/>
     <entryLink import="true" name="Foul Blightspawn" hidden="false" type="selectionEntry" id="b47b-dec2-17a8-fc18" targetId="c88f-d4dc-84b3-1b31"/>
@@ -40,7 +40,7 @@
     <entryLink import="true" name="Mortarion" hidden="false" type="selectionEntry" id="4109-85ad-cf45-d294" targetId="f5ac-4f37-fe7b-36b6"/>
     <entryLink import="true" name="Icon Bearer" hidden="false" type="selectionEntry" id="9d60-2b6f-4b65-7d62" targetId="3e5b-23db-4ccd-ea97"/>
     <entryLink import="true" name="Miasmic Malignifier" hidden="false" type="selectionEntry" id="153c-aeaf-664f-2c67" targetId="55c7-e5b8-9737-f58e"/>
-    <entryLink import="true" name="Kratos [Legends]" hidden="false" type="selectionEntry" id="cd07-156e-de4e-d99d" targetId="78aa-3f99-5fb7-7f83">
+    <entryLink import="true" name="Kratos" hidden="false" type="selectionEntry" id="cd07-156e-de4e-d99d" targetId="78aa-3f99-5fb7-7f83">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="d41c-cba2-f803-2aca" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="ff2d-7111-9879-f7f0" primary="false" name="Chaos"/>
@@ -224,7 +224,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Relic Contemptor Dreadnought [Legends]" hidden="false" type="selectionEntry" id="c3b2-b8eb-da6b-b5ce" targetId="783a-1c02-b377-b169">
+    <entryLink import="true" name="Relic Contemptor Dreadnought" hidden="false" type="selectionEntry" id="c3b2-b8eb-da6b-b5ce" targetId="783a-1c02-b377-b169">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="e088-c4c7-3958-5257" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="627d-38f7-669-fc9e" primary="false" name="Chaos"/>
@@ -316,7 +316,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Deredeo Dreadnought [Legends]" hidden="false" type="selectionEntry" id="874-93d4-cf01-d8c2" targetId="d38d-c3a2-f753-efea">
+    <entryLink import="true" name="Deredeo Dreadnought" hidden="false" type="selectionEntry" id="874-93d4-cf01-d8c2" targetId="d38d-c3a2-f753-efea">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="7bd0-587f-3c59-a6fc" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="c8ff-10f8-d902-aa7e" primary="false" name="Chaos"/>
@@ -405,7 +405,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Leviathan Dreadnought [Legends]" hidden="false" type="selectionEntry" id="a04e-a182-f224-cc6d" targetId="14d4-8062-f090-6719">
+    <entryLink import="true" name="Leviathan Dreadnought" hidden="false" type="selectionEntry" id="a04e-a182-f224-cc6d" targetId="14d4-8062-f090-6719">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="3050-c51d-2b19-c210" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="11b0-3f70-d158-de7a" primary="false" name="Chaos"/>
@@ -589,7 +589,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Land Raider Achilles [Legends]" hidden="false" type="selectionEntry" id="3fa3-123a-8f1a-52b9" targetId="3006-ffe-2b0c-6b1b">
+    <entryLink import="true" name="Land Raider Achilles" hidden="false" type="selectionEntry" id="3fa3-123a-8f1a-52b9" targetId="3006-ffe-2b0c-6b1b">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="b148-791c-7978-24df" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="c5c9-7f88-7110-5ace" primary="false" name="Chaos"/>
@@ -957,7 +957,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Rapier Carrier [Legends]" hidden="false" type="selectionEntry" id="bb72-b9ec-9abf-a651" targetId="2aee-e03c-836e-4c6e">
+    <entryLink import="true" name="Rapier Carrier" hidden="false" type="selectionEntry" id="bb72-b9ec-9abf-a651" targetId="2aee-e03c-836e-4c6e">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="6c1b-9bd7-1895-ea71" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="8839-7d9a-c411-843f" primary="false" name="Chaos"/>
@@ -1049,7 +1049,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Whirlwind Scorpius [Legends]" hidden="false" type="selectionEntry" id="a59-50b-2a6b-98ee" targetId="97dc-f0c8-1354-88fb">
+    <entryLink import="true" name="Whirlwind Scorpius" hidden="false" type="selectionEntry" id="a59-50b-2a6b-98ee" targetId="97dc-f0c8-1354-88fb">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="c2f6-d317-1605-63f" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="1fa1-48ba-968f-c020" primary="false" name="Chaos"/>
@@ -1229,7 +1229,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Xiphon Interceptor [Legends]" hidden="false" type="selectionEntry" id="2d20-4f52-c14d-a532" targetId="1aa5-d081-2442-4c37">
+    <entryLink import="true" name="Xiphon Interceptor" hidden="false" type="selectionEntry" id="2d20-4f52-c14d-a532" targetId="1aa5-d081-2442-4c37">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="7500-f101-e482-c5a2" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="b844-2caf-f947-7fc2" primary="false" name="Chaos"/>
@@ -1321,7 +1321,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Storm Eagle Gunship [Legends]" hidden="false" type="selectionEntry" id="d5ad-77b7-25ef-2a85" targetId="3b7d-b14e-603-e1ad">
+    <entryLink import="true" name="Storm Eagle Gunship" hidden="false" type="selectionEntry" id="d5ad-77b7-25ef-2a85" targetId="3b7d-b14e-603-e1ad">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="7eeb-997a-e807-1680" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="fa84-811c-3e14-72dc" primary="false" name="Chaos"/>
@@ -1413,7 +1413,7 @@
         </modifier>
       </modifiers>
     </entryLink>
-    <entryLink import="true" name="Fire Raptor Gunship [Legends]" hidden="false" type="selectionEntry" id="5a24-5d3b-949f-984c" targetId="1fc7-7880-e4d4-acbf">
+    <entryLink import="true" name="Fire Raptor Gunship" hidden="false" type="selectionEntry" id="5a24-5d3b-949f-984c" targetId="1fc7-7880-e4d4-acbf">
       <categoryLinks>
         <categoryLink targetId="9888-ddb2-a141-6037" id="ff8b-93ef-b1d8-7e79" primary="false" name="Faction: Death Guard"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="5c7e-158e-12d2-9cdf" primary="false" name="Chaos"/>

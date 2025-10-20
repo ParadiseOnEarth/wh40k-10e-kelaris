@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="062e-2375-a96a-6b1d" name="Chaos - Thousand Sons" revision="90" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="062e-2375-a96a-6b1d" name="Chaos - Thousand Sons (Homebrew)" revision="93" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue">
   <publications>
     <publication id="015a-6212-d737-9044" name="Index - Thousand Sons"/>
   </publications>
@@ -234,7 +234,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Kratos [Legends]" hidden="false" type="selectionEntry" id="bf31-6313-ef6f-92a2" targetId="78aa-3f99-5fb7-7f83">
+    <entryLink import="true" name="Kratos" hidden="false" type="selectionEntry" id="bf31-6313-ef6f-92a2" targetId="78aa-3f99-5fb7-7f83">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="91bd-aaac-19f7-854c" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="d83-aad3-9990-e0b2" primary="false" name="Chaos"/>
@@ -398,7 +398,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Deredeo Dreadnought [Legends]" hidden="false" type="selectionEntry" id="52ff-2d98-cbb6-a38f" targetId="d38d-c3a2-f753-efea">
+    <entryLink import="true" name="Deredeo Dreadnought" hidden="false" type="selectionEntry" id="52ff-2d98-cbb6-a38f" targetId="d38d-c3a2-f753-efea">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="6e8e-222-c3c8-435b" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="5f70-686-e11a-3060" primary="false" name="Chaos"/>
@@ -480,7 +480,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Relic Contemptor Dreadnought [Legends]" hidden="false" type="selectionEntry" id="2c93-c337-c4f0-e3c6" targetId="783a-1c02-b377-b169">
+    <entryLink import="true" name="Relic Contemptor Dreadnought" hidden="false" type="selectionEntry" id="2c93-c337-c4f0-e3c6" targetId="783a-1c02-b377-b169">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="9272-1d2e-432d-68c3" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="f15a-765e-339b-b6a" primary="false" name="Chaos"/>
@@ -562,7 +562,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Leviathan Dreadnought [Legends]" hidden="false" type="selectionEntry" id="c0d7-3b1b-480a-3692" targetId="14d4-8062-f090-6719">
+    <entryLink import="true" name="Leviathan Dreadnought" hidden="false" type="selectionEntry" id="c0d7-3b1b-480a-3692" targetId="14d4-8062-f090-6719">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="842b-f995-826f-9e2b" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="f4e0-7586-f847-cc43" primary="false" name="Chaos"/>
@@ -726,7 +726,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Land Raider Achilles [Legends]" hidden="false" type="selectionEntry" id="8468-f7fa-78b-466e" targetId="3006-ffe-2b0c-6b1b">
+    <entryLink import="true" name="Land Raider Achilles" hidden="false" type="selectionEntry" id="8468-f7fa-78b-466e" targetId="3006-ffe-2b0c-6b1b">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="4590-13c6-4a11-b25a" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="7fa2-d6ff-a0cc-5160" primary="false" name="Chaos"/>
@@ -1054,7 +1054,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Rapier Carrier [Legends]" hidden="false" type="selectionEntry" id="26c2-72ff-ff15-cd" targetId="2aee-e03c-836e-4c6e">
+    <entryLink import="true" name="Rapier Carrier" hidden="false" type="selectionEntry" id="26c2-72ff-ff15-cd" targetId="2aee-e03c-836e-4c6e">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="70ed-aa4f-2a06-b321" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="9d62-ca5f-3647-f7cb" primary="false" name="Chaos"/>
@@ -1136,7 +1136,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Whirlwind Scorpius [Legends]" hidden="false" type="selectionEntry" id="3d73-b555-e3e8-8100" targetId="97dc-f0c8-1354-88fb">
+    <entryLink import="true" name="Whirlwind Scorpius" hidden="false" type="selectionEntry" id="3d73-b555-e3e8-8100" targetId="97dc-f0c8-1354-88fb">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="897b-3a35-4309-bebf" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="53ca-4c17-5d1f-95a2" primary="false" name="Chaos"/>
@@ -1218,7 +1218,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Xiphon Interceptor [Legends]" hidden="false" type="selectionEntry" id="cb23-5079-6be1-c843" targetId="1aa5-d081-2442-4c37">
+    <entryLink import="true" name="Xiphon Interceptor" hidden="false" type="selectionEntry" id="cb23-5079-6be1-c843" targetId="1aa5-d081-2442-4c37">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="440e-980a-9e0e-95d8" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="247a-2e26-7a2b-afa4" primary="false" name="Chaos"/>
@@ -1300,7 +1300,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Storm Eagle Gunship [Legends]" hidden="false" type="selectionEntry" id="a198-c51c-c245-aebe" targetId="3b7d-b14e-603-e1ad">
+    <entryLink import="true" name="Storm Eagle Gunship" hidden="false" type="selectionEntry" id="a198-c51c-c245-aebe" targetId="3b7d-b14e-603-e1ad">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="f565-da0e-77b3-e508" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="95ff-e14b-f292-23b0" primary="false" name="Chaos"/>
@@ -1382,7 +1382,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Fire Raptor Gunship [Legends]" hidden="false" type="selectionEntry" id="3082-c9fe-b2b6-2594" targetId="1fc7-7880-e4d4-acbf">
+    <entryLink import="true" name="Fire Raptor Gunship" hidden="false" type="selectionEntry" id="3082-c9fe-b2b6-2594" targetId="1fc7-7880-e4d4-acbf">
       <categoryLinks>
         <categoryLink targetId="7002-1fbb-7571-e8e7" id="62a0-fb26-e824-7ee5" primary="false" name="Faction: Thousand Sons"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="2c49-e895-b3bd-c5af" primary="false" name="Chaos"/>

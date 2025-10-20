@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="5afb-751c-19a8-84de" name="Chaos - World Eaters" revision="93" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" id="5afb-751c-19a8-84de" name="Chaos - World Eaters (Homebrew)" revision="95" battleScribeVersion="2.03" library="false" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" type="catalogue">
   <profileTypes>
     <profileType id="02a0-fa96-6f9b-354f" name="Wrathful Presence">
       <characteristicTypes>
@@ -277,7 +277,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Deredeo Dreadnought [Legends]" hidden="false" type="selectionEntry" id="e86a-63b2-d572-270b" targetId="d38d-c3a2-f753-efea">
+    <entryLink import="true" name="Deredeo Dreadnought" hidden="false" type="selectionEntry" id="e86a-63b2-d572-270b" targetId="d38d-c3a2-f753-efea">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="a4a4-df02-189d-8e73" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="cf2d-eb8d-b77-e859" primary="false" name="Chaos"/>
@@ -362,7 +362,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Relic Contemptor Dreadnought [Legends]" hidden="false" type="selectionEntry" id="29d2-ab15-e518-2503" targetId="783a-1c02-b377-b169">
+    <entryLink import="true" name="Relic Contemptor Dreadnought" hidden="false" type="selectionEntry" id="29d2-ab15-e518-2503" targetId="783a-1c02-b377-b169">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="3308-bc8d-58bb-e487" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="fd91-52d2-360a-410b" primary="false" name="Chaos"/>
@@ -702,7 +702,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Rapier Carrier [Legends]" hidden="false" type="selectionEntry" id="ebdf-c9f8-b845-6b8c" targetId="2aee-e03c-836e-4c6e">
+    <entryLink import="true" name="Rapier Carrier" hidden="false" type="selectionEntry" id="ebdf-c9f8-b845-6b8c" targetId="2aee-e03c-836e-4c6e">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="faf5-df04-7b7c-1566" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="591a-bcf4-b0c4-7d77" primary="false" name="Chaos"/>
@@ -787,7 +787,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Whirlwind Scorpius [Legends]" hidden="false" type="selectionEntry" id="b65-c988-9c88-4d4a" targetId="97dc-f0c8-1354-88fb">
+    <entryLink import="true" name="Whirlwind Scorpius" hidden="false" type="selectionEntry" id="b65-c988-9c88-4d4a" targetId="97dc-f0c8-1354-88fb">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="a00b-68fc-13c-7abf" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="a1b6-b642-8ebd-a0c5" primary="false" name="Chaos"/>
@@ -872,7 +872,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Xiphon Interceptor [Legends]" hidden="false" type="selectionEntry" id="4c50-4f0e-eddf-e5aa" targetId="1aa5-d081-2442-4c37">
+    <entryLink import="true" name="Xiphon Interceptor" hidden="false" type="selectionEntry" id="4c50-4f0e-eddf-e5aa" targetId="1aa5-d081-2442-4c37">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="d4fe-87c6-cfba-d8fc" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="dec5-e285-5c37-b463" primary="false" name="Chaos"/>
@@ -1042,7 +1042,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Storm Eagle Gunship [Legends]" hidden="false" type="selectionEntry" id="d13d-e898-e857-1d02" targetId="3b7d-b14e-603-e1ad">
+    <entryLink import="true" name="Storm Eagle Gunship" hidden="false" type="selectionEntry" id="d13d-e898-e857-1d02" targetId="3b7d-b14e-603-e1ad">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="ce38-cc6f-ef5f-a499" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="4158-8064-23b0-7fdb" primary="false" name="Chaos"/>
@@ -1127,7 +1127,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Fire Raptor Gunship [Legends]" hidden="false" type="selectionEntry" id="306-db45-d47c-f0e9" targetId="1fc7-7880-e4d4-acbf">
+    <entryLink import="true" name="Fire Raptor Gunship" hidden="false" type="selectionEntry" id="306-db45-d47c-f0e9" targetId="1fc7-7880-e4d4-acbf">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="e79d-cc39-1757-dc61" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="b686-862f-2706-22fb" primary="false" name="Chaos"/>
@@ -1973,7 +1973,7 @@
     </entryLink>
     <entryLink import="true" name="Hell Talon [Legends]" hidden="false" type="selectionEntry" id="5504-a332-cd26-a84b" targetId="4e04-74aa-2c2f-66d0"/>
     <entryLink import="true" name="Hellblade [Legends]" hidden="false" type="selectionEntry" id="4bc4-284d-9598-a9ec" targetId="7320-3dba-703c-b3f0"/>
-    <entryLink import="true" name="Land Raider Achilles [Legends]" hidden="false" type="selectionEntry" id="1e2d-1a05-ec5-9cbd" targetId="3006-ffe-2b0c-6b1b">
+    <entryLink import="true" name="Land Raider Achilles" hidden="false" type="selectionEntry" id="1e2d-1a05-ec5-9cbd" targetId="3006-ffe-2b0c-6b1b">
       <categoryLinks>
         <categoryLink targetId="4c00-2578-faf5-6918" id="1a4b-605b-d01-2dda" primary="false" name="Chaos"/>
         <categoryLink targetId="4bd-5ee0-f179-2fc5" id="a2e1-42a-bf15-4382" primary="false" name="Khorne"/>
@@ -2137,7 +2137,7 @@
         </modifierGroup>
       </modifierGroups>
     </entryLink>
-    <entryLink import="true" name="Leviathan Dreadnought [Legends]" hidden="false" type="selectionEntry" id="4436-ca5-9f90-df10" targetId="14d4-8062-f090-6719">
+    <entryLink import="true" name="Leviathan Dreadnought" hidden="false" type="selectionEntry" id="4436-ca5-9f90-df10" targetId="14d4-8062-f090-6719">
       <categoryLinks>
         <categoryLink targetId="4c00-2578-faf5-6918" id="1d7a-bd15-4517-9b08" primary="false" name="Chaos"/>
         <categoryLink targetId="4bd-5ee0-f179-2fc5" id="dff-7090-cb8a-11d5" primary="false" name="Khorne"/>
@@ -2225,7 +2225,7 @@
         <entryLink import="true" name="Show Titans" hidden="false" type="selectionEntry" id="7584-2768-a9d9-7a78" targetId="f26b-79db-80e0-3a3b"/>
       </entryLinks>
     </entryLink>
-    <entryLink import="true" name="Kratos [Legends]" hidden="false" type="selectionEntry" id="20a6-a58b-37a3-6db7" targetId="78aa-3f99-5fb7-7f83">
+    <entryLink import="true" name="Kratos" hidden="false" type="selectionEntry" id="20a6-a58b-37a3-6db7" targetId="78aa-3f99-5fb7-7f83">
       <categoryLinks>
         <categoryLink targetId="bd1d-c1a5-6ca2-c791" id="cf6d-6973-2145-4c0a" primary="false" name="Faction: World Eaters"/>
         <categoryLink targetId="4c00-2578-faf5-6918" id="b224-9be7-4603-4ce5" primary="false" name="Chaos"/>
