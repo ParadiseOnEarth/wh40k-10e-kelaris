@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="da04-805b-9fa5-26e7" name="Imperium - Adeptus Astartes - Black Templars" gameSystemId="eaf8-d2ba-045e-07d4" gameSystemRevision="1" revision="51" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="da04-805b-9fa5-26e7" name="Imperium - Adeptus Astartes - Black Templars" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" revision="51" battleScribeVersion="2.03" type="catalogue" authorName="Acebaur">
   <catalogueLinks>
     <catalogueLink type="catalogue" name="Imperium - Space Marines" id="2137-605d-109a-d3b2" targetId="62ba-988a-e3f0-4401" importRootEntries="true"/>
   </catalogueLinks>
