@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="652f-c6c3-a00f-7244" name="Imperium - Ordo Xenos (Homebrew)" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" revision="59" battleScribeVersion="2.03" type="catalogue">
+<catalogue xmlns="http://www.battlescribe.net/schema/catalogueSchema" library="false" id="652f-c6c3-a00f-7244" name="Imperium - Ordo Xenos (Homebrew)" gameSystemId="sys-352e-adc2-7639-d6a9" gameSystemRevision="1" revision="60" battleScribeVersion="2.03" type="catalogue">
   <sharedSelectionEntryGroups>
     <selectionEntryGroup name="Terminator Heavy Weapons" hidden="false" id="77ef-f5b6-e6bc-7618" defaultSelectionEntryId="8259-a28d-949-b4fa">
       <constraints>
@@ -7856,6 +7856,9 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
     <entryLink import="true" name="Talonstrike Kill Team [Primaris]" hidden="false" id="3fda-b554-1ac7-a635" type="selectionEntry" targetId="c679-f252-32b1-ebcc"/>
     <entryLink import="false" name="Kill Team Cassius [Legends]" hidden="false" type="selectionEntry" id="397d-bee7-cd5d-467f" targetId="4042-67ce-8d45-ed33"/>
     <entryLink import="false" name="Deathwatch Devastator Squad" hidden="false" type="selectionEntry" id="65e1-12f9-ca20-f9a7" targetId="edbf-0c8d-902a-b293"/>
+    <entryLink import="false" name="Inquisitorial Acolytes" hidden="false" type="selectionEntry" id="51dc-9f77-aa1e-3971" targetId="a84e-0e8e-3218-c682"/>
+    <entryLink import="false" name="Inquisitorial Chimera" hidden="false" type="selectionEntry" id="428f-ca18-96f5-ab25" targetId="0c1b-4d5a-0bcb-ed9e"/>
+    <entryLink import="false" name="Inquisitor" hidden="false" type="selectionEntry" id="756a-9d79-98e3-88a8" targetId="b7e3-7311-70d5-cfce"/>
   </entryLinks>
   <sharedProfiles>
     <profile name="Power Fist" hidden="false" id="27b9-ba9e-95a5-a6" typeName="Melee Weapons" publicationId="4115-3627-e608-39f6" page="16" typeId="8a40-4aaa-c780-9046">
