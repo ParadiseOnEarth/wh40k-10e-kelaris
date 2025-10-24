@@ -22557,7 +22557,7 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         </profile>
         <profile name="Transport" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="a232-6e38-a6ef-b5f4">
           <characteristics>
-            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model has a transport capacity of 12 Adeptus Astartes Infantry models. It cannot transport Jump Pack, Wulfen, Gravis, Centurion or Terminator models.</characteristic>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">This model has a transport capacity of 12 Adeptus Astartes Infantry or 1 Dreadnought models. It cannot transport Jump Pack, Wulfen, Gravis, Centurion or Terminator models.</characteristic>
           </characteristics>
         </profile>
         <profile name="Combat Disembarkation" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="07a4-673e-7ec8-2fb5">
@@ -22568,6 +22568,11 @@ Normal move. If it does so, until the end of the turn, this unit is not eligible
         <profile name="Deployment Complete" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="4d36-b9ac-2aa9-b06f">
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">Once this unit is set up on the battlefield and all units within it have disembarked, until the end of the battle, units cannot embark within this TRANSPORT</characteristic>
+          </characteristics>
+        </profile>
+        <profile name="Inertial Guidance System" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="9fbf-123d-50e7-8820">
+          <characteristics>
+            <characteristic name="Description" typeId="9b8f-694b-e5e-b573">If a Drop Pod scatters on top of impassable terrain or another model (friend or foe), reduce the scatter distance by the minimum required in order to avoid the obstacle.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -28175,7 +28180,7 @@ You can attach this model to one of the above units even if one Captain, Chapte
     </selectionEntry>
     <selectionEntry type="unit" import="true" name="Command Squad" hidden="false" id="78ae-14b4-56d0-cc9d">
       <costs>
-        <cost name="pts" typeId="51b2-306e-1021-d207" value="105"/>
+        <cost name="pts" typeId="51b2-306e-1021-d207" value="140"/>
         <cost name="Crusade Points" typeId="b03b-c239-15a5-da55" value="0"/>
         <cost name="Crusade: Battle Honours" typeId="75bb-ded1-c86d-bdf0" value="0"/>
         <cost name="Crusade: Experience" typeId="a623-fe74-1d33-cddf" value="0"/>
@@ -28205,6 +28210,11 @@ You can attach this model to one of the above units even if one Captain, Chapte
         <modifier type="set" value="true" field="hidden">
           <conditions>
             <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="3d61-bbc8-d050-ce61" shared="true"/>
+          </conditions>
+        </modifier>
+        <modifier type="set" value="true" field="hidden">
+          <conditions>
+            <condition type="instanceOf" value="1" field="selections" scope="primary-catalogue" childId="652f-c6c3-a00f-7244" shared="true"/>
           </conditions>
         </modifier>
       </modifiers>
