@@ -5197,9 +5197,9 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
         <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="5ffa-5062-1281-7a01" includeChildSelections="false"/>
       </constraints>
     </selectionEntry>
-    <selectionEntry type="upgrade" import="true" name="Astartes shield" hidden="false" id="b547-440b-71ea-f424" collective="true">
+    <selectionEntry type="upgrade" import="true" name="Astartes Shield" hidden="false" id="b547-440b-71ea-f424" collective="true">
       <profiles>
-        <profile name="Astartes shield" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="71e1-9a9b-58e8-3849">
+        <profile name="Astartes Shield" typeId="9cc3-6d83-4dd3-9b64" typeName="Abilities" hidden="false" id="71e1-9a9b-58e8-3849">
           <characteristics>
             <characteristic name="Description" typeId="9b8f-694b-e5e-b573">The bearer has a 4+ invulnerable save.</characteristic>
           </characteristics>
@@ -8130,7 +8130,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
                 </selectionEntry>
                 <selectionEntry type="model" import="true" name="Veteran w/ Astartes shield and boltgun" hidden="false" id="475a-9913-4a39-1c44" publicationId="4115-3627-e608-39f6" page="13">
                   <entryLinks>
-                    <entryLink import="true" name="Astartes shield" hidden="false" id="38ac-98b0-b9e7-22b8" type="selectionEntry" targetId="b547-440b-71ea-f424"/>
+                    <entryLink import="true" name="Astartes Shield" hidden="false" id="38ac-98b0-b9e7-22b8" type="selectionEntry" targetId="b547-440b-71ea-f424"/>
                     <entryLink import="true" name="Close combat weapon" hidden="false" id="b27f-57de-5921-d37e" type="selectionEntry" targetId="2078-20a8-181f-a708">
                       <constraints>
                         <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="76c3-b84f-04b6-52f7"/>

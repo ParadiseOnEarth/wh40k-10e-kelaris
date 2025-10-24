@@ -7618,6 +7618,10 @@ Strategic Reserves.</characteristic>
                   <entryLinks>
                     <entryLink import="true" name="Weapon Modifications" hidden="false" id="694c-9e6a-3750-2805" type="selectionEntryGroup" targetId="f9da-852a-d7f0-92e9"/>
                   </entryLinks>
+                  <constraints>
+                    <constraint type="min" value="1" field="selections" scope="parent" shared="true" id="9ea8-9924-9d8f-4782"/>
+                    <constraint type="max" value="1" field="selections" scope="parent" shared="true" id="587d-1e33-aa8e-1b1d"/>
+                  </constraints>
                 </entryLink>
               </entryLinks>
               <profiles>
