@@ -8053,7 +8053,7 @@ If this unit has a Leader unit attached to it during the Declare Battle Formatio
           <selectionEntryGroups>
             <selectionEntryGroup name="Deathwatch Veterans" id="bdb1-db7d-767b-e8d2" hidden="false" defaultSelectionEntryId="ba3d-91bd-62a4-44ec">
               <selectionEntries>
-                <selectionEntry type="model" import="true" name="Veteran w/ boltgun and power weapon" hidden="false" id="6fe7-6f04-32b7-e132" publicationId="4115-3627-e608-39f6" page="13">
+                <selectionEntry type="model" import="true" name="Veteran w/ boltgun and power weapon" hidden="false" id="6fe7-6f04-32b7-e132" publicationId="4115-3627-e608-39f6" page="13" defaultAmount="3">
                   <entryLinks>
                     <entryLink import="true" name="Power weapon" hidden="false" id="5718-0070-d5f7-7cea" type="selectionEntry" targetId="eca6-624b-8c87-5d69">
                       <constraints>
